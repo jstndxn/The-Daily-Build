@@ -7,143 +7,194 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400..700;1,6..72,400..600&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Domine:wght@400..700&family=Gelasio:ital,wght@0,400..700;1,400..700&family=Libre+Franklin:wght@400..800&family=UnifrakturMaguntia&display=swap" rel="stylesheet">
 <style>
+  /* Type: licensed faces are named first so they're used wherever they're installed;
+     the free stand-ins load from Google Fonts everywhere else. */
   :root {
-    --paper: #F6F5F1;
-    --ink: #1B1A18;
-    --muted: #625E57;
-    --rule: #CDC9C0;
-    --accent: #8A2A1E;
-    --display: "Old Standard TT", "Georgia", "Times New Roman", serif;
-    --text: "Newsreader", "Iowan Old Style", "Georgia", serif;
+    --nameplate: "Engravers Old English BT", "Engravers' Old English BT", "UnifrakturMaguntia", serif;
+    --headline: "ITC Cheltenham", "Cheltenham", "Domine", Georgia, serif;
+    --body: Georgia, "Gelasio", "Times New Roman", serif;
+    --sans: "ITC Franklin Gothic", "Franklin Gothic", "Libre Franklin", "Helvetica Neue", Arial, sans-serif;
+
+    --paper: #FFFFFF;
+    --ink: #121212;
+    --muted: #5A5A5A;
+    --rule: #DFDFDF;
+    --heavy: #121212;
+    --gutter: 1.25rem;
     color-scheme: light;
   }
   @media (prefers-color-scheme: dark) {
-    :root {
-      --paper: #17171A;
-      --ink: #E9E6DF;
-      --muted: #A39E94;
-      --rule: #3B3A37;
-      --accent: #E0907F;
-      color-scheme: dark;
-    }
+    :root { --paper: #121212; --ink: #EBEBEB; --muted: #A8A8A8; --rule: #353535; --heavy: #EBEBEB; color-scheme: dark; }
   }
   * { box-sizing: border-box; }
   html { scroll-padding-top: env(safe-area-inset-top, 0px); }
   body {
-    margin: 0;
-    background: var(--paper);
-    color: var(--ink);
-    font: 400 1.0625rem/1.55 var(--text);
-    font-optical-sizing: auto;
+    margin: 0; background: var(--paper); color: var(--ink);
+    font: 400 1rem/1.5 var(--body);
     padding: env(safe-area-inset-top, 0px) 0 env(safe-area-inset-bottom, 0px);
-    -webkit-font-smoothing: antialiased;
+    -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility;
   }
   a { color: inherit; text-decoration: none; }
-  a:hover { color: var(--accent); }
-  a:focus-visible, button:focus-visible, select:focus-visible {
-    outline: 2px solid var(--accent); outline-offset: 2px;
-  }
-  .page { max-width: 76rem; margin: 0 auto; padding: 0 clamp(1rem, 4vw, 2.5rem) 3rem; }
+  a:hover h2, a:hover h3, h2 a:hover, h3 a:hover, .heads a:hover { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+  a:focus-visible, button:focus-visible, select:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+  .page { max-width: 77.5rem; margin: 0 auto; padding: 0 clamp(.9rem, 3vw, 1.75rem) 3rem; }
 
-  /* masthead */
-  .masthead { text-align: center; padding-top: 1.25rem; }
-  .ears { display: flex; justify-content: space-between; gap: 1rem; font-style: italic; font-size: .8125rem; color: var(--muted); }
-  .title {
-    font-family: var(--display); font-weight: 700;
-    font-size: clamp(2.75rem, 10vw, 6.25rem);
-    line-height: 1; letter-spacing: -.02em;
-    margin: .6rem 0 .35rem;
-  }
-  .motto { font-style: italic; color: var(--muted); margin: 0 auto .9rem; max-width: 34em; font-size: .9375rem; }
-  .dateline {
-    display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 1rem;
-    border-top: 1px solid var(--ink); border-bottom: 3px double var(--ink);
-    padding: .4rem 0; font-size: .875rem;
-  }
-  .dateline .d { font-weight: 600; }
-  .dateline .l { text-align: left; color: var(--muted); }
-  .dateline .r { text-align: right; color: var(--muted); }
-  .desks { display: flex; justify-content: center; flex-wrap: wrap; gap: .25rem 1.75rem; padding: .55rem 0; border-bottom: 1px solid var(--rule); }
-  .desks button {
-    font: 500 .9375rem var(--text); color: var(--ink); background: none; border: 0; padding: .2rem 0; cursor: pointer;
-  }
-  .desks button:hover { color: var(--accent); }
+  /* ---------- masthead ---------- */
+  .mast { display: grid; grid-template-columns: 1fr auto 1fr; align-items: end; gap: 1rem; padding-top: 1.1rem; }
+  .mast-l, .mast-r { font: 400 .75rem/1.4 var(--sans); padding-bottom: .9rem; }
+  .mast-l strong { display: block; font-weight: 700; }
+  .mast-r { text-align: right; color: var(--muted); }
+  .nameplate { font: 400 clamp(2.6rem, 7.4vw, 5rem)/1 var(--nameplate); margin: 0; text-align: center; letter-spacing: .005em; }
+  .motto { grid-column: 1 / -1; text-align: center; font: italic 400 .8125rem var(--body); color: var(--muted); margin: .35rem 0 .6rem; }
+  .menu { display: flex; justify-content: center; flex-wrap: wrap; gap: .15rem 1.6rem; padding: .55rem 0; border-top: 1px solid var(--rule); border-bottom: 1px solid var(--heavy); box-shadow: 0 3px 0 -2px var(--paper), 0 4px 0 -2px var(--heavy); margin-bottom: 1.25rem; }
+  .menu button { font: 500 .8125rem var(--sans); color: var(--ink); background: none; border: 0; padding: .15rem 0; cursor: pointer; }
+  .menu button:hover { text-decoration: underline; text-underline-offset: 3px; }
 
-  /* front page */
-  .front { display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 1fr); gap: 0 2.25rem; padding: 1.75rem 0; border-bottom: 1px solid var(--ink); }
-  .lead .kicker { margin-bottom: .5rem; }
-  .lead h2 {
-    font-family: var(--display); font-weight: 700;
-    font-size: clamp(1.9rem, 4.2vw, 3.1rem); line-height: 1.08; letter-spacing: -.01em;
-    margin: 0 0 .9rem; text-wrap: balance;
-  }
-  .lead .deck { font-size: 1.1875rem; line-height: 1.5; max-width: 34em; }
-  .also { border-left: 1px solid var(--rule); padding-left: 2.25rem; }
-  .also h2 { font: italic 400 1rem var(--text); color: var(--muted); margin: 0 0 .25rem; }
+  /* ---------- shared story parts ---------- */
+  .kicker { font: 700 .6875rem/1.3 var(--sans); letter-spacing: .02em; margin: 0 0 .35rem; color: var(--ink); }
+  .summary { margin: 0 0 .55rem; font-size: .9375rem; line-height: 1.5; color: var(--ink); overflow-wrap: anywhere; }
+  .meta { font: 400 .6875rem/1.45 var(--sans); color: var(--muted); margin: 0; display: flex; flex-wrap: wrap; gap: .1rem .75rem; }
+  .meta b { font-weight: 700; color: var(--ink); font-variant-numeric: tabular-nums lining-nums; }
+  .meta a { text-decoration: underline; text-decoration-color: var(--rule); text-underline-offset: 2px; }
+  .meta + .summary { margin-top: .45rem; }
+  .clamp { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .fig { margin: 0 0 .6rem; }
+  .fig img { display: block; width: 100%; aspect-ratio: 3 / 2; object-fit: cover; background: var(--rule); }
+  .fig figcaption { font: 400 .6875rem/1.35 var(--sans); color: var(--muted); margin-top: .3rem; text-align: right; }
+  .h-xl { font: 700 clamp(1.5rem, 2.05vw, 1.9rem)/1.14 var(--headline); margin: 0 0 .6rem; letter-spacing: -.01em; text-wrap: balance; overflow-wrap: anywhere; }
+  .h-l  { font: 700 1.35rem/1.18 var(--headline); margin: 0 0 .45rem; text-wrap: balance; overflow-wrap: anywhere; }
+  .h-m  { font: 600 1.0625rem/1.25 var(--headline); margin: 0 0 .35rem; text-wrap: pretty; overflow-wrap: anywhere; }
+  .h-s  { font: 600 .9375rem/1.28 var(--headline); margin: 0 0 .3rem; text-wrap: pretty; overflow-wrap: anywhere; }
 
-  /* stories */
-  .story { border-top: 1px solid var(--rule); padding-top: .85rem; min-width: 0; }
-  .also .story:first-of-type { border-top: 0; padding-top: .25rem; }
-  .kicker { font: 600 .8125rem var(--text); font-variant: small-caps; letter-spacing: .04em; color: var(--accent); margin: 0 0 .3rem; }
-  .story h3 { font-family: var(--display); font-weight: 700; font-size: 1.3rem; line-height: 1.2; margin: 0 0 .45rem; text-wrap: balance; overflow-wrap: anywhere; }
-  .story.major h3 { font-size: clamp(1.5rem, 2.6vw, 1.95rem); line-height: 1.12; }
-  .deck { margin: 0 0 .6rem; overflow-wrap: anywhere; }
-  .story .deck { font-size: 1rem; color: var(--ink); }
-  .grid .story:not(.major) .deck, .also .deck { display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
-  .byline { font-size: .875rem; color: var(--muted); margin: 0 0 .25rem; }
-  .tally { font-size: .875rem; color: var(--muted); margin: 0 0 1rem; display: flex; flex-wrap: wrap; align-items: baseline; gap: .15rem .9rem; }
-  .votes { font-family: var(--display); font-weight: 700; color: var(--accent); font-size: 1.05rem; font-variant-numeric: lining-nums tabular-nums; }
-  .lead .votes { font-size: 1.6rem; }
-  .tally a { text-decoration: underline; text-decoration-color: var(--rule); text-underline-offset: 3px; }
+  /* ---------- front page: lead text | lead image | right rail ---------- */
+  .front { display: grid; grid-template-columns: minmax(0, 3.3fr) minmax(0, 4.7fr) minmax(0, 3fr); padding-bottom: .5rem; }
+  .front > * { min-width: 0; }
+  .lead-text { padding-right: var(--gutter); }
+  .lead-text.wide { grid-column: span 2; }
+  .lead-text .summary { font-size: 1rem; }
+  .lead-art { padding: 0 var(--gutter); }
+  .rail { border-left: 1px solid var(--rule); padding-left: var(--gutter); }
+  .more { list-style: none; margin: 1rem 0 0; padding: 0; }
+  .more li { border-top: 1px solid var(--rule); padding: .7rem 0 0; margin-bottom: .7rem; }
+  .rail-story { border-top: 1px solid var(--rule); padding-top: .8rem; margin-top: .8rem; }
+  .rail-story:first-child, .scores + .rail-story { border-top: 0; padding-top: 0; margin-top: 0; }
+  .rail-story .fig img { aspect-ratio: 16 / 9; }
 
-  /* sections */
-  .desk { padding-top: 2.25rem; }
-  .desk-head { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: .25rem 1rem; border-top: 3px solid var(--ink); padding-top: .5rem; margin-bottom: 1rem; }
-  .desk-head h2 { font-family: var(--display); font-weight: 700; font-size: 1.75rem; margin: 0; }
-  .desk-head p { margin: 0; font-size: .875rem; font-style: italic; color: var(--muted); }
-  .desk-head p a { text-decoration: underline; text-decoration-color: var(--rule); text-underline-offset: 3px; }
-  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(15.5rem, 1fr)); gap: 0 2rem; }
-  @media (min-width: 52rem) { .grid .story.major { grid-column: span 2; grid-row: span 2; } }
-  .notice { font-style: italic; color: var(--muted); border-top: 1px solid var(--rule); padding-top: .85rem; max-width: 40em; }
+  .scores { margin-bottom: 1rem; padding-bottom: .8rem; border-bottom: 1px solid var(--rule); font-family: var(--sans); }
+  .scores h2 { font: 700 .75rem var(--sans); margin: 0 0 .35rem; }
+  .scores ul { list-style: none; padding: 0; margin: 0; }
+  .scores li { font-size: .8125rem; padding: .3rem 0; font-variant-numeric: tabular-nums lining-nums; }
+  .scores li + li { border-top: 1px solid var(--rule); }
+  .lead-art .scores { margin-top: 1rem; border-bottom: 0; border-top: 1px solid var(--heavy); padding-top: .5rem; }
+  .lead-art .scores ul { columns: 2; column-gap: var(--gutter); column-rule: 1px solid var(--rule); }
+  .lead-art .scores li { break-inside: avoid; border-top: 0; border-bottom: 1px solid var(--rule); }
+
+  /* ---------- section bands ---------- */
+  .band { padding-top: 1.75rem; }
+  .band-head { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: .2rem 1rem; border-top: 1px solid var(--heavy); padding-top: .45rem; margin-bottom: .9rem; }
+  .band-head h2 { font: 700 1rem var(--sans); margin: 0; }
+  .band-head p { margin: 0; font: 400 .75rem var(--sans); color: var(--muted); }
+  .band-head p a { text-decoration: underline; text-decoration-color: var(--rule); text-underline-offset: 2px; }
+  .cols { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); row-gap: 1rem; }
+  .cols > * { padding: 0 var(--gutter); border-left: 1px solid var(--rule); min-width: 0; }
+  .cols > :first-child { padding-left: 0; border-left: 0; grid-row: span 4; }
+  .cols > :nth-child(3n+1):not(:first-child) { padding-right: var(--gutter); }
+  .cols > :nth-child(3n) { padding-right: 0; }
+  .cols .item { padding-bottom: 1rem; border-bottom: 1px solid var(--rule); }
+  .band-note { margin: .9rem 0 0; font: 400 .6875rem var(--sans); color: var(--muted); }
+  .notice { font: italic .9375rem var(--body); color: var(--muted); max-width: 40em; margin: 0; }
+
+  /* sports cards: same three columns, no spanning */
+  .teams { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); row-gap: 1.25rem; }
+  .team { padding: 0 var(--gutter); border-left: 1px solid var(--rule); min-width: 0; }
+  .team:nth-child(3n+1) { padding-left: 0; border-left: 0; }
+  .team:nth-child(3n) { padding-right: 0; }
+  .team h3 { font: 700 1.2rem/1.2 var(--headline); margin: 0 0 .1rem; }
+  .record { font: 400 .75rem var(--sans); color: var(--muted); margin: 0 0 .55rem; }
+  .games { display: grid; grid-template-columns: auto 1fr; gap: .2rem .7rem; margin: 0 0 .7rem; font: 400 .8125rem/1.4 var(--sans); }
+  .games dt { color: var(--muted); }
+  .games dd { margin: 0; font-variant-numeric: tabular-nums lining-nums; }
+  .res { font-weight: 800; }
+  .res.loss { font-weight: 500; color: var(--muted); }
+  .heads { list-style: none; padding: 0; margin: 0; }
+  .heads li { padding: .5rem 0; border-top: 1px solid var(--rule); overflow-wrap: anywhere; }
+  .heads li a { font: 600 .9375rem/1.3 var(--headline); }
+  .heads .src { display: block; font: 400 .6875rem var(--sans); color: var(--muted); margin-top: .15rem; }
+  .fans-label { margin: .65rem 0 0; font: 700 .6875rem var(--sans); }
+  .quiet { margin: 0; font: italic .875rem var(--body); color: var(--muted); }
+
+  /* paper reader */
+  .reader { width: min(44rem, 94vw); max-height: 88vh; border: 0; padding: 0; background: var(--paper); color: var(--ink); box-shadow: 0 10px 40px rgba(0,0,0,.35); }
+  .reader::backdrop { background: rgba(0, 0, 0, .5); }
+  .reader-inner { padding: 1.6rem clamp(1.1rem, 4vw, 2.2rem) 1.8rem; overflow-y: auto; max-height: 88vh; }
+  .reader-close { position: sticky; top: 0; float: right; margin: -.4rem -.6rem 0 1rem; font: 500 .8125rem var(--sans); color: var(--ink); background: var(--paper); border: 1px solid var(--rule); padding: .3rem .7rem; cursor: pointer; }
+  .reader .h-xl { margin-top: .2rem; }
+  .reader h3 { font: 700 .75rem var(--sans); margin: 1.3rem 0 .4rem; padding-top: .6rem; border-top: 1px solid var(--rule); }
+  .reader .lede { font: 400 1.0625rem/1.6 var(--body); margin: 0; }
+  .reader .lede-note { font: 400 .6875rem var(--sans); color: var(--muted); margin: .45rem 0 0; }
+  .reader details summary { cursor: pointer; font: 700 .75rem var(--sans); margin-top: 1.3rem; padding-top: .6rem; border-top: 1px solid var(--rule); }
+  .reader .abstract { font: 400 .9375rem/1.6 var(--body); margin: .6rem 0 0; }
+  .reader-go { display: inline-block; margin-top: 1.4rem; font: 600 .8125rem var(--sans); color: var(--paper); background: var(--ink); padding: .6rem 1rem; }
+  .reader-go:hover { opacity: .85; }
 
   .edition-notice { text-align: center; padding: 4rem 1rem; max-width: 34em; margin: 0 auto; }
-  .edition-notice h2 { font-family: var(--display); font-size: 1.75rem; margin: 0 0 .5rem; }
-
-  footer { margin-top: 3rem; border-top: 3px double var(--ink); padding-top: 1rem; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem; font-size: .875rem; color: var(--muted); }
+  .edition-notice h2 { font: 700 1.6rem var(--headline); margin: 0 0 .5rem; }
+  footer { margin-top: 2.5rem; border-top: 1px solid var(--heavy); padding-top: .8rem; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem; font: 400 .75rem var(--sans); color: var(--muted); }
   footer label { display: inline-flex; gap: .5rem; align-items: center; }
   footer select { font: inherit; color: var(--ink); background: var(--paper); border: 1px solid var(--rule); padding: .2rem .4rem; }
 
-  @media (max-width: 46rem) {
-    .front { grid-template-columns: 1fr; }
-    .also { border-left: 0; padding-left: 0; border-top: 1px solid var(--ink); padding-top: 1rem; margin-top: .5rem; }
-    .also .story:first-of-type { border-top: 0; }
-    .dateline { grid-template-columns: 1fr; text-align: center; gap: .1rem; }
-    .dateline .l, .dateline .r { text-align: center; }
-    .ears .ear-r { display: none; }
+  /* ---------- tablet: two columns ---------- */
+  @media (max-width: 64rem) {
+    .front { grid-template-columns: minmax(0, 1fr) minmax(0, 1.25fr); }
+    .lead-text.wide { grid-column: 1 / -1; }
+    .rail { grid-column: 1 / -1; border-left: 0; padding-left: 0; border-top: 1px solid var(--heavy); margin-top: 1.25rem; padding-top: 1rem; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: calc(var(--gutter) * 2); }
+    .rail .scores { grid-column: 1 / -1; }
+    .rail-story, .rail-story:first-child, .scores + .rail-story { border-top: 1px solid var(--rule); padding-top: .8rem; margin-top: .8rem; }
+    .lead-art { padding-right: 0; }
+    .cols, .teams { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .cols > :first-child { grid-column: 1 / -1; grid-row: auto; padding-right: 0; }
+    .cols > *:not(:first-child) { border-left: 0; padding: 0 var(--gutter) 0 0; }
+    .cols > *:not(:first-child):nth-child(odd) { border-left: 1px solid var(--rule); padding: 0 0 0 var(--gutter); }
+    .team, .team:nth-child(3n+1), .team:nth-child(3n) { border-left: 0; padding: 0 var(--gutter) 0 0; }
+    .team:nth-child(even) { border-left: 1px solid var(--rule); padding: 0 0 0 var(--gutter); }
   }
-  @media (prefers-reduced-motion: no-preference) {
-    html { scroll-behavior: smooth; }
+  /* ---------- phone: one column ---------- */
+  @media (max-width: 40rem) {
+    .mast { grid-template-columns: 1fr; text-align: center; gap: 0; }
+    .mast-l, .mast-r { text-align: center; padding: 0; }
+    .mast-r { order: 3; }
+    .mast-l { order: 0; margin-bottom: .6rem; }
+    .nameplate { order: 1; }
+    .motto { order: 2; }
+    .front, .rail, .cols, .teams { grid-template-columns: 1fr; }
+    .lead-art { display: contents; }
+    .lead-art .fig { order: 1; }
+    .lead-text { padding-right: 0; order: 2; }
+    .lead-art .scores { order: 3; }
+    .lead-art .scores ul { columns: 1; }
+    .rail { order: 4; }
+    .cols > *, .cols > *:not(:first-child), .cols > *:not(:first-child):nth-child(odd),
+    .team, .team:nth-child(even), .team:nth-child(3n+1), .team:nth-child(3n) { border-left: 0; padding: 0; }
+    .team + .team { border-top: 1px solid var(--rule); padding-top: 1rem; }
   }
+  @media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
 </style>
 </head>
 <body>
 <div class="page">
-  <header class="masthead">
-    <div class="ears"><span id="ear-l"></span><span class="ear-r" id="ear-r"></span></div>
-    <h1 class="title" id="title">The Daily Build</h1>
-    <p class="motto" id="motto"></p>
-    <div class="dateline">
-      <span class="l" id="dl-l"></span>
-      <span class="d" id="dl-d"></span>
-      <span class="r" id="dl-r"></span>
+  <header>
+    <div class="mast">
+      <div class="mast-l"><strong id="date"></strong><span id="edno"></span></div>
+      <h1 class="nameplate" id="title">The Daily Build</h1>
+      <div class="mast-r" id="printed"></div>
+      <p class="motto" id="motto"></p>
     </div>
-    <nav class="desks" id="desks" aria-label="Sections"></nav>
+    <nav class="menu" id="menu" aria-label="Sections"></nav>
   </header>
-
   <main id="main"></main>
-
+  <dialog class="reader" id="reader" aria-labelledby="reader-title"><div class="reader-inner" id="reader-inner"></div></dialog>
   <footer id="footer" hidden>
     <span id="colophon"></span>
     <label>Past editions <select id="archive"></select></label>
@@ -152,7 +203,6 @@
 
 <script>
 const $ = (id) => document.getElementById(id);
-
 function el(tag, props = {}, ...kids) {
   const node = document.createElement(tag);
   for (const [k, v] of Object.entries(props)) {
@@ -165,176 +215,246 @@ function el(tag, props = {}, ...kids) {
   for (const kid of kids.flat()) if (kid != null && kid !== false) node.append(kid);
   return node;
 }
-
 const num = (n) => Number(n).toLocaleString("en-US");
-const plural = (n, word) => `${num(n)} ${word}${n === 1 ? "" : "s"}`;
+const plural = (n, one, many = one + "s") => `${num(n)} ${n === 1 ? one : many}`;
 const safeUrl = (u) => (typeof u === "string" && /^https?:\/\//i.test(u) ? u : null);
-
-function longDate(iso) {
-  return new Date(iso + "T12:00:00").toLocaleDateString("en-US", { weekday: "long", year: "numeric", month: "long", day: "numeric" });
-}
+const safeImg = (u) => (typeof u === "string" && (/^https?:\/\//i.test(u) || /^data\/img\/[\w\-/.]+$/.test(u)) ? u : null);
+const longDate = (iso) => new Date(iso + "T12:00:00").toLocaleDateString("en-US", { weekday: "long", year: "numeric", month: "long", day: "numeric" });
 function postedAt(iso, tz) {
-  if (!iso) return null;
-  const d = new Date(iso);
-  if (isNaN(d)) return null;
-  return d.toLocaleString("en-US", { weekday: "long", hour: "numeric", minute: "2-digit", timeZone: tz });
+  const d = iso ? new Date(iso) : null;
+  return d && !isNaN(d) ? d.toLocaleString("en-US", { weekday: "short", hour: "numeric", minute: "2-digit", timeZone: tz }) : null;
 }
-
 async function getJSON(path) {
   const res = await fetch(path, { cache: "no-store" });
   if (!res.ok) throw new Error(`${path} returned ${res.status}`);
   return res.json();
 }
-
 function showNotice(title, body) {
   $("main").replaceChildren(el("section", { class: "edition-notice" }, el("h2", { text: title }), el("p", { text: body })));
-  $("dl-d").textContent = longDate(new Date().toISOString().slice(0, 10));
+  $("date").textContent = longDate(new Date().toISOString().slice(0, 10));
 }
 
-/* ---------- story pieces ---------- */
-
-function byline(item, tz) {
-  const parts = [];
-  if (item.author) parts.push(`By u/${item.author}`);
-  const when = postedAt(item.created, tz);
-  if (when) parts.push(parts.length ? `posted ${when}` : `Posted ${when}`);
-  return parts.length ? el("p", { class: "byline", text: parts.join(", ") }) : null;
+/* ---------- story parts ---------- */
+function figure(img) {
+  const src = img && safeImg(img.src);
+  if (!src) return null;
+  const pic = el("img", { src, alt: "", loading: "lazy", decoding: "async" });
+  const fig = el("figure", { class: "fig" }, pic, img.credit ? el("figcaption", { text: img.credit }) : null);
+  pic.addEventListener("error", () => fig.remove());
+  return fig;
+}
+function headline(item, cls, tag = "h3") {
+  const href = safeUrl(item.url);
+  const link = href ? el("a", { href, text: item.title }) : null;
+  // Papers open a summary first; a modified click (new tab) still goes straight to the paper.
+  if (link && item.work_id) link.addEventListener("click", (e) => {
+    if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button !== 0) return;
+    e.preventDefault();
+    openReader(item);
+  });
+  return el(tag, { class: cls }, link || item.title);
 }
 
-function tally(item) {
+function openReader(item) {
+  const dlg = $("reader");
+  const href = safeUrl(item.url);
+  let host = "the publisher";
+  try { host = new URL(href).hostname.replace(/^www\./, ""); } catch {}
+  const parts = [
+    el("button", { type: "button", class: "reader-close", text: "Close", on: { click: () => dlg.close() } }),
+    item.flair ? el("p", { class: "kicker", text: item.flair }) : null,
+    el("h2", { class: "h-xl", id: "reader-title", text: item.title }),
+    el("p", { class: "meta" }, item.authors ? el("span", { text: `By ${item.authors}` }) : null, el("span", { text: bookDate(item) })),
+  ];
+  if (item.summary) {
+    parts.push(el("h3", { text: "Summary" }), el("p", { class: "lede", text: item.summary }),
+      el("p", { class: "lede-note", text: "Plain-language summary written by AI from the paper’s abstract. Check the paper for details." }));
+    if (item.abstract) parts.push(el("details", {}, el("summary", { text: "The authors’ abstract" }), el("p", { class: "abstract", text: item.abstract })));
+  } else if (item.abstract) {
+    parts.push(el("h3", { text: "The authors’ abstract" }), el("p", { class: "abstract", text: item.abstract }));
+  } else {
+    parts.push(el("p", { class: "lede-note", text: "OpenAlex doesn’t have an abstract for this paper yet, so there’s no summary. The full paper is one click away." }));
+  }
+  if (href) parts.push(el("a", { class: "reader-go", href, target: "_blank", rel: "noopener", text: `Read the paper at ${host}` }));
+  $("reader-inner").replaceChildren(...parts.filter(Boolean));
+  dlg.showModal();
+  $("reader-inner").scrollTop = 0;
+}
+// Journal and date for a paper, e.g. "Psychological Science, Nov 6, 2026".
+function bookDate(b) {
+  if (!b.published) return b.publisher;
+  const [y, m, d] = b.published.split("-").map(Number);
+  const when = new Date(y, (m || 1) - 1, d || 1).toLocaleDateString("en-US", d ? { month: "short", day: "numeric", year: "numeric" } : { month: "long", year: "numeric" });
+  return `${b.publisher}, ${b.forthcoming ? "out " : ""}${when}`;
+}
+function meta(item, tz, { short = false } = {}) {
   const bits = [];
-  if (item.score != null) {
-    bits.push(el("span", {}, el("span", { class: "votes", text: num(item.score) }), ` ${item.score === 1 ? "upvote" : "upvotes"}`));
-  }
-  if (item.comments != null && safeUrl(item.url)) bits.push(el("a", { href: item.url, text: plural(item.comments, "comment") }));
+  const by = item.authors ? `By ${item.authors}`
+    : [item.author ? `By u/${item.author}` : null, short ? null : postedAt(item.created, tz)].filter(Boolean).join(", ");
+  if (by) bits.push(el("span", { text: by }));
+  if (item.publisher && !short) bits.push(el("span", { text: bookDate(item) }));
+  if (item.score != null) bits.push(el("span", {}, el("b", { text: num(item.score) }), ` ${item.score === 1 ? "upvote" : "upvotes"}`));
+  if (!short && item.comments != null && safeUrl(item.url)) bits.push(el("a", { href: item.url, text: plural(item.comments, "comment") }));
   const link = safeUrl(item.link);
-  if (link && item.domain && !/^(self\.|i\.redd\.it|v\.redd\.it|reddit\.com)/.test(item.domain)) {
-    bits.push(el("a", { href: link, text: `Visit ${item.domain}` }));
+  if (!short && link && item.domain && !/(^|\.)(redd\.it|reddit\.com)$/.test(item.domain)) bits.push(el("a", { href: link, text: item.domain.replace(/^www\./, "") }));
+  return bits.length ? el("p", { class: "meta" }, bits) : null;
+}
+const summary = (item, clamp) => item.excerpt ? el("p", { class: clamp ? "summary clamp" : "summary", text: item.excerpt }) : null;
+
+/* ---------- sports ---------- */
+function gameWhen(iso, tz, withTime = true) {
+  const o = { weekday: "short", month: "short", day: "numeric", timeZone: tz };
+  if (withTime) Object.assign(o, { hour: "numeric", minute: "2-digit" });
+  return new Date(iso).toLocaleString("en-US", o);
+}
+function versus(g) {
+  const opp = (g.opponent_rank ? `No. ${g.opponent_rank} ` : "") + (g.opponent || "opponent");
+  return `${g.home || g.neutral ? "vs." : "at"} ${opp}`;
+}
+function result(g) {
+  const letter = g.won === true ? "W" : g.won === false ? "L" : "T";
+  return el("span", { class: g.won === false ? "res loss" : "res", text: letter });
+}
+function teamCard(t, tz) {
+  const record = [t.record, t.standing].filter(Boolean).join(", ");
+  const errs = t.errors || [];
+  const scoresFailed = errs.some((e) => e.startsWith("scores"));
+  const games = el("dl", { class: "games" });
+  if (t.last) games.append(el("dt", { text: "Last" }), el("dd", {}, result(t.last), ` ${t.last.us ?? "?"}\u2013${t.last.them ?? "?"} ${versus(t.last)}, ${gameWhen(t.last.date, tz, false)}`));
+  if (!scoresFailed) {
+    const n = t.next;
+    const nextText = !n ? "Nothing scheduled"
+      : n.state === "in" ? `In progress ${versus(n)}`
+      : `${gameWhen(n.date, tz, !/TBD|TBA/i.test(n.detail || ""))} ${versus(n)}${n.tv ? `, ${n.tv}` : ""}`;
+    games.append(el("dt", { text: "Next" }), el("dd", { text: nextText }));
   }
-  return bits.length ? el("p", { class: "tally" }, bits) : null;
+  const heads = (t.headlines || []).map((h) => el("li", {},
+    safeUrl(h.url) ? el("a", { href: h.url, text: h.title }) : h.title,
+    h.publisher ? el("span", { class: "src", text: h.publisher }) : null));
+  const fans = (t.fans || []).map((f) => el("li", {},
+    el("a", { href: f.url, text: f.title }),
+    el("span", { class: "src", text: f.score != null ? `${num(f.score)} upvotes` : `r/${t.subreddit}` })));
+  return el("article", { class: "team" },
+    el("h3", {}, safeUrl(t.espn_url) ? el("a", { href: t.espn_url, text: t.name }) : t.name),
+    record ? el("p", { class: "record", text: record }) : null,
+    scoresFailed ? el("p", { class: "quiet", text: "Scores were unavailable this morning." }) : games,
+    heads.length ? el("ul", { class: "heads" }, heads)
+      : el("p", { class: "quiet", text: errs.some((e) => e.startsWith("news")) ? "Headlines were unavailable this morning." : "No new headlines." }),
+    fans.length ? [el("p", { class: "fans-label", text: `From r/${t.subreddit}` }), el("ul", { class: "heads" }, fans)] : null);
+}
+function recentScores(ed) {
+  const press = new Date(ed.generated_at);
+  const teams = ed.sections.flatMap((s) => (s.type === "sports" && s.teams) || [])
+    .filter((t) => t.last && press - new Date(t.last.date) < 36 * 3600e3);
+  if (!teams.length) return null;
+  return el("div", { class: "scores" }, el("h2", { text: "Final scores" }),
+    el("ul", {}, teams.map((t) => el("li", {}, result(t.last), ` ${t.name} ${t.last.us}\u2013${t.last.them} ${versus(t.last)}`))));
 }
 
-function story(item, tz, { major = false, kicker } = {}) {
-  const href = safeUrl(item.url);
-  const k = kicker ?? item.flair;
-  return el("article", { class: major ? "story major" : "story" },
-    k ? el("p", { class: "kicker", text: k }) : null,
-    el("h3", {}, href ? el("a", { href, text: item.title }) : item.title),
-    item.excerpt ? el("p", { class: "deck", text: item.excerpt }) : null,
-    byline(item, tz),
-    tally(item));
+/* ---------- page sections ---------- */
+const periodWords = (p) => ({ day: "the past day", week: "the past week", month: "the past month" }[p] || `the past ${p}`);
+
+function frontPage(ed, tz) {
+  const live = ed.sections.filter((s) => s.status === "ok" && s.items.length);
+  if (!live.length) return null;
+  const leadSec = live.find((s) => s.id === ed.lead_section) || live[0];
+  const lead = leadSec.items[0];
+  const art = figure(lead.image);
+
+  const leadText = el("div", { class: art ? "lead-text" : "lead-text wide" },
+    el("p", { class: "kicker", text: leadSec.title }),
+    headline(lead, "h-xl", "h2"),
+    summary(lead),
+    meta(lead, tz),
+    leadSec.items.length > 1 ? el("ul", { class: "more" }, leadSec.items.slice(1, 3).map((it) =>
+      el("li", {}, headline(it, "h-s"), meta(it, tz, { short: true })))) : null);
+
+  const railStories = live.filter((s) => s !== leadSec).map((s) => el("article", { class: "rail-story" },
+    figure(s.items[0].image),
+    el("p", { class: "kicker", text: s.title }),
+    headline(s.items[0], "h-m"),
+    summary(s.items[0], true),
+    meta(s.items[0], tz, { short: true })));
+
+  // Scores sit under the lead image when there is one, otherwise at the top of the rail.
+  const scores = recentScores(ed);
+  return el("section", { class: "front", "aria-label": "Front page" },
+    leadText,
+    art ? el("div", { class: "lead-art" }, art, scores) : null,
+    el("aside", { class: "rail" }, art ? null : scores, railStories));
 }
 
-function leadStory(item, section, tz) {
-  const href = safeUrl(item.url);
-  return el("article", { class: "lead" },
-    el("p", { class: "kicker", text: section.title }),
-    el("h2", {}, href ? el("a", { href, text: item.title }) : item.title),
-    item.excerpt ? el("p", { class: "deck", text: item.excerpt }) : null,
-    byline(item, tz),
-    tally(item));
-}
-
-function periodWords(p) {
-  return { day: "the past day", week: "the past week", month: "the past month" }[p] || `the past ${p}`;
-}
-
-function deskSection(sec, tz) {
-  const head = el("div", { class: "desk-head" },
+function band(sec, tz) {
+  const head = el("div", { class: "band-head" },
     el("h2", { text: sec.title }),
-    sec.source ? el("p", {}, "Most upvoted in ",
-      safeUrl(sec.source_url) ? el("a", { href: sec.source_url, text: sec.source }) : sec.source,
-      sec.period ? ` over ${periodWords(sec.period)}` : "",
-      sec.method === "rss" ? " (scores unavailable today)" : "") : null);
+    ["sports", "papers"].includes(sec.type) ? el("p", { text: sec.source })
+      : sec.source ? el("p", {}, "Most upvoted in ",
+          safeUrl(sec.source_url) ? el("a", { href: sec.source_url, text: sec.source }) : sec.source,
+          sec.period ? ` over ${periodWords(sec.period)}` : "", sec.method === "rss" ? ", ranked by Reddit (scores unavailable today)" : "") : null);
 
   let body;
   if (sec.status === "error") {
-    body = el("p", { class: "notice", text: `This section couldn’t be collected this morning (${sec.error}). It will try again tomorrow, or you can run the workflow from the Actions tab now.` });
+    body = el("p", { class: "notice", text: `This section couldn’t be collected this morning (${sec.error}). It will try again tomorrow.` });
+  } else if (sec.type === "sports") {
+    body = el("div", { class: "teams" }, sec.teams.map((t) => teamCard(t, tz)));
+  } else if (!sec.items.length && sec.type === "papers") {
+    body = el("p", { class: "notice", text: `No new papers from these researchers in the past ${sec.period_days} days.` });
   } else if (!sec.items.length) {
     body = el("p", { class: "notice", text: sec.min_score ? `No posts reached ${plural(sec.min_score, "upvote")} over ${periodWords(sec.period)}.` : "No new posts in this section today." });
   } else {
-    body = el("div", { class: "grid" }, sec.items.map((it, i) => story(it, tz, { major: i === 0 })));
+    const [top, ...rest] = sec.items;
+    // Papers lead with which of your researchers is on them, and always show journal and date.
+    const paper = sec.type === "papers";
+    const who = (it) => (paper && it.flair ? el("p", { class: "kicker", text: it.flair }) : null);
+    body = el("div", { class: "cols" },
+      el("article", {}, figure(top.image), who(top), headline(top, "h-l"), summary(top), meta(top, tz)),
+      rest.map((it) => el("article", { class: "item" }, who(it), headline(it, "h-m"), summary(it, true), meta(it, tz, { short: !paper }))));
   }
-  return el("section", { class: "desk", id: `desk-${sec.id}` }, head, body);
+  const note = sec.type === "papers" && sec.status === "ok"
+    ? el("p", { class: "band-note", text: `Following ${plural(sec.tracked, "researcher")}.${sec.unmatched && sec.unmatched.length ? ` No OpenAlex profile was found for ${sec.unmatched.join(", ")}.` : ""}` })
+    : null;
+  return el("section", { class: "band", id: `band-${sec.id}` }, head, body, note);
 }
 
 /* ---------- edition ---------- */
-
 let DATES = [];
-
 function render(ed, date) {
   const tz = ed.timezone || "UTC";
   document.title = `${ed.title} for ${longDate(ed.date)}`;
   $("title").textContent = ed.title;
   $("motto").textContent = ed.motto || "";
-
-  const n = DATES.length - DATES.indexOf(date);
-  $("ear-l").textContent = `Edition no. ${num(n)}`;
+  $("date").textContent = longDate(ed.date);
+  $("edno").textContent = `Edition no. ${num(DATES.length - DATES.indexOf(date))}${DATES[0] === date ? "" : ", from the archive"}`;
   const printed = new Date(ed.generated_at).toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit", timeZone: tz, timeZoneName: "short" });
-  $("ear-r").textContent = `Printed at ${printed}`;
-  $("dl-d").textContent = longDate(ed.date);
-
-  const live = ed.sections.filter((s) => s.status === "ok" && s.items.length);
-  const total = ed.sections.reduce((a, s) => a + s.items.length, 0);
-  $("dl-l").textContent = `${plural(ed.sections.length, "section")}, ${num(total)} ${total === 1 ? "story" : "stories"}`;
-  $("dl-r").textContent = DATES[0] === date ? "Today’s edition" : "From the archive";
-
-  $("desks").replaceChildren(...ed.sections.map((s) =>
-    el("button", { type: "button", text: s.title, on: { click: () => $(`desk-${s.id}`).scrollIntoView() } })));
-
-  const main = [];
-  if (live.length) {
-    // Lead: the day's single most upvoted story. Sidebar: the top story from each other section.
-    let leadSec = live[0];
-    for (const s of live) if ((s.items[0].score ?? -1) > (leadSec.items[0].score ?? -1)) leadSec = s;
-    const others = live.filter((s) => s !== leadSec).map((s) => story(s.items[0], tz, { kicker: s.title }));
-    if (leadSec.items[1]) others.push(story(leadSec.items[1], tz, { kicker: leadSec.title }));
-    main.push(el("section", { class: "front", "aria-label": "Front page" },
-      leadStory(leadSec.items[0], leadSec, tz),
-      el("aside", { class: "also" }, el("h2", { text: "Also in this edition" }), others)));
-  }
-  for (const s of ed.sections) main.push(deskSection(s, tz));
-  $("main").replaceChildren(...main);
-
-  $("colophon").textContent = `Collected from Reddit at ${printed}. Headlines link to the original discussions.`;
+  $("printed").textContent = `Printed at ${printed}`;
+  $("menu").replaceChildren(...ed.sections.map((s) =>
+    el("button", { type: "button", text: s.title, on: { click: () => $(`band-${s.id}`).scrollIntoView() } })));
+  $("main").replaceChildren(...[frontPage(ed, tz), ...ed.sections.map((s) => band(s, tz))].filter(Boolean));
+  $("colophon").textContent = `Collected at ${printed} from Reddit, ESPN and Google News. Headlines link to the original stories.`;
   $("archive").value = date;
   $("footer").hidden = false;
 }
-
-function currentDate() {
-  const h = decodeURIComponent(location.hash.slice(1));
-  return DATES.includes(h) ? h : DATES[0];
-}
-
+const currentDate = () => { const h = decodeURIComponent(location.hash.slice(1)); return DATES.includes(h) ? h : DATES[0]; };
 async function load(date) {
-  try {
-    render(await getJSON(`data/${date}.json`), date);
-    window.scrollTo({ top: 0 });
-  } catch (e) {
-    showNotice("This edition couldn’t be opened", `The file for ${date} is missing or damaged (${e.message}). Pick another date from the archive.`);
-  }
+  try { render(await getJSON(`data/${date}.json`), date); window.scrollTo({ top: 0 }); }
+  catch (e) { showNotice("This edition couldn’t be opened", `The file for ${date} is missing or damaged (${e.message}). Pick another date from the archive.`); }
 }
+$("reader").addEventListener("click", (e) => { if (e.target === e.currentTarget) e.currentTarget.close(); });
 
 async function boot() {
-  if (location.protocol === "file:") {
-    return showNotice("Open this page from a web server",
-      "Browsers block pages opened straight from disk from reading the data folder. Use the GitHub Pages address, or run “python3 -m http.server” in this folder and open http://localhost:8000.");
-  }
+  if (location.protocol === "file:") return showNotice("Open this page from a web server",
+    "Browsers block pages opened straight from disk from reading the data folder. Use the GitHub Pages address, or run “python3 -m http.server” in this folder and open http://localhost:8000.");
   try { DATES = (await getJSON("data/index.json")).dates || []; } catch { DATES = []; }
-  if (!DATES.length) {
-    return showNotice("The first edition hasn’t been printed yet",
-      "In your GitHub repository, open the Actions tab, choose “Print today’s edition” and press Run workflow. The page fills in a minute later, and after that it prints itself every morning.");
-  }
+  if (!DATES.length) return showNotice("The first edition hasn’t been printed yet",
+    "In your GitHub repository, open the Actions tab, choose “Print today’s edition” and press Run workflow. The page fills in a minute later, and after that it prints itself every morning.");
   $("archive").replaceChildren(...DATES.map((d) => el("option", { value: d, text: longDate(d) })));
   $("archive").addEventListener("change", (e) => {
     const want = e.target.value === DATES[0] ? "" : e.target.value;
-    if (decodeURIComponent(location.hash.slice(1)) === want) load(currentDate());
-    else location.hash = want;
+    if (decodeURIComponent(location.hash.slice(1)) === want) load(currentDate()); else location.hash = want;
   });
   addEventListener("hashchange", () => load(currentDate()));
   load(currentDate());
 }
-
 boot();
 </script>
 </body>

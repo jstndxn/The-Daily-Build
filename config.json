@@ -1,8 +1,8 @@
 {
   "title": "The Daily Build",
-  "motto": "Projects, workflows and small computers, ranked by the people who build them.",
+  "motto": "Projects, workflows, small computers and the home teams, collected every morning.",
   "timezone": "America/Los_Angeles",
-  "user_agent": "github-actions:daily-build:1.0 (personal newspaper; by /u/YOUR_REDDIT_USERNAME)",
+  "user_agent": "github-actions:daily-build:1.0 (personal newspaper; by /u/MapleOfHonor)",
   "archive_days": 90,
   "sections": [
     {
@@ -31,6 +31,183 @@
       "period": "day",
       "count": 9,
       "min_score": 5
+    },
+    {
+      "id": "research-papers",
+      "title": "Research Papers",
+      "type": "papers",
+      "institution": "I97018004",
+      "days": 7,
+      "count": 9,
+      "fields": [
+        "Psychology",
+        "Neuroscience"
+      ],
+      "people": [
+        {
+          "name": "Alia Crum",
+          "variants": [
+            "Alia Crum",
+            "Ali Crum"
+          ]
+        },
+        {
+          "name": "Cameron Ellis",
+          "variants": [
+            "Cameron Ellis"
+          ]
+        },
+        {
+          "name": "Judith Fan",
+          "variants": [
+            "Judith Fan",
+            "Judy Fan"
+          ]
+        },
+        {
+          "name": "Tobias Gerstenberg",
+          "variants": [
+            "Tobias Gerstenberg",
+            "Tobi Gerstenberg"
+          ]
+        },
+        {
+          "name": "Ian Gotlib",
+          "variants": [
+            "Ian Gotlib"
+          ]
+        },
+        {
+          "name": "Kalanit Grill-Spector",
+          "variants": [
+            "Kalanit Grill-Spector"
+          ]
+        },
+        {
+          "name": "Laura Gwilliams",
+          "variants": [
+            "Laura Gwilliams"
+          ]
+        },
+        {
+          "name": "Jeanne Tsai",
+          "variants": [
+            "Jeanne Tsai"
+          ]
+        },
+        {
+          "name": "Emily M Chen",
+          "variants": [
+            "Emily M Chen"
+          ]
+        },
+        {
+          "name": "Stacia King",
+          "variants": [
+            "Stacia King"
+          ]
+        },
+        {
+          "name": "Leslie Remache",
+          "variants": [
+            "Leslie Remache"
+          ]
+        },
+        {
+          "name": "Peter Zhu",
+          "variants": [
+            "Peter Zhu"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pro-sports",
+      "title": "Pro Sports",
+      "type": "sports",
+      "news_days": 2,
+      "headlines": 3,
+      "fan_posts": 2,
+      "fan_min_score": 50,
+      "teams": [
+        {
+          "name": "Giants",
+          "espn": "baseball/mlb/sf",
+          "news": "\"San Francisco Giants\"",
+          "subreddit": "SFGiants"
+        },
+        {
+          "name": "49ers",
+          "espn": "football/nfl/sf",
+          "news": "\"49ers\"",
+          "subreddit": "49ers"
+        },
+        {
+          "name": "Seahawks",
+          "espn": "football/nfl/sea",
+          "news": "\"Seahawks\"",
+          "subreddit": "Seahawks"
+        },
+        {
+          "name": "Mariners",
+          "espn": "baseball/mlb/sea",
+          "news": "\"Seattle Mariners\"",
+          "subreddit": "Mariners"
+        }
+      ]
+    },
+    {
+      "id": "college-hoops",
+      "title": "College Basketball",
+      "type": "sports",
+      "news_days": 4,
+      "headlines": 3,
+      "teams": [
+        {
+          "name": "San José State men",
+          "espn": "basketball/mens-college-basketball/23",
+          "news": "\"San Jose State\" Spartans \"men's basketball\""
+        },
+        {
+          "name": "Stanford men",
+          "espn": "basketball/mens-college-basketball/24",
+          "news": "Stanford \"men's basketball\""
+        },
+        {
+          "name": "Stanford women",
+          "espn": "basketball/womens-college-basketball/24",
+          "news": "Stanford \"women's basketball\""
+        },
+        {
+          "name": "Santa Clara men",
+          "espn": "basketball/mens-college-basketball/2541",
+          "news": "\"Santa Clara\" Broncos \"men's basketball\""
+        },
+        {
+          "name": "Washington men",
+          "espn": "basketball/mens-college-basketball/264",
+          "news": "Washington Huskies \"men's basketball\""
+        },
+        {
+          "name": "Washington women",
+          "espn": "basketball/womens-college-basketball/264",
+          "news": "Washington Huskies \"women's basketball\""
+        }
+      ]
     }
-  ]
+  ],
+  "images": {
+    "enabled": true,
+    "per_section": 1,
+    "ai_max_per_day": 4,
+    "ai_model": "gpt-image-2",
+    "ai_quality": "medium",
+    "ai_size": "1536x1024"
+  },
+  "summaries": {
+    "enabled": true,
+    "provider": "auto",
+    "anthropic_model": "claude-haiku-5-5",
+    "openai_model": "gpt-6-luna"
+  }
 }
