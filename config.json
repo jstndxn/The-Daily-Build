@@ -1,0 +1,36 @@
+{
+  "title": "The Daily Build",
+  "motto": "Projects, workflows and small computers, ranked by the people who build them.",
+  "timezone": "America/Los_Angeles",
+  "user_agent": "github-actions:daily-build:1.0 (personal newspaper; by /u/YOUR_REDDIT_USERNAME)",
+  "archive_days": 90,
+  "sections": [
+    {
+      "id": "side-projects",
+      "title": "Side Projects",
+      "type": "reddit",
+      "subreddit": "SideProject",
+      "period": "day",
+      "count": 9,
+      "min_score": 5
+    },
+    {
+      "id": "claude-workflows",
+      "title": "Claude Workflows",
+      "type": "reddit",
+      "subreddit": "ClaudeWorkflows",
+      "period": "week",
+      "count": 6,
+      "min_score": 0
+    },
+    {
+      "id": "raspberry-pi",
+      "title": "Raspberry Pi",
+      "type": "reddit",
+      "subreddit": "raspberry_pi",
+      "period": "day",
+      "count": 9,
+      "min_score": 5
+    }
+  ]
+}
