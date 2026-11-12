@@ -1,0 +1,116 @@
+{
+ "title": "The Daily Build",
+ "motto": "Projects, workflows and small computers, ranked by the people who build them.",
+ "date": "2026-11-12",
+ "generated_at": "2026-11-12T10:43:48.310502-08:00",
+ "timezone": "America/Los_Angeles",
+ "sections": [
+  {
+   "id": "side-projects",
+   "title": "Side Projects",
+   "source": "r/SideProject",
+   "source_url": "https://www.reddit.com/r/SideProject/top/?t=day",
+   "period": "day",
+   "min_score": 5,
+   "method": "rss",
+   "status": "ok",
+   "items": [
+    {
+     "title": "My side project is a free, open-source racing sim that runs in a browser tab",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xtuacm/my_side_project_is_a_free_opensource_racing_sim/",
+     "author": "qwertyalp1020",
+     "created": "2026-11-11T21:30:52+00:00",
+     "excerpt": "Link (no signup, no ads, nothing to install): GitHub (MIT): I started LibreCorsa in mid-October because every serious racing sim needed a huge Windows install before you could do a single lap. What it has now: - 500 Hz physics with tyre temperatures and wear, rain that dries along the racing line, and CI checks…",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "I built an iPhone weather app with pixel-art cities you can turn into postcards (because I honestly don't like many weather apps out there)",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xu75qn/i_built_an_iphone_weather_app_with_pixelart/",
+     "author": "EmotionalLong641",
+     "created": "2026-11-12T08:08:38+00:00",
+     "excerpt": "I’m the developer of Skybits. I wanted checking the weather to feel like looking out a tiny window. Rain falls over London, and Tokyo lights up after dark. To be a little more Fun!!! In Sky Studio, you can pick a city, mix the weather and time of day, and share the result as a little airmail postcard. Please send me…",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "I built an app that converts any text into high-quality audio. It works with PDFs, blog posts, Substack and Medium links, and even photos of text.",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xtufk4/i_built_an_app_that_converts_any_text_into/",
+     "author": "OneMoreSuperUser",
+     "created": "2026-11-11T21:36:42+00:00",
+     "excerpt": "I’m excited to share a project I’ve been working on over the past few months! It’s a mobile app that turns any text into high-quality audio. Whether it’s a webpage, a Substack or Medium article, a PDF, or just copied text—it converts it into clear, natural-sounding speech. You can listen to it like a podcast or…",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "I built Dopamine Chic - a designer outlet where checkout is always 0.00 and nothing ever ships",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xtqbj1/i_built_dopamine_chic_a_designer_outlet_where/",
+     "author": "MichalPleban",
+     "created": "2026-11-11T18:58:02+00:00",
+     "excerpt": "I built a fake designer flash-sale outlet. It works like the real ones: brand sales with countdowns, \"only 1 left in your size\", a deal of the hour, a bag that's reserved for 30 minutes. Then you check out with a card that says it isn't real, pay $0.00, and follow the tracking until something goes wrong with your…",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "I built an open-source API client that stores requests directly in Git — looking for developer feedback",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xu6mmz/i_built_an_opensource_api_client_that_stores/",
+     "author": "AryanBulandi",
+     "created": "2026-11-12T07:35:22+00:00",
+     "excerpt": "Hey everyone! 👋 I've been working on Voiden , an open-source API client designed around a slightly different approach to API development. Most API clients are built around workspaces, accounts, cloud sync, and proprietary collections. I wanted to explore something more developer-friendly: keeping API requests…",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "I built an app so I know my parents overseas started their day, without cameras",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xtttzk/i_built_an_app_so_i_know_my_parents_overseas/",
+     "author": "ChckinJockey",
+     "created": "2026-11-11T21:12:37+00:00",
+     "excerpt": "My parents live overseas and I'm in NC. I call them about 3 or 4 times a week, but with the time difference, it's not always easy to catch them at a good time. Sometimes I just want to know they're doing okay without having to call and interrupt whatever they're doing. I thought about different ways to check in, but I…",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "I built a search engine you scroll instead of read. Every 5 posts it asks where to go next.",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xughkw/i_built_a_search_engine_you_scroll_instead_of/",
+     "author": "Key_Beginning9313",
+     "created": "2026-11-12T15:58:51+00:00",
+     "excerpt": "I made this. Type any topic and scroll a feed of short videos, posts and discussions about it. Every 5 posts it asks where to go next, which is how I went from “coffee” to Ethiopian goat herders. Try your own search and tell me where you end up. No signup. Honest feedback welcome: what would make you come back?",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "My apps are used by me and people I know. getting strangers to even look at them is way harder than building them",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xugplf/my_apps_are_used_by_me_and_people_i_know_getting/",
+     "author": "Elegant_Yam2783",
+     "created": "2026-11-12T16:06:50+00:00",
+     "excerpt": "I build stuff with Claude, a few apps that me and people I know use every day, and I wrote a guide for people who want to build like that without coding. last month I tried to get the guide out there on reddit. git post got 15k views and 37 comments. I put the link at the end. like 5 clicks in the first 10k views…",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "I built my analytics dashboard as one PHP file - no SaaS, no tracking script",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xty8r7/i_built_my_analytics_dashboard_as_one_php_file_no/",
+     "author": "EmergencyIsland4574",
+     "created": "2026-11-12T00:18:09+00:00",
+     "excerpt": "My portfolio site ran on vibes for too long, so this weekend project was: read the cPanel raw access logs (they're just gzipped files sitting in your hosting account) and render a dashboard. Zero dependencies, zero tracking JS, zero monthly bill. Two bugs that almost sank it: filesize() on a .gz file returns the…",
+     "score": null,
+     "comments": null
+    }
+   ]
+  },
+  {
+   "id": "claude-workflows",
+   "title": "Claude Workflows",
+   "status": "error",
+   "error": "HTTP Error 429: Too Many Requests",
+   "items": []
+  },
+  {
+   "id": "raspberry-pi",
+   "title": "Raspberry Pi",
+   "status": "error",
+   "error": "HTTP Error 429: Too Many Requests",
+   "items": []
+  }
+ ]
+}
