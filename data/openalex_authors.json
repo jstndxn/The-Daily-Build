@@ -1,0 +1,270 @@
+{
+ "resolved_at": "2026-11-13T20:10:11.158449+00:00",
+ "fingerprint": "fc36db34887f3ea4cb4aa7eaec2a7853589fd54c",
+ "people": [
+  {
+   "name": "Alia Crum",
+   "ids": [
+    "A5052244076"
+   ],
+   "profiles": [
+    {
+     "id": "A5052244076",
+     "name": "Alia Joy Crum",
+     "works": 142,
+     "fields": [
+      "Health Professions",
+      "Neuroscience",
+      "Nursing",
+      "Psychology"
+     ],
+     "orcid": "https://orcid.org/0000-0002-0892-1811"
+    }
+   ],
+   "rejected": []
+  },
+  {
+   "name": "Cameron Ellis",
+   "ids": [
+    "A5068991077"
+   ],
+   "profiles": [
+    {
+     "id": "A5068991077",
+     "name": "Cameron Thomas Ellis",
+     "works": 74,
+     "fields": [
+      "Medicine",
+      "Neuroscience",
+      "Psychology"
+     ],
+     "orcid": "https://orcid.org/0000-0002-3254-5940"
+    }
+   ],
+   "rejected": []
+  },
+  {
+   "name": "Judith Fan",
+   "ids": [
+    "A5003160263"
+   ],
+   "profiles": [
+    {
+     "id": "A5003160263",
+     "name": "Judith E. Fan",
+     "works": 194,
+     "fields": [
+      "Computer Science",
+      "Neuroscience",
+      "Psychology"
+     ],
+     "orcid": "https://orcid.org/0000-0002-0097-3254"
+    }
+   ],
+   "rejected": [
+    {
+     "id": "A5071853217",
+     "name": "Judy Fan",
+     "works": 5,
+     "fields": [
+      "Computer Science",
+      "Engineering",
+      "Medicine"
+     ],
+     "orcid": "https://orcid.org/0000-0001-7300-1563"
+    }
+   ]
+  },
+  {
+   "name": "Tobias Gerstenberg",
+   "ids": [
+    "A5039540205",
+    "A5039885663"
+   ],
+   "profiles": [
+    {
+     "id": "A5039540205",
+     "name": "Tobias Gerstenberg",
+     "works": 495,
+     "fields": [
+      "Computer Science",
+      "Decision Sciences",
+      "Neuroscience",
+      "Psychology"
+     ],
+     "orcid": "https://orcid.org/0000-0002-9162-0779"
+    },
+    {
+     "id": "A5039885663",
+     "name": "Simon Stephan",
+     "works": 73,
+     "fields": [
+      "Arts and Humanities",
+      "Computer Science",
+      "Mathematics",
+      "Psychology"
+     ],
+     "orcid": "https://orcid.org/0000-0002-6557-9637"
+    }
+   ],
+   "rejected": []
+  },
+  {
+   "name": "Ian Gotlib",
+   "ids": [
+    "A5055286510"
+   ],
+   "profiles": [
+    {
+     "id": "A5055286510",
+     "name": "Ian H. Gotlib",
+     "works": 780,
+     "fields": [
+      "Medicine",
+      "Neuroscience",
+      "Psychology"
+     ],
+     "orcid": "https://orcid.org/0000-0002-3622-3199"
+    }
+   ],
+   "rejected": []
+  },
+  {
+   "name": "Kalanit Grill-Spector",
+   "ids": [
+    "A5043402161"
+   ],
+   "profiles": [
+    {
+     "id": "A5043402161",
+     "name": "Kalanit Grill-spector A",
+     "works": 282,
+     "fields": [
+      "Computer Science",
+      "Medicine",
+      "Neuroscience"
+     ],
+     "orcid": "https://orcid.org/0000-0002-5404-9606"
+    }
+   ],
+   "rejected": []
+  },
+  {
+   "name": "Laura Gwilliams",
+   "ids": [
+    "A5044662209"
+   ],
+   "profiles": [
+    {
+     "id": "A5044662209",
+     "name": "Laura Gwilliams",
+     "works": 86,
+     "fields": [
+      "Neuroscience",
+      "Psychology"
+     ],
+     "orcid": "https://orcid.org/0000-0002-9213-588X"
+    }
+   ],
+   "rejected": []
+  },
+  {
+   "name": "Jeanne Tsai",
+   "ids": [
+    "A5082558628"
+   ],
+   "profiles": [
+    {
+     "id": "A5082558628",
+     "name": "Jeanne L. Tsai",
+     "works": 176,
+     "fields": [
+      "Psychology",
+      "Social Sciences"
+     ],
+     "orcid": "https://orcid.org/0000-0003-4150-8268"
+    }
+   ],
+   "rejected": []
+  },
+  {
+   "name": "Emily M Chen",
+   "ids": [
+    "A5064737347"
+   ],
+   "profiles": [
+    {
+     "id": "A5064737347",
+     "name": "Emily M. Chen",
+     "works": 39,
+     "fields": [
+      "Neuroscience",
+      "Psychology"
+     ],
+     "orcid": "https://orcid.org/0000-0001-8825-6534"
+    }
+   ],
+   "rejected": []
+  },
+  {
+   "name": "Stacia King",
+   "ids": [
+    "A5112956067"
+   ],
+   "profiles": [
+    {
+     "id": "A5112956067",
+     "name": "Stacia King",
+     "works": 6,
+     "fields": [
+      "Decision Sciences",
+      "Economics, Econometrics and Finance",
+      "Neuroscience",
+      "Social Sciences"
+     ],
+     "orcid": null
+    }
+   ],
+   "rejected": []
+  },
+  {
+   "name": "Leslie Remache",
+   "ids": [
+    "A5032494264"
+   ],
+   "profiles": [
+    {
+     "id": "A5032494264",
+     "name": "Leslie J Remache",
+     "works": 8,
+     "fields": [
+      "Psychology",
+      "Social Sciences"
+     ],
+     "orcid": "https://orcid.org/0000-0002-8426-6847"
+    }
+   ],
+   "rejected": []
+  },
+  {
+   "name": "Peter Zhu",
+   "ids": [
+    "A5136496394"
+   ],
+   "profiles": [
+    {
+     "id": "A5136496394",
+     "name": "Peter Zhu",
+     "works": 11,
+     "fields": [
+      "Decision Sciences",
+      "Psychology",
+      "Social Sciences"
+     ],
+     "orcid": null
+    }
+   ],
+   "rejected": []
+  }
+ ]
+}

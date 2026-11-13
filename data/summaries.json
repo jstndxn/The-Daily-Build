@@ -1,0 +1,12 @@
+{
+ "W7225778944": {
+  "text": "How do people infer others’ goals from their actions when those actions involve bodies, objects and movement through space? The researchers developed GenEA, a computational model that represents multi-step plans and assigns probabilities to possible goals and actions. In experiments on object manipulation and navigation, its predictions matched several measures of human reasoning and consistently outperformed alternative models, including a vision-language model.",
+  "by": "openai",
+  "written": "2026-11-13"
+ },
+ "W7163391069": {
+  "text": "How can researchers study and evaluate the brain’s responses to natural speech over time? MEG-MASC provides raw magnetoencephalography recordings from 27 English speakers who listened to naturalistic stories, random word lists and comprehension questions across two sessions. The dataset includes time-stamped word and phoneme boundaries and is organized in BIDS as a benchmark for large-scale analyses of brain responses to speech.",
+  "by": "openai",
+  "written": "2026-11-13"
+ }
+}
