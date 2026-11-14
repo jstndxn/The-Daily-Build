@@ -1,0 +1,857 @@
+{
+ "title": "The Daily Build",
+ "motto": "Projects, workflows, small computers and the home teams, collected every morning.",
+ "date": "2026-11-14",
+ "generated_at": "2026-11-14T10:34:10.774381-08:00",
+ "timezone": "America/Los_Angeles",
+ "lead_section": "side-projects",
+ "sections": [
+  {
+   "id": "side-projects",
+   "title": "Side Projects",
+   "source": "r/SideProject",
+   "source_url": "https://www.reddit.com/r/SideProject/top/?t=day",
+   "period": "day",
+   "min_score": 5,
+   "method": "rss",
+   "status": "ok",
+   "items": [
+    {
+     "title": "I built a quiet online room where strangers just study together",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xvrhcn/i_built_a_quiet_online_room_where_strangers_just/",
+     "link": "https://v.redd.it/j32v4imlth1i1",
+     "domain": "v.redd.it",
+     "author": "CrimsonAhn",
+     "created": "2026-11-14T02:57:13+00:00",
+     "excerpt": "In Korea there's this thing called a dokseosil. It's a paid room full of little cubicle desks where everyone studies in silence. Nobody really goes for the desk. You go because when the person next to you is grinding, you feel kind of bad scrolling your phone. I wanted that feeling at home, so I made a small online…",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "Our chili crunch side project has sold over 1,500 jars in 3.5 months generating 25K in revenue",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xw7b36/our_chili_crunch_side_project_has_sold_over_1500/",
+     "link": "https://v.redd.it/8jsjs9txsj1i1",
+     "domain": "v.redd.it",
+     "author": "CarterGee",
+     "created": "2026-11-14T16:59:20+00:00",
+     "excerpt": "The majority of side projects I see here are virtual, so here's a virtual product to spice things up (pun intentional). Monday through Friday, my husband I are start at our screens for our full time jobs, but for the past 3.5 months we've spent almost every weekend in a commercial kitchen on Treasure Island in San…",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "I built an iPhone app where you roll the dice and land on a music radio station somewhere on Earth",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xw2rw9/i_built_an_iphone_app_where_you_roll_the_dice_and/",
+     "link": "https://v.redd.it/5w4wklx41l1i1",
+     "domain": "v.redd.it",
+     "author": "Own-Bottle558",
+     "created": "2026-11-14T13:45:45+00:00",
+     "excerpt": "I go for a walk every night, and that's when I dig for new music. Mostly bands, and honestly I listen to everything from classical to hard rock and metal lol. These days every app has an algorithm that keeps recommending music that sounds like what I already like, and when I want to hear something different, the…",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "I got tired of shouting through the house, so I built an app that knocks on my family's phones over WiFi",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xvzwjl/i_got_tired_of_shouting_through_the_house_so_i/",
+     "link": "https://v.redd.it/n2g0zoue9k1i1",
+     "domain": "v.redd.it",
+     "author": "TKZ111",
+     "created": "2026-11-14T11:10:53+00:00",
+     "excerpt": "Hey everyone! I've been building Familiar Knock Knock, an Android app that works like a doorbell for the people in your house. The idea came from a simple frustration: shouting up the stairs, or phoning someone who's in the next room, and getting no answer because they have headphones on or their phone is on silent…",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "Crossed 3400 in revenue and hit 50 paying customers on day 98, and I wrote down how every single one of them found me",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xvh79s/crossed_3400_in_revenue_and_hit_50_paying/",
+     "link": null,
+     "domain": null,
+     "author": "piyush-sachdeva",
+     "created": "2026-11-13T19:27:01+00:00",
+     "excerpt": "I'm a cloud engineer with a full-time job, and in the evenings I build ReelDrop.io , an Instagram scheduling and comment-to-DM tool. It launched on August 5. Customer 50 paid on November 11, day 98. Today I have 52 paying customers from 21 countries, and about CA$3,410 was collected after refunds, before Stripe fees…",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "Need opinions on my game trailer",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xvt6nt/need_opinions_on_my_game_trailer/",
+     "link": "https://v.redd.it/yvjeoc7q9i1i1",
+     "domain": "v.redd.it",
+     "author": "SavageServices",
+     "created": "2026-11-14T04:27:40+00:00",
+     "excerpt": "After what seems to be a lifetime building this silly little phone game it turns out that was half the battle, the other half involves a good catchy trailer, marketing and advertisement. to be honest i am struggling with making this trailer so i need everyone's honest and brutal opinion, what stands out? what it…",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "I built a desktop app that clones your own voice locally, then reads text, whole audiobooks or dubs videos in it",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xvlm6n/i_built_a_desktop_app_that_clones_your_own_voice/",
+     "link": "https://v.redd.it/06oh5gx0gg1i1",
+     "domain": "v.redd.it",
+     "author": "Secret_Experience_17",
+     "created": "2026-11-13T22:21:47+00:00",
+     "excerpt": "Started because I wanted to dub my own videos in English with an American accent, in my own voice (I'm not a native speaker). Ended up as a full desktop app. You read a guided text for about 6 minutes, it trains a voice model on your PC, and then: Speak: type text in 60 languages and hear it in your voice. Native…",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "Solo dev here. 5 months building the investing dashboard I wanted: all my brokers, a stock screener and alerts in one place; talks to my Claude over MCP. Feedback welcome, happy to discuss how it’s built.",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xvhe1j/solo_dev_here_5_months_building_the_investing/",
+     "link": "https://v.redd.it/niaxdwgjff1i1",
+     "domain": "v.redd.it",
+     "author": "Accomplished_Bet586",
+     "created": "2026-11-13T19:34:17+00:00",
+     "excerpt": "Hi all! For many years I invest regularly into stocks+ETFs on Revolut, Degiro and my local brokerage and crypto on couple of crypto exchanges + hold some in my cold HW wallet. Every month I faced the issue of what to buy that has currently good value, P/E, PEG ratio, etc., how to rebalance to have well diversified…",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "How can we get more app downloads without becoming influencers?",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xvfwry/how_can_we_get_more_app_downloads_without/",
+     "link": null,
+     "domain": null,
+     "author": "primatecode",
+     "created": "2026-11-13T18:38:36+00:00",
+     "excerpt": "Nowadays, if watch any YouTube tutorial or read a Twitter thread about app marketing, you'll always hear the same advice: \"U need to build an audience on tiktok or another social media plataforma and bla bla bla\". But that usually means becoming a content creator (personal or making AI generated videos), just to get…",
+     "score": null,
+     "comments": null
+    }
+   ]
+  },
+  {
+   "id": "claude-workflows",
+   "title": "Claude Workflows",
+   "source": "r/ClaudeWorkflows",
+   "source_url": "https://www.reddit.com/r/ClaudeWorkflows/top/?t=week",
+   "period": "week",
+   "min_score": 0,
+   "method": "rss",
+   "status": "ok",
+   "items": [
+    {
+     "title": "[Workflow] Claude Code development loop with ADRs, independent reviews, and browser UAT",
+     "url": "https://www.reddit.com/r/ClaudeWorkflows/comments/1xstnmr/workflow_claude_code_development_loop_with_adrs/",
+     "link": null,
+     "domain": null,
+     "author": "ClaudeAI-mod-bot",
+     "created": "2026-11-10T17:54:05+00:00",
+     "excerpt": "Claude Code development loop with ADRs, independent reviews, and browser UAT Workflow value: 79/100 Status: active · Freshness: 70/100 · Confidence: 0.94 · Level: advanced Categories: Quality Control, Token Saving, Context & Memory, Debugging, Hooks, Skills, MCP, Subagents, Multi-Agent Original source: r/ClaudeAI…",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "[Workflow] Robust Development Workflow for Claude Code Hooks and Subagents: Lessons from Building Aptly",
+     "url": "https://www.reddit.com/r/ClaudeWorkflows/comments/1xrphb3/workflow_robust_development_workflow_for_claude/",
+     "link": null,
+     "domain": null,
+     "author": "ClaudeAI-mod-bot",
+     "created": "2026-11-09T11:39:38+00:00",
+     "excerpt": "Robust Development Workflow for Claude Code Hooks and Subagents: Lessons from Building Aptly Workflow value: 90/100 Status: active · Freshness: 70/100 · Confidence: 0.95 · Level: advanced Categories: Quality Control, Token Saving, Context & Memory, Debugging, Hooks, MCP, Subagents, Multi-Agent Original source…",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "[Workflow] Iterative Game Development with Claude Opus: Gauntlet-Loop for Visuals, Performance Panel for Optimization, and AI-Assisted 3D Asset Creation",
+     "url": "https://www.reddit.com/r/ClaudeWorkflows/comments/1xrmk2l/workflow_iterative_game_development_with_claude/",
+     "link": null,
+     "domain": null,
+     "author": "ClaudeAI-mod-bot",
+     "created": "2026-11-09T08:39:57+00:00",
+     "excerpt": "Iterative Game Development with Claude Opus: Gauntlet-Loop for Visuals, Performance Panel for Optimization, and AI-Assisted 3D Asset Creation Workflow value: 95/100 Status: active · Freshness: 70/100 · Confidence: 0.98 · Level: advanced Categories: Quality Control, Token Saving, Context & Memory, Debugging, Shipping…",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "[Workflow] Claude Code 2.1.319: New Settings for Unattended Runs, MCP Management, and API Latency Optimization",
+     "url": "https://www.reddit.com/r/ClaudeWorkflows/comments/1xqu10n/workflow_claude_code_21319_new_settings_for/",
+     "link": null,
+     "domain": null,
+     "author": "ClaudeAI-mod-bot",
+     "created": "2026-11-08T08:56:06+00:00",
+     "excerpt": "Claude Code 2.1.319: New Settings for Unattended Runs, MCP Management, and API Latency Optimization Workflow value: 85/100 Status: active · Freshness: 70/100 · Confidence: 1.00 · Level: intermediate Categories: Quality Control, Context & Memory, Debugging, Shipping, MCP, Subagents, Multi-Agent Original source…",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "[Workflow] TDD Workflow with Fresh Subagents for Reliable Code Building and Review",
+     "url": "https://www.reddit.com/r/ClaudeWorkflows/comments/1xqqsw5/workflow_tdd_workflow_with_fresh_subagents_for/",
+     "link": null,
+     "domain": null,
+     "author": "ClaudeAI-mod-bot",
+     "created": "2026-11-08T05:28:53+00:00",
+     "excerpt": "TDD Workflow with Fresh Subagents for Reliable Code Building and Review Workflow value: 75/100 Status: active · Freshness: 70/100 · Confidence: 0.90 · Level: intermediate Categories: Quality Control, Context & Memory, Debugging, Skills, Subagents Original source: r/ClaudeCode post/comment What problem this solves AI…",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "[Workflow] Dispatch headless coding agents across machines using GitHub issues",
+     "url": "https://www.reddit.com/r/ClaudeWorkflows/comments/1xvwy95/workflow_dispatch_headless_coding_agents_across/",
+     "link": null,
+     "domain": null,
+     "author": "ClaudeAI-mod-bot",
+     "created": "2026-11-14T08:04:37+00:00",
+     "excerpt": "Dispatch headless coding agents across machines using GitHub issues Workflow value: 76/100 Status: active · Freshness: 70/100 · Confidence: 0.96 · Level: advanced Categories: Quality Control, Context & Memory, Debugging, Shipping, Skills, MCP, Multi-Agent Original source: r/ClaudeCode post/comment What problem this…",
+     "score": null,
+     "comments": null
+    }
+   ]
+  },
+  {
+   "id": "raspberry-pi",
+   "title": "Raspberry Pi",
+   "source": "r/raspberry_pi",
+   "source_url": "https://www.reddit.com/r/raspberry_pi/top/?t=day",
+   "period": "day",
+   "min_score": 5,
+   "method": "rss",
+   "status": "ok",
+   "items": []
+  },
+  {
+   "id": "research-papers",
+   "title": "Research Papers",
+   "type": "papers",
+   "method": "openalex",
+   "tracked": 12,
+   "unmatched": [],
+   "period_days": 7,
+   "source": "New papers from OpenAlex, published in the past 7 days",
+   "status": "ok",
+   "items": [
+    {
+     "work_id": "W7225778944",
+     "title": "A computational framework for understanding embodied plans",
+     "url": "https://doi.org/10.48550/arxiv.2611.13669",
+     "flair": "Tobias Gerstenberg",
+     "authors": "Aalap D. Shah, Basil Saeed, Joshua B. Tenenbaum, Tobias Gerstenberg and 2 others",
+     "publisher": "arXiv (Cornell University)",
+     "published": "2026-11-10",
+     "forthcoming": false,
+     "type": "preprint",
+     "excerpt": "Reasoning about people's plans and goals based on their actions is fundamental to human social interaction and essential for cooperative, embodied artificial intelligence. Formalizing this capacity in naturalistic, embodied settings has been a longstanding challenge. Here, we present GenEA, a novel…",
+     "abstract": "Reasoning about people's plans and goals based on their actions is fundamental to human social interaction and essential for cooperative, embodied artificial intelligence. Formalizing this capacity in naturalistic, embodied settings has been a longstanding challenge. Here, we present GenEA, a novel agent representation capable of reasoning over multi-step, long-horizon embodied plans. At the heart of GenEA lies a multilevel state-space that couples the coarse biomechanics of an articulated body and its interactions with nearby objects by extending the task-and-motion planning framework from robotics with simulation-based intuitive physics. By embedding this state-space in a generative model, GenEA yields a joint probability distribution over goals and embodied plans. Across several experiments spanning the qualitatively distinct domains of object manipulation and navigation, featuring diverse tasks and multiple behavioral measures, we show that GenEA, through simple transformations of this joint distribution, recapitulates how humans reason about embodied plans. Crucially, GenEA consistently outperforms strong alternative models, including plausible heuristics, standard task-and-motion planning, and a state-of-the-art vision-language model. GenEA thereby offers a new perspective on the architecture of human reasoning and social cognition, suggesting that embodied artificial intelligence systems seeking to seamlessly interact with humans should adopt GenEA-like generative models of action planning.",
+     "score": null,
+     "summary": "How do people infer others’ goals from their actions when those actions involve bodies, objects and movement through space? The researchers developed GenEA, a computational model that represents multi-step plans and assigns probabilities to possible goals and actions. In experiments on object manipulation and navigation, its predictions matched several measures of human reasoning and consistently outperformed alternative models, including a vision-language model."
+    },
+    {
+     "work_id": "W7163391069",
+     "title": "Gwilliams et al. 2023 — Introducing MEG-MASC: a high-quality magneto-encephalography dataset for evaluating natural speech processing",
+     "url": "https://doi.org/10.82901/nemar.nm000229",
+     "flair": "Laura Gwilliams",
+     "authors": "Laura Gwilliams, Graham Flick, Alec P. Marantz, Liina Pylkkänen A and 2 others",
+     "publisher": "UC San Diego",
+     "published": "2026-11-08",
+     "forthcoming": false,
+     "type": "dataset",
+     "excerpt": "MEG-MASC provides raw magnetoencephalography recordings from 27 English speakers who listened to about two hours of naturalistic stories from the Manually Annotated Sub-Corpus (MASC), interspersed with random word lists and comprehension questions. Each participant completed two sessions, and word…",
+     "abstract": "MEG-MASC provides raw magnetoencephalography recordings from 27 English speakers who listened to about two hours of naturalistic stories from the Manually Annotated Sub-Corpus (MASC), interspersed with random word lists and comprehension questions. Each participant completed two sessions, and word and phoneme onsets and offsets are time-stamped in the event metadata. The dataset is organized in BIDS and serves as a benchmark for large-scale encoding and decoding analyses of temporally resolved brain responses to speech.",
+     "score": null,
+     "summary": "How can researchers study and evaluate the brain’s responses to natural speech over time? MEG-MASC provides raw magnetoencephalography recordings from 27 English speakers who listened to naturalistic stories, random word lists and comprehension questions across two sessions. The dataset includes time-stamped word and phoneme boundaries and is organized in BIDS as a benchmark for large-scale analyses of brain responses to speech."
+    }
+   ]
+  },
+  {
+   "id": "pro-sports",
+   "title": "Pro Sports",
+   "type": "sports",
+   "teams": [
+    {
+     "name": "Giants",
+     "errors": [
+      "r/SFGiants: HTTP Error 429: Too Many Requests"
+     ],
+     "record": "65-97",
+     "standing": "4th in NL West",
+     "espn_url": "https://www.espn.com/mlb/team/schedule/_/name/sf",
+     "last": null,
+     "next": {
+      "date": "2027-03-25T04:00Z",
+      "state": "pre",
+      "completed": false,
+      "detail": "TBD",
+      "home": true,
+      "neutral": false,
+      "opponent": "Rockies",
+      "opponent_rank": null,
+      "us": null,
+      "them": null,
+      "won": null,
+      "tv": "MLB.TV"
+     },
+     "headlines": [
+      {
+       "title": "Top Landing Spots For Free Agent Martín Pérez",
+       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmN2NGR04xNFduemZnQnFCZHBDM0pxMXR0VGZWNDlPMVViRW1SU1ZZMWNENUZfb3IzUlRoWm5VTWFTOUVjVnlwYmkwc0lXOFRxTjRDWWxsWXlUUk0tVDZwdlhoT2lLNEVmQ0staElXbVdPNzRZWEdlSU5TbzVuckE?oc=5",
+       "publisher": "Just Baseball",
+       "created": "2026-11-14T16:58:00+00:00"
+      },
+      {
+       "title": "Is four-time World Series champ Bochy a HOF slam dunk?",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OZGtzbHlDazJSOUUyekpuY214cXFINUNMbWRhV3ZkOVZWNXp4MUJyd3lzam92LWFUTHFYbEh6WEVhNndCQUNaTlp0TG93NjBHeXBkNjVYUF9lZmJ0WDlQNy1FbXNIbUUzeGFkTE1JTEI?oc=5",
+       "publisher": "MLB.com",
+       "created": "2026-11-14T16:17:57+00:00"
+      },
+      {
+       "title": "San Francisco Giants Offseason Plan Coming Into Focus",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWgwMldKd1FFWDY1MGlVRTNVVE8wUGNWTm1BV0pTbHo3SU5CVVBZeGxzaTNycTc2Y0JQR1EwTjZtTnpqVXY4UkxlbDk0OVNUMVh5bUROS0Z2dEMxWTdtZmVHaHRoUG5jTk9rcllxV1VGSEEzdTlkZjlDNlJhZjZ4TUZMT2hkazMwYnZ1RmcxT0ZvZw?oc=5",
+       "publisher": "Sports Illustrated",
+       "created": "2026-11-14T16:00:02+00:00"
+      }
+     ]
+    },
+    {
+     "name": "49ers",
+     "errors": [],
+     "record": "7-1",
+     "standing": "1st in NFC West",
+     "espn_url": "https://www.espn.com/nfl/team/schedule/_/name/sf",
+     "last": {
+      "date": "2026-11-08T21:25Z",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "home": true,
+      "neutral": false,
+      "opponent": "Raiders",
+      "opponent_rank": null,
+      "us": "38",
+      "them": "17",
+      "won": true,
+      "tv": "Fox"
+     },
+     "next": {
+      "date": "2026-11-15T21:25Z",
+      "state": "pre",
+      "completed": false,
+      "detail": "11/15 - 4:25 PM EST",
+      "home": false,
+      "neutral": false,
+      "opponent": "Cowboys",
+      "opponent_rank": null,
+      "us": null,
+      "them": null,
+      "won": null,
+      "tv": "Fox"
+     },
+     "headlines": [
+      {
+       "title": "49ers Set High Asking Price For QB Mac Jones At Trade Deadline",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTzdIa0lEaEQ1UTVVc2d3TkZ4LXpTU0U4NkhQSkIycExjUERfeE9ZX0M0SlBtbzdmNlNkMW9lb1Zpa0pHVmliVVVicDdfRmNtbHo5NWJlN1YteEpMS1RuSHpNOU12aHdtYlBuQUhhQUJCV3R1cEc0NW1Kc0YzdHBONUNHRktZX0o3RkRNYzBDbWExd1BfTWpZWW1adDA4T3ZEeFBpbWcwOA?oc=5",
+       "publisher": "ProFootballRumors.com",
+       "created": "2026-11-14T18:24:54+00:00"
+      },
+      {
+       "title": "Keenan Allen Might Be More of the Same for the 49ers at Receiver",
+       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcjY5clpyTmFKWDJPMXZ5ZzBHQjRBdWhDd2JOXzJuQTlfcGJnU040cXJZYlVvblU0R3VYWDE5cmxxekhDM2p0ZEVWQ3d1M2toSjItSHRiX3UzZkowSDB0N2RsZVN5cG9RbTBSYkczeUMwT3drb21UXzg0bl9EcHp3dmpEOW9CMzJNLWJ3?oc=5",
+       "publisher": "Sports Illustrated",
+       "created": "2026-11-14T18:00:00+00:00"
+      },
+      {
+       "title": "NFL predictions: 3 bold takes on the Cowboys and 49ers game",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTU9EdlhtRFVLWGtaNzZTZXNveTU4Q3c0RjNSazltempVa3BmWkZuYWhfOHBtV0RRTE45aWVHVG8zN1N4bkxxNGZybExfQ0ZYa2VrMWRla29VS1dmZHBnYzVNSi02Y0RwSHpRaE93NFVPTHpKT1Zvb2ZXVFcwa0dnZTZWRQ?oc=5",
+       "publisher": "Yahoo Sports",
+       "created": "2026-11-14T18:00:00+00:00"
+      }
+     ],
+     "fans": [
+      {
+       "title": "Lenoir and Renardo Green back at practice",
+       "url": "https://www.reddit.com/r/49ers/comments/1xvjgfq/lenoir_and_renardo_green_back_at_practice/",
+       "link": null,
+       "domain": null,
+       "author": "shnieder88",
+       "created": "2026-11-13T20:55:12+00:00",
+       "excerpt": "",
+       "score": null,
+       "comments": null,
+       "image_url": "https://i.redd.it/tkorprr01g1i1.jpeg"
+      },
+      {
+       "title": "Kyle Shanahan on Mike Evans' injury progress: \"I'm sure if this were the last game or something, he'd be able to go out there. But we're just trying to make sure it fully heals so it doesn't act up again.\"",
+       "url": "https://www.reddit.com/r/49ers/comments/1xvydf7/kyle_shanahan_on_mike_evans_injury_progress_im/",
+       "link": "https://sports.yahoo.com/articles/49ers-kyle-shanahan-assures-fans-034849152.html",
+       "domain": "sports.yahoo.com",
+       "author": "sour_coleslaw",
+       "created": "2026-11-14T09:34:40+00:00",
+       "excerpt": "",
+       "score": null,
+       "comments": null,
+       "image_url": null
+      }
+     ],
+     "subreddit": "49ers"
+    },
+    {
+     "name": "Seahawks",
+     "errors": [
+      "r/Seahawks: HTTP Error 429: Too Many Requests"
+     ],
+     "record": "5-4",
+     "standing": "2nd in NFC West",
+     "espn_url": "https://www.espn.com/nfl/team/schedule/_/name/sea",
+     "last": {
+      "date": "2026-11-08T21:25Z",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "home": true,
+      "neutral": false,
+      "opponent": "Cardinals",
+      "opponent_rank": null,
+      "us": "17",
+      "them": "3",
+      "won": true,
+      "tv": "Fox"
+     },
+     "next": {
+      "date": "2026-11-15T21:05Z",
+      "state": "pre",
+      "completed": false,
+      "detail": "11/15 - 4:05 PM EST",
+      "home": false,
+      "neutral": false,
+      "opponent": "Raiders",
+      "opponent_rank": null,
+      "us": null,
+      "them": null,
+      "won": null,
+      "tv": "CBS"
+     },
+     "headlines": [
+      {
+       "title": "NFL Week 10 broadcast TV map: Where to watch Raiders vs Seahawks",
+       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUTNpVko0UGE1LWw1UzQwS1J6bW1FRDQxVWtFUmRza3hxZzRDTlk3RVlRMU1zRjJ3N0I0aFoxdXcydmJzT01kM0Y2dmxUajJXS2RvZlI3bWFaeEFKVGlvczUyajcyV2llX1RNSE9DeG9mRzhVVk1YTEhNcV8wajRWeEVzOTdHcTNzdW1fbmc0MUttNS1jVGhSRG5VV0NIMTJRajN5WDB3THVaOHIxcDRpeDFUQm5PRXA3aU1GNjJMOFhWOGd0azhOUFV6SmYzSXdQWHhlVXUxeFYyd2hHS18w?oc=5",
+       "publisher": "Raiders Wire",
+       "created": "2026-11-14T18:30:00+00:00"
+      },
+      {
+       "title": "Jadarian Price rising up Seahawks’ (receiver?) depth chart",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WbXVwVWJUQ0MwOWFnRG4zZUk2cUlSNWZqQm8zeHIwU2VTNjFWNnIwRTJaNGM3M0x6V1hGbkJKMzdmM1Qyb0hIeVJ2bXdXS0xpTkZoVTFZajVPNFROX1Q0NnBKVWRua2l5VUt2RmxCYw?oc=5",
+       "publisher": "Seaside Joe",
+       "created": "2026-11-14T18:09:29+00:00"
+      },
+      {
+       "title": "Seahawks In 10 | Seahawks at Raiders: Week 10",
+       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmTVFnNHBUMzlsRlRMbkVadXZvTXp3WWw0bGdDa1lLT0lvOWpNcHRqbHdEQWFFbHJKMmg4OXhLMmhIQmNwOEJ0OHpWMm1FeHEwcWJGSHp1TGhodnVKVTBnUXZyc2NmdXpRX1k0MXltV2dmXzY3aXpTVUUzaDhOZw?oc=5",
+       "publisher": "Seattle Seahawks",
+       "created": "2026-11-14T18:06:28+00:00"
+      }
+     ]
+    },
+    {
+     "name": "Mariners",
+     "errors": [],
+     "record": "76-86",
+     "standing": "3rd in AL West",
+     "espn_url": "https://www.espn.com/mlb/team/schedule/_/name/sea",
+     "last": null,
+     "next": {
+      "date": "2027-03-25T04:00Z",
+      "state": "pre",
+      "completed": false,
+      "detail": "TBD",
+      "home": true,
+      "neutral": false,
+      "opponent": "Red Sox",
+      "opponent_rank": null,
+      "us": null,
+      "them": null,
+      "won": null,
+      "tv": "MLB.TV"
+     },
+     "headlines": [
+      {
+       "title": "Could Randy Arozarena Return to the Tampa Bay Rays in Free Agency?",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb0xXZ0pianNIUTJlbHJsOTY3UGtiWmZHUERjMldPOURwU3Z3QkJnSTZiS1MtcEgxa3M2UFBQZ0NFYUNMX2JrUjJGX015Yl9WTFRqVlBwS1R2UXUybmdiYjRDQm1lWFo1UHBJQ3FtVUx0WHZabWlIcnNZTll5dVdHVXFqWHVPeW5pclJzalpCS1FpeFh1U1BBM3U2ZFVZcE02YjFZNERCdldkckJlLS15RA?oc=5",
+       "publisher": "roundtable.io",
+       "created": "2026-11-14T18:06:45+00:00"
+      },
+      {
+       "title": "The Mariners’ Own Ballpark May Help Randy Arozarena Land a Bigger Free-Agent Payday",
+       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM0FkOWlFTGthMlpjZ3ZnWFBtRGp4VnhfZUNaWDBzekJfbExHUjFjbjJ3enU1R0RpdEtZX3hncVJYWUJha2JWcGVLbW9tMHdqVWEtM1FfeWZxbmZJNlRUVVRBR0VBZmV5OFpvdGZzaFVxSUlGcDROS3l4TzNiMjNhVnRUMXI3dkhfQ1dnV1pRRUdGaVNKbkItZ1ZZYnZaeUlOZWkyNGVEZWI4ZFhFd0lIeThFbnVseWYzMGlF?oc=5",
+       "publisher": "Sports Illustrated",
+       "created": "2026-11-14T17:15:00+00:00"
+      },
+      {
+       "title": "ESPN's Buster Olney Praises Seattle Mariners' Hire of Bench Coach Tanner Swanson",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1I0X1V4TlNzTTc5TFdMQkpnR1dKN0ppend4X1o2Rko0OVhkcU9HaG95S3B1S0pqVlFlRElEcXVRS2xaM2F4SnNXdlU5Y2lXWU5ocU1hN3dJbTZPelJzMkJRYS1DYms1SDBCODhlRFFJN2owRWlYazhWdWhXekZQYmh2YzBPZVBo?oc=5",
+       "publisher": "Yahoo Sports",
+       "created": "2026-11-14T16:00:38+00:00"
+      }
+     ],
+     "fans": [
+      {
+       "title": "Who put Julio in charge of the FAA?",
+       "url": "https://www.reddit.com/r/Mariners/comments/1xvnlz9/who_put_julio_in_charge_of_the_faa/",
+       "link": null,
+       "domain": null,
+       "author": "darwinpolice",
+       "created": "2026-11-13T23:49:21+00:00",
+       "excerpt": "",
+       "score": null,
+       "comments": null,
+       "image_url": "https://i.redd.it/5j2l4ne3wg1i1.jpeg"
+      },
+      {
+       "title": "Just finished this commission for Mariners custom Converse",
+       "url": "https://www.reddit.com/r/Mariners/comments/1xw65ac/just_finished_this_commission_for_mariners_custom/",
+       "link": null,
+       "domain": null,
+       "author": "No_Concert_8042",
+       "created": "2026-11-14T16:11:42+00:00",
+       "excerpt": "Wanted to make them in the style of throwback uniforms",
+       "score": null,
+       "comments": null,
+       "image_url": "https://i.redd.it/ns9j2kkcrl1i1.jpeg"
+      }
+     ],
+     "subreddit": "Mariners"
+    }
+   ],
+   "method": "espn+news",
+   "source": "Results from ESPN, headlines from Google News",
+   "status": "ok",
+   "items": []
+  },
+  {
+   "id": "college-hoops",
+   "title": "College Basketball",
+   "type": "sports",
+   "teams": [
+    {
+     "name": "San José State men",
+     "errors": [],
+     "record": "1-2",
+     "standing": "1st in Mountain West",
+     "espn_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/23",
+     "last": {
+      "date": "2026-11-13T03:00Z",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "home": true,
+      "neutral": false,
+      "opponent": "UC Riverside",
+      "opponent_rank": null,
+      "us": "75",
+      "them": "80",
+      "won": false,
+      "tv": "MW+"
+     },
+     "next": {
+      "date": "2026-11-16T02:00Z",
+      "state": "pre",
+      "completed": false,
+      "detail": "11/15 - 9:00 PM EST",
+      "home": true,
+      "neutral": false,
+      "opponent": "Alabama St",
+      "opponent_rank": null,
+      "us": null,
+      "them": null,
+      "won": null,
+      "tv": "MW+"
+     },
+     "headlines": [
+      {
+       "title": "DawgmanRadio: Our Michigan State pregame show!",
+       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQUDF0Sk5vWVRPWWVWYUVMQm50Qm1SWnFSRDZlbXZmMmx2OExjUUFTQ1lLMlpsYnhTQ293NlhKWkFBVkJCWlRDbEdkSTN2RzVtUlZMdWtuQTNxRUR1REFaRF9BWHMxMVhhMGRpWl82djNIN010VDhxM2ZjYnI1dW1IMGZ3M2M3dmZaRXlXRlVUZWRVQzJScEI0aVA4bXhXTVVkZ2YwTXVxc1R5NkMwWW9mUjhnRnZTLWRRdVJmRkxYVkxiR1VqMGkzcmdVVU5KM3FRUG9WUkVTUEk1T0xvTGt6eFVGOHpyanVqZEtEVzI2bVo4dUYwOERRMWc5TVZTck9xN2tfZVJTMEtkMmZlbmVZckVxUmVvbkFF?oc=5",
+       "publisher": "247Sports",
+       "created": "2026-11-14T14:23:17+00:00"
+      },
+      {
+       "title": "Bay Area teams affected by FAA grounding flights: SJSU Spartans turned around on the tarmac",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU1hzSkhDY09ZdHlObk0zYzBnS2FRd1RGZ09Wam1Lc0dFUzF2V2xFd05LcEx5Tk1FcXFGUEJlOWRyT3dONnhBSlhldEN6SWlRN2tHaFFMdUk4QzU0U2dham9oUUw2V21ELUp1QzJUTUw4RWhIcU9mQ2ozWTdpanBEN2RiYmFiVlRLQlh2TFlvd2JKM25hT2VWdjZyMFBQcWlpSEdV?oc=5",
+       "publisher": "San Francisco Chronicle",
+       "created": "2026-11-14T02:40:27+00:00"
+      },
+      {
+       "title": "Duckett leads UC Riverside against Fresno State after 22-point showing",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNUlvVzRUNWh0MF92MmJUZ194QkRLa2NhT0hXRFItRDBLeEZGNTdYcFlQUWJTZ0ttbjhSTjlWRWo0bDBhd0s1WVdUcUZpUFRlZmJ3Ujd5SVNES1B3UHc3VzJNZndmZTkySU5uN1NuV1RzZkRycUhXWkNlVmtSYTBzcjlEdmpnNXUzZ2JhdUIwMEd0N3NveGxiUmJuQmR0UEdzZVJpVmh5d2x6RkpW?oc=5",
+       "publisher": "FOX Sports",
+       "created": "2026-11-13T09:43:13+00:00"
+      }
+     ]
+    },
+    {
+     "name": "Stanford men",
+     "errors": [],
+     "record": "3-1",
+     "standing": "1st in ACC",
+     "espn_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/24",
+     "last": {
+      "date": "2026-11-14T02:00Z",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "home": false,
+      "neutral": false,
+      "opponent": "UNLV",
+      "opponent_rank": null,
+      "us": "68",
+      "them": "76",
+      "won": false,
+      "tv": "CBSSN"
+     },
+     "next": {
+      "date": "2026-11-18T03:00Z",
+      "state": "pre",
+      "completed": false,
+      "detail": "11/17 - 10:00 PM EST",
+      "home": true,
+      "neutral": false,
+      "opponent": "UC Irvine",
+      "opponent_rank": null,
+      "us": null,
+      "them": null,
+      "won": null,
+      "tv": "ACCNX"
+     },
+     "headlines": [
+      {
+       "title": "Runnin' Rebels Improve To 3-0 With 76-68 Victory Over Stanford",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR09LVUlHZERqUFlBcV96VEFfcDYwdUxPTjFVcXJJUGFNWEx4Q3h0QkNfbHFvOWl1X0YxbGVfSVlFUDc5OUIyVGF5bmpnVDU5LWhGYlBaSDRXUVVxRnpuYnZETVlDZFNfclRVN3g4OHIyTjdEN0lLMTFOSVR5RDRKOUx3LUh0VmZVOG5neDY2aDhvRlVBMUxhY1ZTR0V5aW5LLVBZX0I5TTZ2TFVLQmtuVjhEQlkyd1E?oc=5",
+       "publisher": "Mountain West Conference",
+       "created": "2026-11-14T15:28:44+00:00"
+      },
+      {
+       "title": "Recap: No. 24 Stanford Women’s Volleyball powers past Clemson",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTzU3X3Y5RVA3UWNPZ1pBUFRobmJEOGw0NFljSVk5ODRqT3p1eG14Tnhaamg2RFRqWkdibWN0bXZydGVvTGotaTQwVXJFSGZpOUdHOWZoYVVzdEtyeHJuS1kzVkxHQm1KUmpuLTA1cGoyLWFYYUljQ0NYRDl5eGVpSVFBajVuRThMUlZRbXRiSl8zQ0h6YVp1TVpleUp6dmdQamEzUGJmZUxLdHExWnVTbGlkZw?oc=5",
+       "publisher": "On3",
+       "created": "2026-11-14T11:40:29+00:00"
+      },
+      {
+       "title": "Recap: Stanford Women’s Basketball gets road win at Santa Clara",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDlQSkZsVUptNF9qSmtxV0t5NFNOTzUwUTNVSGpjQ2hyZGY2Z183dEsxWi1zNDUzXzkwSlhTckZadlZRV05aaG5DYTdjdDBmNVd4QTRhYTExUFNzY0FQck9hc3pDV3k2NFBFeGhHcjVqX3M1N09UU0lITERwQTV2QUdIamZDRURXTzB3VnVoMXBoNGtfMzRUb0RtRDN5Rmp2UUJPa2JqYWUzOFpXREVhUGg4ZkJpZWc?oc=5",
+       "publisher": "On3",
+       "created": "2026-11-14T10:03:10+00:00"
+      }
+     ]
+    },
+    {
+     "name": "Stanford women",
+     "errors": [],
+     "record": "3-1",
+     "standing": "1st in ACC",
+     "espn_url": "https://www.espn.com/womens-college-basketball/team/schedule/_/id/24",
+     "last": {
+      "date": "2026-11-14T03:00Z",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "home": false,
+      "neutral": false,
+      "opponent": "Santa Clara",
+      "opponent_rank": null,
+      "us": "66",
+      "them": "55",
+      "won": true,
+      "tv": "ESPN+"
+     },
+     "next": {
+      "date": "2026-11-15T22:00Z",
+      "state": "pre",
+      "completed": false,
+      "detail": "11/15 - 5:00 PM EST",
+      "home": true,
+      "neutral": false,
+      "opponent": "Gonzaga",
+      "opponent_rank": null,
+      "us": null,
+      "them": null,
+      "won": null,
+      "tv": "ACCNX"
+     },
+     "headlines": [
+      {
+       "title": "Recap: No. 24 Stanford Women’s Volleyball powers past Clemson",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTzU3X3Y5RVA3UWNPZ1pBUFRobmJEOGw0NFljSVk5ODRqT3p1eG14Tnhaamg2RFRqWkdibWN0bXZydGVvTGotaTQwVXJFSGZpOUdHOWZoYVVzdEtyeHJuS1kzVkxHQm1KUmpuLTA1cGoyLWFYYUljQ0NYRDl5eGVpSVFBajVuRThMUlZRbXRiSl8zQ0h6YVp1TVpleUp6dmdQamEzUGJmZUxLdHExWnVTbGlkZw?oc=5",
+       "publisher": "On3",
+       "created": "2026-11-14T11:40:29+00:00"
+      },
+      {
+       "title": "Recap: Stanford Women’s Basketball gets road win at Santa Clara",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDlQSkZsVUptNF9qSmtxV0t5NFNOTzUwUTNVSGpjQ2hyZGY2Z183dEsxWi1zNDUzXzkwSlhTckZadlZRV05aaG5DYTdjdDBmNVd4QTRhYTExUFNzY0FQck9hc3pDV3k2NFBFeGhHcjVqX3M1N09UU0lITERwQTV2QUdIamZDRURXTzB3VnVoMXBoNGtfMzRUb0RtRDN5Rmp2UUJPa2JqYWUzOFpXREVhUGg4ZkJpZWc?oc=5",
+       "publisher": "On3",
+       "created": "2026-11-14T10:03:10+00:00"
+      },
+      {
+       "title": "Stanford vs. Santa Clara Highlights | 2026-27 ACC Women’s Basketball",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSUFBV2RlemRBT3hPOXdmRGxXcjRoYzI5bVJ5S0JRU2wxTGhMeHV2SVE4YXU0NmJsSmE1c19FQmNiLWF6a3VucHdHYS03YTVwc05sR0ZDZTE3ME8weWlJZUJzbXZLX2xkRzZ6eXU0NmVJRjNJX3FGWUJBektOcUZvNHBkUzJrWDBZNXhwMGVqNjlhVEVtbWo0ZmJDaERsTG8?oc=5",
+       "publisher": "BVM Sports",
+       "created": "2026-11-14T09:30:28+00:00"
+      }
+     ]
+    },
+    {
+     "name": "Santa Clara men",
+     "errors": [],
+     "record": "4-0",
+     "standing": "1st in WCC",
+     "espn_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2541",
+     "last": {
+      "date": "2026-11-12T01:00Z",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "home": false,
+      "neutral": false,
+      "opponent": "North Texas",
+      "opponent_rank": null,
+      "us": "76",
+      "them": "71",
+      "won": true,
+      "tv": "ESPN+"
+     },
+     "next": {
+      "date": "2026-11-15T03:00Z",
+      "state": "pre",
+      "completed": false,
+      "detail": "11/14 - 10:00 PM EST",
+      "home": true,
+      "neutral": false,
+      "opponent": "New Mexico",
+      "opponent_rank": null,
+      "us": null,
+      "them": null,
+      "won": null,
+      "tv": "ESPN+"
+     },
+     "headlines": [
+      {
+       "title": "Recap: Stanford Women’s Basketball gets road win at Santa Clara",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDlQSkZsVUptNF9qSmtxV0t5NFNOTzUwUTNVSGpjQ2hyZGY2Z183dEsxWi1zNDUzXzkwSlhTckZadlZRV05aaG5DYTdjdDBmNVd4QTRhYTExUFNzY0FQck9hc3pDV3k2NFBFeGhHcjVqX3M1N09UU0lITERwQTV2QUdIamZDRURXTzB3VnVoMXBoNGtfMzRUb0RtRDN5Rmp2UUJPa2JqYWUzOFpXREVhUGg4ZkJpZWc?oc=5",
+       "publisher": "On3",
+       "created": "2026-11-14T10:03:10+00:00"
+      },
+      {
+       "title": "Preview: Stanford Women’s Basketball heads to Santa Clara to battle the Broncos",
+       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPejJPWjExaDB3WEZ5Zml1Z1ZwaXlVSkNjNUxpZzRPanlnVDBoUEtvYjZuakZMTk15aFA1MFFXeVdhaGJrUjR2RVlSM0wxZ2o0S2RDd0ZaalZtMGZaQjdQdnBjSnJ5MzlGR0s4NjVIVG1YeVlFZVBEQ29WRkZpQmtNTjFMUmN5WFFvM2lkUGp4MzRqOERjREdsWkFwLUROelhpMGd5TkdSY2pDVTFRSVFfdjh4eTE4UHRrbUlQZFdYUFFqM1dPM1Jrd1Itb2U?oc=5",
+       "publisher": "On3",
+       "created": "2026-11-14T02:20:02+00:00"
+      },
+      {
+       "title": "Santa Clara completes comeback to stun North Texas men’s basketball 76-71",
+       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWWczMG9IbDVTdTJYamQ1YzNiUjU5UTBpNndLMklhbUpRc2xmcEdXWGdxa2hPbmlZYTgwT1Q1MERuRjlMRktxMlFtVnpaRVhuZl9sei0yQkQ2a0F4aXE1R1p4MXRhNXNsQ2lXOGVzWUhqQUpzbGNxRlRXeWdGYVRzZFcxeVZNSzRxQmRwMndZbC1vSVJZcXFEaWNUUURUaGtDeTE4TXdpTTYxNnVLcFNWb3NsMi1WX1VSVUtsNFZtRVR5RGZBYmVSbHdIN3R0eGRuWXFjV0VoVjkzTFRpVDE5TWc5UDI5d3FLbnc?oc=5",
+       "publisher": "North Texas Daily",
+       "created": "2026-11-13T02:00:00+00:00"
+      }
+     ]
+    },
+    {
+     "name": "Washington men",
+     "errors": [],
+     "record": "2-0",
+     "standing": "1st in Big Ten",
+     "espn_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/264",
+     "last": {
+      "date": "2026-11-10T03:00Z",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "home": true,
+      "neutral": false,
+      "opponent": "Miss Valley St",
+      "opponent_rank": null,
+      "us": "77",
+      "them": "64",
+      "won": true,
+      "tv": "BTN"
+     },
+     "next": {
+      "date": "2026-11-15T19:00Z",
+      "state": "pre",
+      "completed": false,
+      "detail": "11/15 - 2:00 PM EST",
+      "home": false,
+      "neutral": false,
+      "opponent": "Utah",
+      "opponent_rank": null,
+      "us": null,
+      "them": null,
+      "won": null,
+      "tv": "ESPN+"
+     },
+     "headlines": [
+      {
+       "title": "Mark Pope says he hopes Kentucky fans 'had fun' after near historic upset as a 34.5-point favorite vs. NAU",
+       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNck1HTVlCMmZxT2xsMHlRXy1WbjdTODV6aGhxNC1tdl92U1B4U1VVNFlaNzJ4dFp1S1RXSWZvZGpSeGw3czE5c2RNUDBoSHJ3aFFUNFlac3VjdzZxbEt5OFZBYXBSSlRsU2JfVGF3QV9Nem5tamd3WTJWcFdLZDFJOF9oX2U2VGo4UEFNUG1obGRxWjF4X0NGUjFVdUJJTFBxQlM2X3JhRUY4Rms5RVRJYTE5S2FibUtueGIwTEFnZzc2bkdKY3RrSXg4VUFQQUJnVk9hQ2xORG52emFWWGVuNHdRVHZueDMxSktfbGxGbVhXZjlzMkZZcHI3MA?oc=5",
+       "publisher": "thepress.net",
+       "created": "2026-11-14T16:16:57+00:00"
+      },
+      {
+       "title": "Washington basketball will live by the three-pointer in 2026-27",
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUEFwd0dOTWoyRThJYWZNV1N6eEQ1cEd2ajlSUlU1ZnJOMXNiVGVKeTRlaEVqRlNiQnFfSlh2aVZIcTYtSGN1S1BlM1Q3RFR2aGhGMFZTdW1yNkliSXlWT2VFUURScm5sY25qZnRxTE1DVTJRbHhhQzdVQmVCNkJTN25fanBCMVBQWng0VWxRUjFnbnM?oc=5",
+       "publisher": "Yahoo Sports",
+       "created": "2026-11-14T15:01:10+00:00"
+      },
+      {
+       "title": "Cowboys football faces travel delay, Cowboys hoops set for road test in Denver",
+       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOOFZDSG5yYXNScGR5aGxSQUw1QjN6N2I5TmlsZHNoSm02RlNfLTdwWUZXY1YwNlJ4OGt3X25EaDdwbDU4X2tCTDdTZjFsdzExNnFnQlZsdm9zRnBLTTZSWEZodnV4akswT1lFVVZmcnBLYVIyUTlhSlV1Szh3VFY2YVAzNXhKSk53a1ZiV2x1TmlJZjFCcW8xcGhWMkZRVFpTZ3R4Tzdvb1lJVEdyeTFpOWs2dHd0WC1ISFFXNGxoM3JFSE5HSDdMWVNILXZnRzZUaGdqdFhRS0NaZGVieHFRTXJYWTJ0b3VTN3M3azVPSW42Ykp1NU5SeG1RMTlYRnlBdWEw?oc=5",
+       "publisher": "WyomingNews.com",
+       "created": "2026-11-14T12:00:00+00:00"
+      }
+     ]
+    },
+    {
+     "name": "Washington women",
+     "errors": [],
+     "record": "3-0",
+     "standing": "1st in Big Ten",
+     "espn_url": "https://www.espn.com/womens-college-basketball/team/schedule/_/id/264",
+     "last": {
+      "date": "2026-11-13T03:00Z",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "home": true,
+      "neutral": false,
+      "opponent": "Bakersfield",
+      "opponent_rank": null,
+      "us": "85",
+      "them": "51",
+      "won": true,
+      "tv": "B1G+"
+     },
+     "next": {
+      "date": "2026-11-18T03:30Z",
+      "state": "pre",
+      "completed": false,
+      "detail": "11/17 - 10:30 PM EST",
+      "home": false,
+      "neutral": false,
+      "opponent": "Washington St",
+      "opponent_rank": null,
+      "us": null,
+      "them": null,
+      "won": null,
+      "tv": null
+     },
+     "headlines": [
+      {
+       "title": "Avery Howell Continuing to bring Game to New Level For No. 16 Washington Huskies",
+       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT282bDY5bjdSOU9IVk1qakxPUWFRZ3hobEhHYXE1TmlDc3FRaVA1ejY1bFdPalJZUHlxZ2dEZlVvU1UyMDNENTNLR01kRGx3WkFLWmtNSGpjN1NPQ2gxMzh0UnlLQ2xIQ0xxclJkSlAtNXk2cHJFMzB0YkNoVm11UXp3QzJVOXhiTktCTTdLV2FFaS1sbDB2LVJ3eG5LR1FrZDdFYTRoNGJYRHpqM1RzcUpRR3lubDh1aUZKdEFKYVFDc2I2dlM0?oc=5",
+       "publisher": "roundtable.io",
+       "created": "2026-11-14T07:38:11+00:00"
+      },
+      {
+       "title": "Oregon women's basketball rallies past Maine behind record performances",
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcVRoNzN2WTJRanBFeVZldnY4VnhBbWg3U2Y4RldwLVZXSks4Q3pyYjhaVlFlSHRXYmlBanZmelE1bnBDWFo5ZUdZTlNQbnp1alE0d3RIZjVmN2d3MUhtQ2hpcTFWNVFaTDB6V3BNTGN4N254bzBfY1QycGY1WE9RR2s5aEU0VDlxeExobmJYNA?oc=5",
+       "publisher": "Yahoo Sports",
+       "created": "2026-11-14T02:11:00+00:00"
+      },
+      {
+       "title": "UConn Women's Basketball: Huskies Make Top Five For Top 2027 Recruit",
+       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMzlrU09DOE83Z0UzOTQ0dzhvY2RXM1VneV80WjkyQ3c2WnFiN3U2ZWdtYzI3dWpxR2FnVWt2VlBBRWJlTHIzZGkzZzNOODZJbUF5SzN4TTVJSnYteEVNY05Bd2t6Z3NSeXlKMjRHWUg0UElrdnVFTmZpRnp1aW1MYzA1WXB5YnctLTJwMg?oc=5",
+       "publisher": "Yahoo Sports",
+       "created": "2026-11-13T23:57:20+00:00"
+      }
+     ]
+    }
+   ],
+   "method": "espn+news",
+   "source": "Results from ESPN, headlines from Google News",
+   "status": "ok",
+   "items": []
+  }
+ ]
+}

@@ -1,8 +1,8 @@
 {
  "title": "The Daily Build",
  "motto": "Projects, workflows, small computers and the home teams, collected every morning.",
- "date": "2026-11-13",
- "generated_at": "2026-11-13T12:08:43.772351-08:00",
+ "date": "2026-11-14",
+ "generated_at": "2026-11-14T10:34:10.774381-08:00",
  "timezone": "America/Los_Angeles",
  "lead_section": "side-projects",
  "sections": [
@@ -17,101 +17,101 @@
    "status": "ok",
    "items": [
     {
-     "title": "I made an engine simulator for phones",
-     "url": "https://www.reddit.com/r/SideProject/comments/1xuxgvq/i_made_an_engine_simulator_for_phones/",
-     "link": "https://v.redd.it/rhic86m8wa1i1",
+     "title": "I built a quiet online room where strangers just study together",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xvrhcn/i_built_a_quiet_online_room_where_strangers_just/",
+     "link": "https://v.redd.it/j32v4imlth1i1",
      "domain": "v.redd.it",
-     "author": "baechoo24",
-     "created": "2026-11-13T03:39:32+00:00",
-     "excerpt": "Took the F1 V10 for an imaginary lap of the Nürburgring. ----- Edit: Thanks for all the interest! Here are the download links if you'd like to try - iOS App Store - Android PlayStore",
+     "author": "CrimsonAhn",
+     "created": "2026-11-14T02:57:13+00:00",
+     "excerpt": "In Korea there's this thing called a dokseosil. It's a paid room full of little cubicle desks where everyone studies in silence. Nobody really goes for the desk. You go because when the person next to you is grinding, you feel kind of bad scrolling your phone. I wanted that feeling at home, so I made a small online…",
      "score": null,
      "comments": null
     },
     {
-     "title": "My dog lived 18 years. I built her a tiny 3D memorial, and strangers have now lit 657,000 candles for 25,000 pets.",
-     "url": "https://www.reddit.com/r/SideProject/comments/1xv6l3f/my_dog_lived_18_years_i_built_her_a_tiny_3d/",
-     "link": "https://v.redd.it/hvwvqwujid1i1",
+     "title": "Our chili crunch side project has sold over 1,500 jars in 3.5 months generating 25K in revenue",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xw7b36/our_chili_crunch_side_project_has_sold_over_1500/",
+     "link": "https://v.redd.it/8jsjs9txsj1i1",
      "domain": "v.redd.it",
-     "author": "gurabara",
-     "created": "2026-11-13T12:28:15+00:00",
-     "excerpt": "Solo dev from New Zealand here. My dog Bella lived to 18. When she died I wanted something quieter than a social media post, so I built a small 3D memorial hall you can walk through in the browser. Find a spot on the wall, put up a photo, light a candle. I shared it once. Less than 8 days later: - 24,994 pets - 107…",
+     "author": "CarterGee",
+     "created": "2026-11-14T16:59:20+00:00",
+     "excerpt": "The majority of side projects I see here are virtual, so here's a virtual product to spice things up (pun intentional). Monday through Friday, my husband I are start at our screens for our full time jobs, but for the past 3.5 months we've spent almost every weekend in a commercial kitchen on Treasure Island in San…",
      "score": null,
      "comments": null
     },
     {
-     "title": "SpiderMan POV project using threejs and MediaPipe",
-     "url": "https://www.reddit.com/r/SideProject/comments/1xv3f44/spiderman_pov_project_using_threejs_and_mediapipe/",
-     "link": "https://v.redd.it/q2z4zjl6jc1i1",
+     "title": "I built an iPhone app where you roll the dice and land on a music radio station somewhere on Earth",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xw2rw9/i_built_an_iphone_app_where_you_roll_the_dice_and/",
+     "link": "https://v.redd.it/5w4wklx41l1i1",
      "domain": "v.redd.it",
-     "author": "Objective_Fly_6750",
-     "created": "2026-11-13T09:26:07+00:00",
-     "excerpt": "Hello guys! I have built AR projects before, but I had this idea for a while: using MediaPipe Tasks Vision to create a kind of web experience, without the need to use any markers, where you are Spider-Man from a first-person POV, and you can do the hand gesture to swing around and maybe fight villains. I started it a…",
+     "author": "Own-Bottle558",
+     "created": "2026-11-14T13:45:45+00:00",
+     "excerpt": "I go for a walk every night, and that's when I dig for new music. Mostly bands, and honestly I listen to everything from classical to hard rock and metal lol. These days every app has an algorithm that keeps recommending music that sounds like what I already like, and when I want to hear something different, the…",
      "score": null,
      "comments": null
     },
     {
-     "title": "I've just redesign my personal website",
-     "url": "https://www.reddit.com/r/SideProject/comments/1xv1hou/ive_just_redesign_my_personal_website/",
-     "link": "https://v.redd.it/02tpiaib0c1i1",
+     "title": "I got tired of shouting through the house, so I built an app that knocks on my family's phones over WiFi",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xvzwjl/i_got_tired_of_shouting_through_the_house_so_i/",
+     "link": "https://v.redd.it/n2g0zoue9k1i1",
      "domain": "v.redd.it",
-     "author": "rarale",
-     "created": "2026-11-13T07:24:25+00:00",
-     "excerpt": "I'm mainly a software engineer, was a UX/UI designer and know about animation, so I combined all of my skills and redesign my portfolio. I hope you like it. About the design, since I love Tron Legacy movie, the lines and the grid were inspired from this intro Take a look here kien.app",
+     "author": "TKZ111",
+     "created": "2026-11-14T11:10:53+00:00",
+     "excerpt": "Hey everyone! I've been building Familiar Knock Knock, an Android app that works like a doorbell for the people in your house. The idea came from a simple frustration: shouting up the stairs, or phoning someone who's in the next room, and getting no answer because they have headphones on or their phone is on silent…",
      "score": null,
      "comments": null
     },
     {
-     "title": "My side project: a fusion between CAD and Paint",
-     "url": "https://www.reddit.com/r/SideProject/comments/1xupkis/my_side_project_a_fusion_between_cad_and_paint/",
-     "link": "https://v.redd.it/c9g429s3491i1",
-     "domain": "v.redd.it",
-     "author": "lepontvert",
-     "created": "2026-11-12T21:40:01+00:00",
-     "excerpt": "I wanted a simple way to sketch an idea and communicate it to someone else, without sacrificing proportions or precise dimensions. Paint felt too limited, CAD felt like overkill. So I started building something in between. Here's a quick look at how it works. It's still a work in progress. I'd genuinely love to hear…",
-     "score": null,
-     "comments": null
-    },
-    {
-     "title": "I built Pickerama — a free visual random picker, because nobody on our team wanted to lead the daily",
-     "url": "https://www.reddit.com/r/SideProject/comments/1xv4zkq/i_built_pickerama_a_free_visual_random_picker/",
-     "link": "https://v.redd.it/h9n4yz640d1i1",
-     "domain": "v.redd.it",
-     "author": "Certain_Performer481",
-     "created": "2026-11-13T11:02:55+00:00",
-     "excerpt": "Our team needed to pick someone to lead the daily standup for the next two weeks. Nobody wanted to “win”, so I thought it would be fun to make the selection a little more dramatic and fun. I built Pickerama: a free random picker with different animated scenes. You can use it to choose a person or pick from a list of…",
-     "score": null,
-     "comments": null
-    },
-    {
-     "title": "Major Update: Clear fishtank widgets without being in clear mode, with fish that actually swim around 🐠🪼🐙",
-     "url": "https://www.reddit.com/r/SideProject/comments/1xv6atv/major_update_clear_fishtank_widgets_without_being/",
-     "link": "https://v.redd.it/0hphe1evfd1i1",
-     "domain": "v.redd.it",
-     "author": "tiaanvdr",
-     "created": "2026-11-13T12:13:10+00:00",
-     "excerpt": "What Companions is: Widgets on iOS are supposed to be static. I always found that unnecessarily limiting, so I built an app that circumvents it. Companions lets you keep a virtual fishtank on your Homescreen, filled with fish that actually swim around. As someone who’s always kept fish, I’ve had this idea mulling…",
-     "score": null,
-     "comments": null
-    },
-    {
-     "title": "I am searching Founders like me for connect in weekly calls for motivation and share opinion.",
-     "url": "https://www.reddit.com/r/SideProject/comments/1xv7ltp/i_am_searching_founders_like_me_for_connect_in/",
+     "title": "Crossed 3400 in revenue and hit 50 paying customers on day 98, and I wrote down how every single one of them found me",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xvh79s/crossed_3400_in_revenue_and_hit_50_paying/",
      "link": null,
      "domain": null,
-     "author": "Ill-Cardiologist1346",
-     "created": "2026-11-13T13:16:08+00:00",
-     "excerpt": "hi there, i'm Luigi form Italy. I am a solo Founder of a SaaS and sometimes i feel so lost. for this motivation, i hope to organize a group of solo founders for some calls (with me or between you) to share opinions and what we doing in a day life. i would like that only two things will do it: 1- share what is going…",
+     "author": "piyush-sachdeva",
+     "created": "2026-11-13T19:27:01+00:00",
+     "excerpt": "I'm a cloud engineer with a full-time job, and in the evenings I build ReelDrop.io , an Instagram scheduling and comment-to-DM tool. It launched on August 5. Customer 50 paid on November 11, day 98. Today I have 52 paying customers from 21 countries, and about CA$3,410 was collected after refunds, before Stripe fees…",
      "score": null,
      "comments": null
     },
     {
-     "title": "I revived my 13 year old social network project. Here's the story.",
-     "url": "https://www.reddit.com/r/SideProject/comments/1xv6su2/i_revived_my_13_year_old_social_network_project/",
+     "title": "Need opinions on my game trailer",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xvt6nt/need_opinions_on_my_game_trailer/",
+     "link": "https://v.redd.it/yvjeoc7q9i1i1",
+     "domain": "v.redd.it",
+     "author": "SavageServices",
+     "created": "2026-11-14T04:27:40+00:00",
+     "excerpt": "After what seems to be a lifetime building this silly little phone game it turns out that was half the battle, the other half involves a good catchy trailer, marketing and advertisement. to be honest i am struggling with making this trailer so i need everyone's honest and brutal opinion, what stands out? what it…",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "I built a desktop app that clones your own voice locally, then reads text, whole audiobooks or dubs videos in it",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xvlm6n/i_built_a_desktop_app_that_clones_your_own_voice/",
+     "link": "https://v.redd.it/06oh5gx0gg1i1",
+     "domain": "v.redd.it",
+     "author": "Secret_Experience_17",
+     "created": "2026-11-13T22:21:47+00:00",
+     "excerpt": "Started because I wanted to dub my own videos in English with an American accent, in my own voice (I'm not a native speaker). Ended up as a full desktop app. You read a guided text for about 6 minutes, it trains a voice model on your PC, and then: Speak: type text in 60 languages and hear it in your voice. Native…",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "Solo dev here. 5 months building the investing dashboard I wanted: all my brokers, a stock screener and alerts in one place; talks to my Claude over MCP. Feedback welcome, happy to discuss how it’s built.",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xvhe1j/solo_dev_here_5_months_building_the_investing/",
+     "link": "https://v.redd.it/niaxdwgjff1i1",
+     "domain": "v.redd.it",
+     "author": "Accomplished_Bet586",
+     "created": "2026-11-13T19:34:17+00:00",
+     "excerpt": "Hi all! For many years I invest regularly into stocks+ETFs on Revolut, Degiro and my local brokerage and crypto on couple of crypto exchanges + hold some in my cold HW wallet. Every month I faced the issue of what to buy that has currently good value, P/E, PEG ratio, etc., how to rebalance to have well diversified…",
+     "score": null,
+     "comments": null
+    },
+    {
+     "title": "How can we get more app downloads without becoming influencers?",
+     "url": "https://www.reddit.com/r/SideProject/comments/1xvfwry/how_can_we_get_more_app_downloads_without/",
      "link": null,
      "domain": null,
-     "author": "joanmiro",
-     "created": "2026-11-13T12:38:59+00:00",
-     "excerpt": "Back in 2013, before AI and back when asking a question on Stack Overflow meant getting your ass handed to you, I built a little social network called resm.in. My home internet was garbage, so I'd print docs at an internet café and read them at home like a caveman. The idea was dead simple: people post questions, you…",
+     "author": "primatecode",
+     "created": "2026-11-13T18:38:36+00:00",
+     "excerpt": "Nowadays, if watch any YouTube tutorial or read a Twitter thread about app marketing, you'll always hear the same advice: \"U need to build an audience on tiktok or another social media plataforma and bla bla bla\". But that usually means becoming a content creator (personal or making AI generated videos), just to get…",
      "score": null,
      "comments": null
     }
@@ -183,13 +183,13 @@
      "comments": null
     },
     {
-     "title": "[Workflow] Improving AI-Generated Music Quality with Claude and DAWs: A Troubleshooting and Audio Analysis Feedback Workflow",
-     "url": "https://www.reddit.com/r/ClaudeWorkflows/comments/1xq74xj/workflow_improving_aigenerated_music_quality_with/",
+     "title": "[Workflow] Dispatch headless coding agents across machines using GitHub issues",
+     "url": "https://www.reddit.com/r/ClaudeWorkflows/comments/1xvwy95/workflow_dispatch_headless_coding_agents_across/",
      "link": null,
      "domain": null,
      "author": "ClaudeAI-mod-bot",
-     "created": "2026-11-07T14:04:45+00:00",
-     "excerpt": "Improving AI-Generated Music Quality with Claude and DAWs: A Troubleshooting and Audio Analysis Feedback Workflow Workflow value: 85/100 Status: active · Freshness: 70/100 · Confidence: 0.95 · Level: intermediate Categories: Quality Control, Context & Memory, Debugging, Shipping Original source: r/ClaudeCode…",
+     "created": "2026-11-14T08:04:37+00:00",
+     "excerpt": "Dispatch headless coding agents across machines using GitHub issues Workflow value: 76/100 Status: active · Freshness: 70/100 · Confidence: 0.96 · Level: advanced Categories: Quality Control, Context & Memory, Debugging, Shipping, Skills, MCP, Multi-Agent Original source: r/ClaudeCode post/comment What problem this…",
      "score": null,
      "comments": null
     }
@@ -204,46 +204,7 @@
    "min_score": 5,
    "method": "rss",
    "status": "ok",
-   "items": [
-    {
-     "title": "Open source HDMI to CSI board for the Pi: 4K30 and 1080p120 (RK628H, vs the usual TC358743)",
-     "url": "https://www.reddit.com/r/raspberry_pi/comments/1xvdu8l/open_source_hdmi_to_csi_board_for_the_pi_4k30_and/",
-     "link": null,
-     "domain": null,
-     "author": "adouglass52",
-     "created": "2026-11-13T17:21:57+00:00",
-     "excerpt": "While building my own KVM, I made a few small HDMI capture boards around the Rockchip RK628H. The documentation is terrible around these chips, but the performance is impressive for the cost. We've moved the bridge onto our own boards now, so I've put all three up as open hardware: schematics, Fusion and EAGLE files…",
-     "score": null,
-     "comments": null,
-     "image": {
-      "src": "https://preview.redd.it/sgukgsilxe1i1.png?width=140&height=78&auto=webp&s=afeed7fc2706fe671ae4acf115e9280086fe0db3",
-      "kind": "post",
-      "credit": "Image posted by u/adouglass52"
-     }
-    },
-    {
-     "title": "Advice on Construction of a PI-4 Cluster Power Supply",
-     "url": "https://www.reddit.com/r/raspberry_pi/comments/1xuygzv/advice_on_construction_of_a_pi4_cluster_power/",
-     "link": null,
-     "domain": null,
-     "author": "Global_Standard516",
-     "created": "2026-11-13T04:32:10+00:00",
-     "excerpt": "Hi, I am currently in the process of finalizing my design for a PI switching PSU. The current bill of materials ends up being much cheaper than buying a USB hub and the appropriate cables. I was looking for advice on my design and flaws within it. Additional Information: Pi's used (x4): Raxda Pi Rock 4 Plus V1.73…",
-     "score": null,
-     "comments": null
-    },
-    {
-     "title": "I messed up a fresh install and killed my desktop. Help please?",
-     "url": "https://www.reddit.com/r/raspberry_pi/comments/1xunfjr/i_messed_up_a_fresh_install_and_killed_my_desktop/",
-     "link": null,
-     "domain": null,
-     "author": "hotrods1970",
-     "created": "2026-11-12T20:15:15+00:00",
-     "excerpt": "Hi all. I had just flashed and started a fresh install of Pi OS & Pi hole on my Pi5. I wanted to see what KDE Plasma would look like on in and installed it. Immediately didn't like it and followed this command; sudo apt autoremove --purge kde and that seems to have wiped out the Pi OS desktop too in the process. I…",
-     "score": null,
-     "comments": null
-    }
-   ]
+   "items": []
   },
   {
    "id": "research-papers",
@@ -318,22 +279,22 @@
      },
      "headlines": [
       {
-       "title": "Field coordinator, catching coach Alex Burg leaving SF Giants to join Guardians: source",
-       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdExnYnY5eWpVcmdoQl9BWGFGcGlUYy1wZndGOUcyUlhxR1BfMGJPWVpzTWRYUC1McWVNVHdRUnJjNGVnOWVCbXJockZZUk16QmZuRXAtdjZOekFJNExWMkNnU1pUTUtHSktWYW9WMnBldjVWYzJEdTVndHRTRE5NdWd4akltOWJRX2EyeHJ0TDZKWkRsY1hKN2o2QQ?oc=5",
-       "publisher": "The Mercury News",
-       "created": "2026-11-13T19:49:44+00:00"
+       "title": "Top Landing Spots For Free Agent Martín Pérez",
+       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmN2NGR04xNFduemZnQnFCZHBDM0pxMXR0VGZWNDlPMVViRW1SU1ZZMWNENUZfb3IzUlRoWm5VTWFTOUVjVnlwYmkwc0lXOFRxTjRDWWxsWXlUUk0tVDZwdlhoT2lLNEVmQ0staElXbVdPNzRZWEdlSU5TbzVuckE?oc=5",
+       "publisher": "Just Baseball",
+       "created": "2026-11-14T16:58:00+00:00"
       },
       {
-       "title": "Tarik Skubal Floated as Potential Fit for ‘Mystery” NL West Team",
-       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0VjYmhTdktVc3h3Z01jUGlNbTNkNnpCRXUzazdkX2FhM2VPbnF2N3RfM21XRldLdXR3MjE1RS1ZcFRoNjJPVkRqRV9OaE1QdTVBSHBnVHBBWGhCZVkyX0ZNN0NOcWEtUUEtQTR0NW0xNFZTVnpYMmRuOUpTU2hpVk5qSWJ6b0tjVE5kVGpCc1ZTQQ?oc=5",
-       "publisher": "Heavy.com",
-       "created": "2026-11-13T19:24:22+00:00"
+       "title": "Is four-time World Series champ Bochy a HOF slam dunk?",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OZGtzbHlDazJSOUUyekpuY214cXFINUNMbWRhV3ZkOVZWNXp4MUJyd3lzam92LWFUTHFYbEh6WEVhNndCQUNaTlp0TG93NjBHeXBkNjVYUF9lZmJ0WDlQNy1FbXNIbUUzeGFkTE1JTEI?oc=5",
+       "publisher": "MLB.com",
+       "created": "2026-11-14T16:17:57+00:00"
       },
       {
-       "title": "Buster Posey Believes Struggling Giants Reliever Can Bounce Back in 2027",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYlZRc2tkcUtFQ3Z3R3YxYTVrMG9Rd25pdXhaY3QyNVprUkZSRTROTUEta2tNZnpHR09xZ0FpVldIeDFLYklPbEFYSnN6djBaakZEZzhCa0dHRXdlT0MtVndHQ2NfRTM0M2tsVTV3bWx5S1dQazNoQTV3NndQUWVZV2VGM2ZZWEh3Z2J6d1VOZV9BYzV5MTlFQUd3QU4yWUlSVzhhN25TS3N0cTg?oc=5",
+       "title": "San Francisco Giants Offseason Plan Coming Into Focus",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWgwMldKd1FFWDY1MGlVRTNVVE8wUGNWTm1BV0pTbHo3SU5CVVBZeGxzaTNycTc2Y0JQR1EwTjZtTnpqVXY4UkxlbDk0OVNUMVh5bUROS0Z2dEMxWTdtZmVHaHRoUG5jTk9rcllxV1VGSEEzdTlkZjlDNlJhZjZ4TUZMT2hkazMwYnZ1RmcxT0ZvZw?oc=5",
        "publisher": "Sports Illustrated",
-       "created": "2026-11-13T19:00:03+00:00"
+       "created": "2026-11-14T16:00:02+00:00"
       }
      ]
     },
@@ -373,45 +334,45 @@
      },
      "headlines": [
       {
-       "title": "Best 49ers Sportsbook Promos: Claim Over $1,000 for 49ers Odds",
-       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT1hyNGlweUpzV3NUTm1GdXFocXFqS2FPOGNRNWQxQ3hFYy1BUmJ4QTNwTjNVSDVGRlJzWE1CUEFvWkh4R2FlRUo5U2I4T2lXamxIRzlEMlU0QjBfZ2N6YmZaTG9NRURrRGNRYkptalREdFF2d3NaelBsRFpYSlQtUGVXSkVRSnF2aWwtcW1OYmRGSjdDeHdFcjJCUVBDejhuR1ZjWTVDaGYyR2hvSzVWOHNR?oc=5",
-       "publisher": "RotoWire",
-       "created": "2026-11-13T20:03:00+00:00"
+       "title": "49ers Set High Asking Price For QB Mac Jones At Trade Deadline",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTzdIa0lEaEQ1UTVVc2d3TkZ4LXpTU0U4NkhQSkIycExjUERfeE9ZX0M0SlBtbzdmNlNkMW9lb1Zpa0pHVmliVVVicDdfRmNtbHo5NWJlN1YteEpMS1RuSHpNOU12aHdtYlBuQUhhQUJCV3R1cEc0NW1Kc0YzdHBONUNHRktZX0o3RkRNYzBDbWExd1BfTWpZWW1adDA4T3ZEeFBpbWcwOA?oc=5",
+       "publisher": "ProFootballRumors.com",
+       "created": "2026-11-14T18:24:54+00:00"
       },
       {
-       "title": "49ers Have 2 Major Threats to Overcome Against the Cowboys",
-       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IRUtaMmVJRVZrWDJqUllXbFpBXzRlU2RLLWhsdW1SLV9iNzA5Z1dxTEdwZGtjc09KRjRvZldHbElnYU1jZUtzd3NDWi1rckxCWXNVbG5iY1VUSXh6TndJQnlJVWNwQktEUXBwN1gxMjZGVEVVelZEN0ZGOFc?oc=5",
+       "title": "Keenan Allen Might Be More of the Same for the 49ers at Receiver",
+       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcjY5clpyTmFKWDJPMXZ5ZzBHQjRBdWhDd2JOXzJuQTlfcGJnU040cXJZYlVvblU0R3VYWDE5cmxxekhDM2p0ZEVWQ3d1M2toSjItSHRiX3UzZkowSDB0N2RsZVN5cG9RbTBSYkczeUMwT3drb21UXzg0bl9EcHp3dmpEOW9CMzJNLWJ3?oc=5",
        "publisher": "Sports Illustrated",
-       "created": "2026-11-13T20:00:03+00:00"
+       "created": "2026-11-14T18:00:00+00:00"
       },
       {
-       "title": "Dallas Cowboys vs. 49ers: Offensive, defensive impact players in Week 10",
-       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcGJtY3l6YWZkMmY0QzZhMXRvS3JDMjhGRjNQTFVOLWgtREhYQ2VIZlZzS0JQZmpXSjlpZGZ6NFpIOUstaDBmMU4tRUI0OWxRbHRZT3NRcDRCeVpCY25UbHZZWDRIYzdIUU9PZlBxZzB0MElfcTJ3Z2lrTFJjYTM3ajNaOUU1UVVUcTlPNUkwUjl2Q2dOVGxUZk80M2RVdw?oc=5",
-       "publisher": "Blogging The Boys",
-       "created": "2026-11-13T20:00:00+00:00"
+       "title": "NFL predictions: 3 bold takes on the Cowboys and 49ers game",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTU9EdlhtRFVLWGtaNzZTZXNveTU4Q3c0RjNSazltempVa3BmWkZuYWhfOHBtV0RRTE45aWVHVG8zN1N4bkxxNGZybExfQ0ZYa2VrMWRla29VS1dmZHBnYzVNSi02Y0RwSHpRaE93NFVPTHpKT1Zvb2ZXVFcwa0dnZTZWRQ?oc=5",
+       "publisher": "Yahoo Sports",
+       "created": "2026-11-14T18:00:00+00:00"
       }
      ],
      "fans": [
       {
-       "title": "Finnerty’s Sunday in NYC!",
-       "url": "https://www.reddit.com/r/49ers/comments/1xut61q/finnertys_sunday_in_nyc/",
+       "title": "Lenoir and Renardo Green back at practice",
+       "url": "https://www.reddit.com/r/49ers/comments/1xvjgfq/lenoir_and_renardo_green_back_at_practice/",
        "link": null,
        "domain": null,
-       "author": "bulldogmedia707",
-       "created": "2026-11-13T00:12:57+00:00",
-       "excerpt": "I can’t wait to head back to my favorite sports bar in NYC on Sunday. Hope to see some of you there. Go 49ers!",
+       "author": "shnieder88",
+       "created": "2026-11-13T20:55:12+00:00",
+       "excerpt": "",
        "score": null,
        "comments": null,
-       "image_url": "https://preview.redd.it/ypbbikedv91i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=abc6264c48d83708378e31a2d11f003643f38891"
+       "image_url": "https://i.redd.it/tkorprr01g1i1.jpeg"
       },
       {
-       "title": "We know who he was pointin 👉 at now",
-       "url": "https://www.reddit.com/r/49ers/comments/1xveuqq/we_know_who_he_was_pointin_at_now/",
-       "link": "https://v.redd.it/lr1t9lzm5f1i1",
-       "domain": "v.redd.it",
-       "author": "red18set",
-       "created": "2026-11-13T17:59:31+00:00",
-       "excerpt": "Let's Go Niners!! ❤️💛💛❤️",
+       "title": "Kyle Shanahan on Mike Evans' injury progress: \"I'm sure if this were the last game or something, he'd be able to go out there. But we're just trying to make sure it fully heals so it doesn't act up again.\"",
+       "url": "https://www.reddit.com/r/49ers/comments/1xvydf7/kyle_shanahan_on_mike_evans_injury_progress_im/",
+       "link": "https://sports.yahoo.com/articles/49ers-kyle-shanahan-assures-fans-034849152.html",
+       "domain": "sports.yahoo.com",
+       "author": "sour_coleslaw",
+       "created": "2026-11-14T09:34:40+00:00",
+       "excerpt": "",
        "score": null,
        "comments": null,
        "image_url": null
@@ -457,22 +418,22 @@
      },
      "headlines": [
       {
-       "title": "Raiders coach Klint Kubiak discusses matchup vs. Seahawks",
-       "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOWlVCSVZiT0F2d1IxeXVEajVDMHlmZ3FYMWJ6VkVHUGJuVkRfWHJvUFAyQmRWTmY0ZzgzbnlFMXM1STNOSmtWXzRIS19YdFRwWHdidF9WenJ1WWNocXpaYjF1bGx3N1RQQV9IRFkwNVpYZV9XQ2J4ekhpREt2a1dIQkRid0NzckZLSG9xUnVYeGZ1dFRfbl9memFRQUxlYUgtZDJGc2FlU01RVmphYTFqMnB1b1BUeUVKNW8yZW9ibHVTSlh3TUczcDhVV1dVUDJEQVNzM29aYUVydy1FeHdFc1JzTDVCS0hQNGtIRktPdUwtV0d5c2h1Z1pIellTZjJmMHJ4YlhsUDYtakw3NnJLOWJwWFpWaUZkakJtNEpCVDNrdnVoSEJ1QlBFeWdJYTdQcTJUVW5pclhCV284eVQ1WjVxMkRSaTRJLUFNM3pXWktzdnFVVnhOTjhuVVZSdW1RM3lOMUR2QlI5eUtxOWMzZ0xLRVNKOEZ3UGpMRnAwLUtlRHQxTktVNS1PN3Zza1Vfa0VrMDNYVU5SS1A2aXdz?oc=5",
-       "publisher": "Las Vegas Review-Journal",
-       "created": "2026-11-13T20:02:00+00:00"
+       "title": "NFL Week 10 broadcast TV map: Where to watch Raiders vs Seahawks",
+       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUTNpVko0UGE1LWw1UzQwS1J6bW1FRDQxVWtFUmRza3hxZzRDTlk3RVlRMU1zRjJ3N0I0aFoxdXcydmJzT01kM0Y2dmxUajJXS2RvZlI3bWFaeEFKVGlvczUyajcyV2llX1RNSE9DeG9mRzhVVk1YTEhNcV8wajRWeEVzOTdHcTNzdW1fbmc0MUttNS1jVGhSRG5VV0NIMTJRajN5WDB3THVaOHIxcDRpeDFUQm5PRXA3aU1GNjJMOFhWOGd0azhOUFV6SmYzSXdQWHhlVXUxeFYyd2hHS18w?oc=5",
+       "publisher": "Raiders Wire",
+       "created": "2026-11-14T18:30:00+00:00"
       },
       {
-       "title": "Raiders coach Klint Kubiak discusses matchup vs. Seahawks — WATCH LIVE",
-       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSU9qRllsQ2p5TFR6aGlhSFpib0R6TWZwdGNucTVBTDhFNHIyelBuSzR2R3FaaVI2OXJNazlBYi1oMTJ4MWZmNGlPTWUwRTM0NnVLdXFmVURJdzkxbzlxWFdYVkkxYzFuV0xjRFUwOENxSHBxS1pKOXNKOXFja0FUSFdjQTlUZHptSloxcUJEenRqTm9SZzZCcWgtNVhUSzVqS1ZkV2ZBMV9UNHZsOEpKQkotMzFjN2dCUWFTYzVn?oc=5",
-       "publisher": "Las Vegas Review-Journal",
-       "created": "2026-11-13T20:02:00+00:00"
+       "title": "Jadarian Price rising up Seahawks’ (receiver?) depth chart",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WbXVwVWJUQ0MwOWFnRG4zZUk2cUlSNWZqQm8zeHIwU2VTNjFWNnIwRTJaNGM3M0x6V1hGbkJKMzdmM1Qyb0hIeVJ2bXdXS0xpTkZoVTFZajVPNFROX1Q0NnBKVWRua2l5VUt2RmxCYw?oc=5",
+       "publisher": "Seaside Joe",
+       "created": "2026-11-14T18:09:29+00:00"
       },
       {
-       "title": "4 Seahawks players who could shock everyone against the Raiders",
-       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYUltdXdMRFJwOWFkUi1qbFNBaHFjUk5JOEZOcjlzaEs1eThVS3VjamJ0dHJhUEc1eVFacU1VOTBpZ1pyX0dGU1ROVWJSbXpVZkVDV3FEdXFYTm5LbTJVb254bFI0U2hMZVZ5bFhEWHlMVV9WRDBlb0hVU0pTb2JCbjhPTnY3M09Z?oc=5",
-       "publisher": "12th Man Rising",
-       "created": "2026-11-13T20:00:02+00:00"
+       "title": "Seahawks In 10 | Seahawks at Raiders: Week 10",
+       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmTVFnNHBUMzlsRlRMbkVadXZvTXp3WWw0bGdDa1lLT0lvOWpNcHRqbHdEQWFFbHJKMmg4OXhLMmhIQmNwOEJ0OHpWMm1FeHEwcWJGSHp1TGhodnVKVTBnUXZyc2NmdXpRX1k0MXltV2dmXzY3aXpTVUUzaDhOZw?oc=5",
+       "publisher": "Seattle Seahawks",
+       "created": "2026-11-14T18:06:28+00:00"
       }
      ]
     },
@@ -499,48 +460,48 @@
      },
      "headlines": [
       {
-       "title": "Instant reactions to Red Sox signing Jake Bauers",
-       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbU93MTdhY2lsNk1vNkNqc1dBRGRLUzhEaHdGS3NqVEpWYlJtcEJWcE9ndVFIWXVsbXphZmNfbWJ5bDh3WnZNZk1lejZGanlzRWxGQ3pQWXJxM1MxZnFkN0FkRkFHOElIVWtDMGZPdXNNaTZmenpwaWJYREtzWGtlLV82QVBnUklySHhZ?oc=5",
-       "publisher": "MLB.com",
-       "created": "2026-11-13T19:45:08+00:00"
+       "title": "Could Randy Arozarena Return to the Tampa Bay Rays in Free Agency?",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb0xXZ0pianNIUTJlbHJsOTY3UGtiWmZHUERjMldPOURwU3Z3QkJnSTZiS1MtcEgxa3M2UFBQZ0NFYUNMX2JrUjJGX015Yl9WTFRqVlBwS1R2UXUybmdiYjRDQm1lWFo1UHBJQ3FtVUx0WHZabWlIcnNZTll5dVdHVXFqWHVPeW5pclJzalpCS1FpeFh1U1BBM3U2ZFVZcE02YjFZNERCdldkckJlLS15RA?oc=5",
+       "publisher": "roundtable.io",
+       "created": "2026-11-14T18:06:45+00:00"
       },
       {
-       "title": "Mariners Rumors: Interest in Adrian Morejon faces increasingly hard road to reality",
-       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTVZUi1yeHU3S1N3TzkwV2o2eUtyam80UGVqMzd0bUhic05mZ1FRSXg0cFpVUVEwVm9EQjFxQzFyeXhDLW9nZnZDMzBJVkk1MFdycUNKUXF2X1E5dy1Ec24ySldYNTJ4UTVrRk05UDJsME9qWklZT1diSkFHMTlaeXNjSUpYdVQ1WWhGUkFGdXp2ZkZCelVxRXppQnZxaGM2NmVzVWl3?oc=5",
-       "publisher": "Sodo Mojo",
-       "created": "2026-11-13T19:34:44+00:00"
+       "title": "The Mariners’ Own Ballpark May Help Randy Arozarena Land a Bigger Free-Agent Payday",
+       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM0FkOWlFTGthMlpjZ3ZnWFBtRGp4VnhfZUNaWDBzekJfbExHUjFjbjJ3enU1R0RpdEtZX3hncVJYWUJha2JWcGVLbW9tMHdqVWEtM1FfeWZxbmZJNlRUVVRBR0VBZmV5OFpvdGZzaFVxSUlGcDROS3l4TzNiMjNhVnRUMXI3dkhfQ1dnV1pRRUdGaVNKbkItZ1ZZYnZaeUlOZWkyNGVEZWI4ZFhFd0lIeThFbnVseWYzMGlF?oc=5",
+       "publisher": "Sports Illustrated",
+       "created": "2026-11-14T17:15:00+00:00"
       },
       {
-       "title": "The 2026 Lookout Landing Awards",
-       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNelRvaGNvd1dtZHlYMVhSUE9fVTBHZVpLV3B4VGxHczNZbXhQRVl1WUxBSlB2aU5lY1lleEQ1Y1hRcS1DbDJBMkJrVFMwRHNnVGtubHA3MzF3US02eDh1R2NhNGlRZ3FvQWlIMmR0TURuTGQ2LXFvY0tadXZ2YjNicGZNRkF6Y21TNjNQMTNYWE1nQ2xOSndicW1SeWZEZw?oc=5",
-       "publisher": "Lookout Landing",
-       "created": "2026-11-13T19:00:00+00:00"
+       "title": "ESPN's Buster Olney Praises Seattle Mariners' Hire of Bench Coach Tanner Swanson",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1I0X1V4TlNzTTc5TFdMQkpnR1dKN0ppend4X1o2Rko0OVhkcU9HaG95S3B1S0pqVlFlRElEcXVRS2xaM2F4SnNXdlU5Y2lXWU5ocU1hN3dJbTZPelJzMkJRYS1DYms1SDBCODhlRFFJN2owRWlYazhWdWhXekZQYmh2YzBPZVBo?oc=5",
+       "publisher": "Yahoo Sports",
+       "created": "2026-11-14T16:00:38+00:00"
       }
      ],
      "fans": [
       {
-       "title": "Randy Arozarena finishes 8th in MVP voting",
-       "url": "https://www.reddit.com/r/Mariners/comments/1xutjx4/randy_arozarena_finishes_8th_in_mvp_voting/",
+       "title": "Who put Julio in charge of the FAA?",
+       "url": "https://www.reddit.com/r/Mariners/comments/1xvnlz9/who_put_julio_in_charge_of_the_faa/",
        "link": null,
        "domain": null,
-       "author": "mahrinazz",
-       "created": "2026-11-13T00:30:34+00:00",
+       "author": "darwinpolice",
+       "created": "2026-11-13T23:49:21+00:00",
        "excerpt": "",
        "score": null,
        "comments": null,
-       "image_url": "https://i.redd.it/pvoakz9jy91i1.jpeg"
+       "image_url": "https://i.redd.it/5j2l4ne3wg1i1.jpeg"
       },
       {
-       "title": "You Gotta Love These Guys",
-       "url": "https://www.reddit.com/r/Mariners/comments/1xv2om4/you_gotta_love_these_guys/",
+       "title": "Just finished this commission for Mariners custom Converse",
+       "url": "https://www.reddit.com/r/Mariners/comments/1xw65ac/just_finished_this_commission_for_mariners_custom/",
        "link": null,
        "domain": null,
-       "author": "Comfortable_Chart534",
-       "created": "2026-11-13T08:39:10+00:00",
-       "excerpt": "Found at a thrift store. Still shrink-wrapped! Good thing I found a working VHS player recently.",
+       "author": "No_Concert_8042",
+       "created": "2026-11-14T16:11:42+00:00",
+       "excerpt": "Wanted to make them in the style of throwback uniforms",
        "score": null,
        "comments": null,
-       "image_url": null
+       "image_url": "https://i.redd.it/ns9j2kkcrl1i1.jpeg"
       }
      ],
      "subreddit": "Mariners"
@@ -592,132 +553,132 @@
      },
      "headlines": [
       {
+       "title": "DawgmanRadio: Our Michigan State pregame show!",
+       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQUDF0Sk5vWVRPWWVWYUVMQm50Qm1SWnFSRDZlbXZmMmx2OExjUUFTQ1lLMlpsYnhTQ293NlhKWkFBVkJCWlRDbEdkSTN2RzVtUlZMdWtuQTNxRUR1REFaRF9BWHMxMVhhMGRpWl82djNIN010VDhxM2ZjYnI1dW1IMGZ3M2M3dmZaRXlXRlVUZWRVQzJScEI0aVA4bXhXTVVkZ2YwTXVxc1R5NkMwWW9mUjhnRnZTLWRRdVJmRkxYVkxiR1VqMGkzcmdVVU5KM3FRUG9WUkVTUEk1T0xvTGt6eFVGOHpyanVqZEtEVzI2bVo4dUYwOERRMWc5TVZTck9xN2tfZVJTMEtkMmZlbmVZckVxUmVvbkFF?oc=5",
+       "publisher": "247Sports",
+       "created": "2026-11-14T14:23:17+00:00"
+      },
+      {
+       "title": "Bay Area teams affected by FAA grounding flights: SJSU Spartans turned around on the tarmac",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU1hzSkhDY09ZdHlObk0zYzBnS2FRd1RGZ09Wam1Lc0dFUzF2V2xFd05LcEx5Tk1FcXFGUEJlOWRyT3dONnhBSlhldEN6SWlRN2tHaFFMdUk4QzU0U2dham9oUUw2V21ELUp1QzJUTUw4RWhIcU9mQ2ozWTdpanBEN2RiYmFiVlRLQlh2TFlvd2JKM25hT2VWdjZyMFBQcWlpSEdV?oc=5",
+       "publisher": "San Francisco Chronicle",
+       "created": "2026-11-14T02:40:27+00:00"
+      },
+      {
        "title": "Duckett leads UC Riverside against Fresno State after 22-point showing",
        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNUlvVzRUNWh0MF92MmJUZ194QkRLa2NhT0hXRFItRDBLeEZGNTdYcFlQUWJTZ0ttbjhSTjlWRWo0bDBhd0s1WVdUcUZpUFRlZmJ3Ujd5SVNES1B3UHc3VzJNZndmZTkySU5uN1NuV1RzZkRycUhXWkNlVmtSYTBzcjlEdmpnNXUzZ2JhdUIwMEd0N3NveGxiUmJuQmR0UEdzZVJpVmh5d2x6RkpW?oc=5",
        "publisher": "FOX Sports",
        "created": "2026-11-13T09:43:13+00:00"
-      },
-      {
-       "title": "Duckett leads UC Riverside over San Jose State 80-75",
-       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOblBGSnZZa1MzT2c3MVkzN1hhWWFsVnVaZTItMVJDMVRKcC1JRm9BU2E1LVR6LVh0dVA0NE9DVVdJWjJIOXJveHZ0aG9QUTVrRHEzaFJHREViRjFrRmkweVp4UzBQZjhYY1M1M3NsbW5NQjEyNUxKTmdHcS1xZ1lQb3d0dlp2QW5aQVZwMmFaMHgyQVNN?oc=5",
-       "publisher": "FOX Sports",
-       "created": "2026-11-13T05:53:35+00:00"
-      },
-      {
-       "title": "Six Score in Double Figures as Sooners Roll Past Spartans - University of Oklahoma",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ0diNUVzWDZxQ25iTUVmaENHLWZqazh3RktrdmphWjNjdUx1UlB1SUdjRFQwVUt0V3d1MFc0VlFwVW5BVjRad29ZOVRUQmppLW5JamNBSUliSFUwVVVUWHB6V0FWeGd2cWc3aGpKLW9ZMkp1aXBKZmR4VUdvN0dZRjhRY1Q3dEh0UDRoQnZ6RklDQ2NMbWhaMEx3ZzAwdC0xRTE1UnNpMm5LVloyMlB2MHRKQXN5QWM?oc=5",
-       "publisher": "Soonersports.com",
-       "created": "2026-11-11T08:35:16+00:00"
       }
      ]
     },
     {
      "name": "Stanford men",
      "errors": [],
-     "record": "3-0",
+     "record": "3-1",
      "standing": "1st in ACC",
      "espn_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/24",
      "last": {
-      "date": "2026-11-10T03:00Z",
+      "date": "2026-11-14T02:00Z",
       "state": "post",
       "completed": true,
       "detail": "Final",
-      "home": true,
-      "neutral": false,
-      "opponent": "Rice",
-      "opponent_rank": null,
-      "us": "91",
-      "them": "73",
-      "won": true,
-      "tv": "ACCNX"
-     },
-     "next": {
-      "date": "2026-11-14T02:00Z",
-      "state": "pre",
-      "completed": false,
-      "detail": "11/13 - 9:00 PM EST",
       "home": false,
       "neutral": false,
       "opponent": "UNLV",
       "opponent_rank": null,
+      "us": "68",
+      "them": "76",
+      "won": false,
+      "tv": "CBSSN"
+     },
+     "next": {
+      "date": "2026-11-18T03:00Z",
+      "state": "pre",
+      "completed": false,
+      "detail": "11/17 - 10:00 PM EST",
+      "home": true,
+      "neutral": false,
+      "opponent": "UC Irvine",
+      "opponent_rank": null,
       "us": null,
       "them": null,
       "won": null,
-      "tv": "CBSSN"
+      "tv": "ACCNX"
      },
      "headlines": [
       {
-       "title": "Wrestling Travels to No. 7 Stanford on Sunday",
-       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZE8xb3RyQ09hUGM0NnhtNFV4UmJHWXh5UTlhVWlPY3pMaE9YQUR1UG02X0lyLUlYVldfWFlaaXY0VXdqbGM2RXZNTjdoSGd3WnRDR0lCckl6OE0zaUdEMHR1WGZCMUdCRnpjNlZjd3FsZUhjd2RWZnFQN0wzU0c3TFFZM08?oc=5",
-       "publisher": "University of Wyoming Athletics",
-       "created": "2026-11-13T19:23:03+00:00"
+       "title": "Runnin' Rebels Improve To 3-0 With 76-68 Victory Over Stanford",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR09LVUlHZERqUFlBcV96VEFfcDYwdUxPTjFVcXJJUGFNWEx4Q3h0QkNfbHFvOWl1X0YxbGVfSVlFUDc5OUIyVGF5bmpnVDU5LWhGYlBaSDRXUVVxRnpuYnZETVlDZFNfclRVN3g4OHIyTjdEN0lLMTFOSVR5RDRKOUx3LUh0VmZVOG5neDY2aDhvRlVBMUxhY1ZTR0V5aW5LLVBZX0I5TTZ2TFVLQmtuVjhEQlkyd1E?oc=5",
+       "publisher": "Mountain West Conference",
+       "created": "2026-11-14T15:28:44+00:00"
       },
       {
-       "title": "Men’s Rowing Program Update",
-       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IYWZ1V212ZE9CYmhLa3B2ZWdJSWJ4cHBCdTdROUlhSUZmdmZvVHRVNzh1ekUxX2hfWGlhZDd5cjZlNjhQR3VDcU9qRzlLYTV5eEtyNTlTbnBvSTBtOGY3U1RxV29LT3dNdkt6NHpMVGh0QTQ?oc=5",
-       "publisher": "Stanford Cardinal",
-       "created": "2026-11-12T16:49:53+00:00"
+       "title": "Recap: No. 24 Stanford Women’s Volleyball powers past Clemson",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTzU3X3Y5RVA3UWNPZ1pBUFRobmJEOGw0NFljSVk5ODRqT3p1eG14Tnhaamg2RFRqWkdibWN0bXZydGVvTGotaTQwVXJFSGZpOUdHOWZoYVVzdEtyeHJuS1kzVkxHQm1KUmpuLTA1cGoyLWFYYUljQ0NYRDl5eGVpSVFBajVuRThMUlZRbXRiSl8zQ0h6YVp1TVpleUp6dmdQamEzUGJmZUxLdHExWnVTbGlkZw?oc=5",
+       "publisher": "On3",
+       "created": "2026-11-14T11:40:29+00:00"
       },
       {
-       "title": "Rice Owls vs. Stanford Cardinal Full Match Replay | 2026 ACC Men’s Basketball",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdkdTZWR4bEFpMElfS3g3NHg1SGNuT3d6LTZZdEpSN1dLTzhjVF82VHk3T0FnTlNDY1pJbjZrNEJwMUV6MEprUkUxU0xNQW1BeEQxYWQ0RnVIclFaLUxlS01tOXFCOWF3R0wxQThsT0drSXA1S3JxcV9uS2NidVFNeWtmcG5VcVlHaFVRUHRxM2pzeTBDcFVWWlllbzJwc1V6S2VVZE5UNXJpVUk?oc=5",
-       "publisher": "BVM Sports",
-       "created": "2026-11-12T09:52:10+00:00"
+       "title": "Recap: Stanford Women’s Basketball gets road win at Santa Clara",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDlQSkZsVUptNF9qSmtxV0t5NFNOTzUwUTNVSGpjQ2hyZGY2Z183dEsxWi1zNDUzXzkwSlhTckZadlZRV05aaG5DYTdjdDBmNVd4QTRhYTExUFNzY0FQck9hc3pDV3k2NFBFeGhHcjVqX3M1N09UU0lITERwQTV2QUdIamZDRURXTzB3VnVoMXBoNGtfMzRUb0RtRDN5Rmp2UUJPa2JqYWUzOFpXREVhUGg4ZkJpZWc?oc=5",
+       "publisher": "On3",
+       "created": "2026-11-14T10:03:10+00:00"
       }
      ]
     },
     {
      "name": "Stanford women",
      "errors": [],
-     "record": "2-1",
+     "record": "3-1",
      "standing": "1st in ACC",
      "espn_url": "https://www.espn.com/womens-college-basketball/team/schedule/_/id/24",
      "last": {
-      "date": "2026-11-08T22:00Z",
+      "date": "2026-11-14T03:00Z",
       "state": "post",
       "completed": true,
       "detail": "Final",
-      "home": true,
-      "neutral": false,
-      "opponent": "UC Davis",
-      "opponent_rank": null,
-      "us": "67",
-      "them": "60",
-      "won": true,
-      "tv": "ACCNX"
-     },
-     "next": {
-      "date": "2026-11-14T03:00Z",
-      "state": "pre",
-      "completed": false,
-      "detail": "11/13 - 10:00 PM EST",
       "home": false,
       "neutral": false,
       "opponent": "Santa Clara",
       "opponent_rank": null,
+      "us": "66",
+      "them": "55",
+      "won": true,
+      "tv": "ESPN+"
+     },
+     "next": {
+      "date": "2026-11-15T22:00Z",
+      "state": "pre",
+      "completed": false,
+      "detail": "11/15 - 5:00 PM EST",
+      "home": true,
+      "neutral": false,
+      "opponent": "Gonzaga",
+      "opponent_rank": null,
       "us": null,
       "them": null,
       "won": null,
-      "tv": "ESPN+"
+      "tv": "ACCNX"
      },
      "headlines": [
       {
-       "title": "Wrestling Travels to No. 7 Stanford on Sunday",
-       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZE8xb3RyQ09hUGM0NnhtNFV4UmJHWXh5UTlhVWlPY3pMaE9YQUR1UG02X0lyLUlYVldfWFlaaXY0VXdqbGM2RXZNTjdoSGd3WnRDR0lCckl6OE0zaUdEMHR1WGZCMUdCRnpjNlZjd3FsZUhjd2RWZnFQN0wzU0c3TFFZM08?oc=5",
-       "publisher": "University of Wyoming Athletics",
-       "created": "2026-11-13T19:23:03+00:00"
+       "title": "Recap: No. 24 Stanford Women’s Volleyball powers past Clemson",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTzU3X3Y5RVA3UWNPZ1pBUFRobmJEOGw0NFljSVk5ODRqT3p1eG14Tnhaamg2RFRqWkdibWN0bXZydGVvTGotaTQwVXJFSGZpOUdHOWZoYVVzdEtyeHJuS1kzVkxHQm1KUmpuLTA1cGoyLWFYYUljQ0NYRDl5eGVpSVFBajVuRThMUlZRbXRiSl8zQ0h6YVp1TVpleUp6dmdQamEzUGJmZUxLdHExWnVTbGlkZw?oc=5",
+       "publisher": "On3",
+       "created": "2026-11-14T11:40:29+00:00"
       },
       {
-       "title": "Women’s Basketball Rises in the Bay: Will Santa Clara Rise With it?",
-       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdkNpTFpjaVA0NTVkOGZKSno1RUxuUE1IMDRZQklDVTM0NmVBTkd4SXlsRGlqV3V5NDFENHNWaURHYmxvRUpwd0RycjZhSlhnZFdKS0pnUDEyYW4zTnMwU25rWGxPVWk3NFdFbFlQcFZQX3FMN1RoQU91MGRaZ25sMDBUWXhqWXh5UTN4dVRkVG9mRVlhOXc?oc=5",
-       "publisher": "The Santa Clara",
-       "created": "2026-11-13T17:00:45+00:00"
+       "title": "Recap: Stanford Women’s Basketball gets road win at Santa Clara",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDlQSkZsVUptNF9qSmtxV0t5NFNOTzUwUTNVSGpjQ2hyZGY2Z183dEsxWi1zNDUzXzkwSlhTckZadlZRV05aaG5DYTdjdDBmNVd4QTRhYTExUFNzY0FQck9hc3pDV3k2NFBFeGhHcjVqX3M1N09UU0lITERwQTV2QUdIamZDRURXTzB3VnVoMXBoNGtfMzRUb0RtRDN5Rmp2UUJPa2JqYWUzOFpXREVhUGg4ZkJpZWc?oc=5",
+       "publisher": "On3",
+       "created": "2026-11-14T10:03:10+00:00"
       },
       {
-       "title": "Unbeaten Stanford faces early road test at UNLV",
-       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORGt2WlhxaUw3U01jekpIZ2xiUHFsTktDc3loVmNOYTlHQXN4QW96VWs4M19Qb3RtYlhkYmVDTmwyOFduN3JDdEN5c2RwTFVkZVdvYV9TcVdFamlZeXBkQS1zbW1ZTFhMY3Z3LUJSR0MwNTNNeDVYelZRbkJsalVyQjNLcVl6QzM1T3R2bmU2VnN5RmNPMVVmemtUNEVYcUhyNUxHY0VkVjFhUXR6bDZlSzk2cVJsd3JNT01lSWF2aldlOUVwY25VcVB0cHh5WFl1ek1WWlpuNVhBWkV6SGE1cFIwVUJFVXItYnRkXzRkR3dTZw?oc=5",
-       "publisher": "247Sports",
-       "created": "2026-11-13T16:45:00+00:00"
+       "title": "Stanford vs. Santa Clara Highlights | 2026-27 ACC Women’s Basketball",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSUFBV2RlemRBT3hPOXdmRGxXcjRoYzI5bVJ5S0JRU2wxTGhMeHV2SVE4YXU0NmJsSmE1c19FQmNiLWF6a3VucHdHYS03YTVwc05sR0ZDZTE3ME8weWlJZUJzbXZLX2xkRzZ6eXU0NmVJRjNJX3FGWUJBektOcUZvNHBkUzJrWDBZNXhwMGVqNjlhVEVtbWo0ZmJDaERsTG8?oc=5",
+       "publisher": "BVM Sports",
+       "created": "2026-11-14T09:30:28+00:00"
       }
      ]
     },
@@ -757,22 +718,22 @@
      },
      "headlines": [
       {
+       "title": "Recap: Stanford Women’s Basketball gets road win at Santa Clara",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDlQSkZsVUptNF9qSmtxV0t5NFNOTzUwUTNVSGpjQ2hyZGY2Z183dEsxWi1zNDUzXzkwSlhTckZadlZRV05aaG5DYTdjdDBmNVd4QTRhYTExUFNzY0FQck9hc3pDV3k2NFBFeGhHcjVqX3M1N09UU0lITERwQTV2QUdIamZDRURXTzB3VnVoMXBoNGtfMzRUb0RtRDN5Rmp2UUJPa2JqYWUzOFpXREVhUGg4ZkJpZWc?oc=5",
+       "publisher": "On3",
+       "created": "2026-11-14T10:03:10+00:00"
+      },
+      {
+       "title": "Preview: Stanford Women’s Basketball heads to Santa Clara to battle the Broncos",
+       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPejJPWjExaDB3WEZ5Zml1Z1ZwaXlVSkNjNUxpZzRPanlnVDBoUEtvYjZuakZMTk15aFA1MFFXeVdhaGJrUjR2RVlSM0wxZ2o0S2RDd0ZaalZtMGZaQjdQdnBjSnJ5MzlGR0s4NjVIVG1YeVlFZVBEQ29WRkZpQmtNTjFMUmN5WFFvM2lkUGp4MzRqOERjREdsWkFwLUROelhpMGd5TkdSY2pDVTFRSVFfdjh4eTE4UHRrbUlQZFdYUFFqM1dPM1Jrd1Itb2U?oc=5",
+       "publisher": "On3",
+       "created": "2026-11-14T02:20:02+00:00"
+      },
+      {
        "title": "Santa Clara completes comeback to stun North Texas men’s basketball 76-71",
        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWWczMG9IbDVTdTJYamQ1YzNiUjU5UTBpNndLMklhbUpRc2xmcEdXWGdxa2hPbmlZYTgwT1Q1MERuRjlMRktxMlFtVnpaRVhuZl9sei0yQkQ2a0F4aXE1R1p4MXRhNXNsQ2lXOGVzWUhqQUpzbGNxRlRXeWdGYVRzZFcxeVZNSzRxQmRwMndZbC1vSVJZcXFEaWNUUURUaGtDeTE4TXdpTTYxNnVLcFNWb3NsMi1WX1VSVUtsNFZtRVR5RGZBYmVSbHdIN3R0eGRuWXFjV0VoVjkzTFRpVDE5TWc5UDI5d3FLbnc?oc=5",
-       "publisher": "ntdaily.com",
+       "publisher": "North Texas Daily",
        "created": "2026-11-13T02:00:00+00:00"
-      },
-      {
-       "title": "Men's Basketball Signs Four on Signing Day",
-       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTXBRaUlKVm9MUlpyc01KUEZUa3dFOE93ZGRka3BIeVQ1YnlJTW85UU41Z3BpTjdsZ2lDY2FUVE5HQ3ZkUGhVeTFSTThBeUhQSVFVRGhvVFR2dkFFSmR2dmZrcE1UdVlBRkxwaVRGbUw1d3VtdVIzMHdMZnl6cVJGRHhfYm1uWkozSXpZX0dQZExxc1hocHZ3?oc=5",
-       "publisher": "Santa Clara Broncos",
-       "created": "2026-11-12T22:01:06+00:00"
-      },
-      {
-       "title": "Local college basketball: Santa Clara men rally past North Texas, improve to 4-0",
-       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2hnWFVXU2pNelFOclRJbHZVMVBwTDY4NXpWc05WVUowLWpvcElmNDNfcDRveVBnSFRwZnl4cU1fY1cycTN1SDFNMTAxZWN2cWR6VE9vRGZ0QVhUQWJDR1JVTXUzdVA0azN6OUplNlRvRVZoaHJrUHVTcVJRZFgyT2R2dkhCREVRd3JaSjE3UzBuUm9TUk1CRG92d1RuRERhTUFILVJOdkNKbEljN3Fz?oc=5",
-       "publisher": "San Francisco Chronicle",
-       "created": "2026-11-12T06:48:44+00:00"
       }
      ]
     },
@@ -797,10 +758,10 @@
       "tv": "BTN"
      },
      "next": {
-      "date": "2026-11-15T00:00Z",
+      "date": "2026-11-15T19:00Z",
       "state": "pre",
       "completed": false,
-      "detail": "11/14 - 7:00 PM EST",
+      "detail": "11/15 - 2:00 PM EST",
       "home": false,
       "neutral": false,
       "opponent": "Utah",
@@ -812,22 +773,22 @@
      },
      "headlines": [
       {
-       "title": "No. 16 UW Huskies cruise past Cal State Bakersfield 85-51",
-       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR3hWYTdwdVNrbG5uUFViQ3I1VWlSaXhDZ25ycTh6MUFVaDJpd1p1QmRfQnl6NUthLTZmOHN2czQ5SDZPdS1yM2Q3RUxuWGs0aGRUQVNoY19PaEhpUm51WmE0YTQyVW45QjhKMmk4NFRXWEVIdTFlYThabGhMMmo5dHVNU05SRWdEV3V4c0M5M05ycWFSeWtsNjRJcw?oc=5",
-       "publisher": "Seattle Sports",
-       "created": "2026-11-13T14:49:52+00:00"
+       "title": "Mark Pope says he hopes Kentucky fans 'had fun' after near historic upset as a 34.5-point favorite vs. NAU",
+       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNck1HTVlCMmZxT2xsMHlRXy1WbjdTODV6aGhxNC1tdl92U1B4U1VVNFlaNzJ4dFp1S1RXSWZvZGpSeGw3czE5c2RNUDBoSHJ3aFFUNFlac3VjdzZxbEt5OFZBYXBSSlRsU2JfVGF3QV9Nem5tamd3WTJWcFdLZDFJOF9oX2U2VGo4UEFNUG1obGRxWjF4X0NGUjFVdUJJTFBxQlM2X3JhRUY4Rms5RVRJYTE5S2FibUtueGIwTEFnZzc2bkdKY3RrSXg4VUFQQUJnVk9hQ2xORG52emFWWGVuNHdRVHZueDMxSktfbGxGbVhXZjlzMkZZcHI3MA?oc=5",
+       "publisher": "thepress.net",
+       "created": "2026-11-14T16:16:57+00:00"
       },
       {
-       "title": "Cowboys surge in this week's MW power rankings, Cowgirls basketball still has plenty of time",
-       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPV1Y4aHo1RTk4V3FqZExSMmt0UUJFOUFqMVVLVFFiNG5mN0JPSmhjZ0dIM1ZEUi1VcWFZS0lldVNNd2NlNVBKd1R6bGVCdl9sMmpnbGNCSTYxT3pVQWs2Q1VZMXFodWF4cVhtNWQyLTRITURjNTFyYkk2MW1kbU5QVlY4RDJVLVdlbUxJcW15ZDBYelo3UFdUblg2c01IQTJfRTVvbVc5Y2kxc1A0RkpNanJ1djFuX1hkUHNvRHl0MTN5ZDBVWXA4MVpiWXVqcjdjY004V0M5bHhwekR6a0pnQVZTOHFGM3Z6dWN2MFFmdlhLaWMxazFDbHVuSHZEek9Tc2NxYVNTWkU4aXBqWWxfYVJ4Z2Q?oc=5",
+       "title": "Washington basketball will live by the three-pointer in 2026-27",
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUEFwd0dOTWoyRThJYWZNV1N6eEQ1cEd2ajlSUlU1ZnJOMXNiVGVKeTRlaEVqRlNiQnFfSlh2aVZIcTYtSGN1S1BlM1Q3RFR2aGhGMFZTdW1yNkliSXlWT2VFUURScm5sY25qZnRxTE1DVTJRbHhhQzdVQmVCNkJTN25fanBCMVBQWng0VWxRUjFnbnM?oc=5",
+       "publisher": "Yahoo Sports",
+       "created": "2026-11-14T15:01:10+00:00"
+      },
+      {
+       "title": "Cowboys football faces travel delay, Cowboys hoops set for road test in Denver",
+       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOOFZDSG5yYXNScGR5aGxSQUw1QjN6N2I5TmlsZHNoSm02RlNfLTdwWUZXY1YwNlJ4OGt3X25EaDdwbDU4X2tCTDdTZjFsdzExNnFnQlZsdm9zRnBLTTZSWEZodnV4akswT1lFVVZmcnBLYVIyUTlhSlV1Szh3VFY2YVAzNXhKSk53a1ZiV2x1TmlJZjFCcW8xcGhWMkZRVFpTZ3R4Tzdvb1lJVEdyeTFpOWs2dHd0WC1ISFFXNGxoM3JFSE5HSDdMWVNILXZnRzZUaGdqdFhRS0NaZGVieHFRTXJYWTJ0b3VTN3M3azVPSW42Ykp1NU5SeG1RMTlYRnlBdWEw?oc=5",
        "publisher": "WyomingNews.com",
-       "created": "2026-11-13T12:00:00+00:00"
-      },
-      {
-       "title": "Washington Announces Signings of Haywood, Barhoum",
-       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYVdlWTBoek5kYWlhYms5NGdhUGxMVnp4S1BoNDlHNzZGM3ZtOE1WZ21aT0Y2bDdfeDJ4cU01X0VpU2RQTHVfM2pWTER2MFhhd2ZzcjdWeVZPbE5MLVlzd3F3T2VaTW9WVnM1VjRISVVUVmt5R0MyZUlzbTFTMHpFeDc3UzdhSVd1a2dIU0dlSzB5bmw5U1M1Rmg3djhFblhyWllpMA?oc=5",
-       "publisher": "University of Washington Athletics",
-       "created": "2026-11-13T01:05:09+00:00"
+       "created": "2026-11-14T12:00:00+00:00"
       }
      ]
     },
@@ -867,22 +828,22 @@
      },
      "headlines": [
       {
-       "title": "With women's college basketball season underway, here are Black players and coaches on our radar",
-       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLUlDNmFsd29MOWVFUWFnMjN2SDdFMWRCRm9NMXZVNmw5QVd3QlhNdTBiSVBVR1p0cmdsWGZuZTUtN19FZkN4MmRwMUtzWG50QlpjS0pCbGlGZURQT3lQSnRySXZHTU1QdU9TbVhaSWtSbU5ob0JhZnBja1FnRHY3dnlydmNfZDgwZ2pGanRIODVRY0w5amQteDRR?oc=5",
-       "publisher": "Andscape",
-       "created": "2026-11-13T17:14:52+00:00"
-      },
-      {
-       "title": "Washington women's basketball rides program record to 85-51 win",
-       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQdG1waEdYZVc1NE5FMjgtVUF0WlNuM2ZFRVIxYzVUdVBKMTJmOUlySkZSYTZ0Ti12TjlaS2ZnVkROZjVsYzR1NXJWNC1GTVdwZnZzMGtfVFVQVlFLeDdPOGtaNGtla29OT3JYWU5ZbG1oVzc4QjU4cm5qV3h4ZlJJR0V4SGtVYndsSVRDTlZSRlI0cENXcEwtWDFpaDZ0MDVzMUhMUjlrY2tCTVhldXVHOTFRaWFCOWhjSHNPeERmNzl0bm5malJwVHBwV0s2Nllndy1NMkdzdTgzZFdHcjl3MlVwSU1QRXFtYkxJZFJxUXUzOTgydGE0NVprd0xfVG9QdUVjNVRJY0FaVENMcjQ5ZnlDWXJ6WHR4dkZTWlZPRDE?oc=5",
-       "publisher": "Huskies Wire",
-       "created": "2026-11-13T13:01:00+00:00"
-      },
-      {
-       "title": "No. 16 Washington Huskies Cruise to Dominant Victory Over Cal State Bakersfield Roadrunners",
-       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM2VZck1COWJwclhKd21pQkZCLXlsdl9Fd0Z3STJPVGdlWVU3cEFFRjMxSktHSmp4U2NWd0dBYjVsM1ZnRmw2RlVFZVBrbkNnOFRwSTRWMzNObjd4bFRWVnlPVUs4LUs0OExobG9pOWE3WG9TQ2RSTE5NRFZTRC0zSG5ZUG9ZLVZnWmpYQXNGVTVfUDduTzFINW5xUWUzWmttc0tMSzNzLV9TcDlBZmhqZDRCczN3S24yQ0NvX2l6VjJlcTdDYkpzMTdFRWQ4TC10cGxCa0ln?oc=5",
+       "title": "Avery Howell Continuing to bring Game to New Level For No. 16 Washington Huskies",
+       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT282bDY5bjdSOU9IVk1qakxPUWFRZ3hobEhHYXE1TmlDc3FRaVA1ejY1bFdPalJZUHlxZ2dEZlVvU1UyMDNENTNLR01kRGx3WkFLWmtNSGpjN1NPQ2gxMzh0UnlLQ2xIQ0xxclJkSlAtNXk2cHJFMzB0YkNoVm11UXp3QzJVOXhiTktCTTdLV2FFaS1sbDB2LVJ3eG5LR1FrZDdFYTRoNGJYRHpqM1RzcUpRR3lubDh1aUZKdEFKYVFDc2I2dlM0?oc=5",
        "publisher": "roundtable.io",
-       "created": "2026-11-13T09:00:47+00:00"
+       "created": "2026-11-14T07:38:11+00:00"
+      },
+      {
+       "title": "Oregon women's basketball rallies past Maine behind record performances",
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcVRoNzN2WTJRanBFeVZldnY4VnhBbWg3U2Y4RldwLVZXSks4Q3pyYjhaVlFlSHRXYmlBanZmelE1bnBDWFo5ZUdZTlNQbnp1alE0d3RIZjVmN2d3MUhtQ2hpcTFWNVFaTDB6V3BNTGN4N254bzBfY1QycGY1WE9RR2s5aEU0VDlxeExobmJYNA?oc=5",
+       "publisher": "Yahoo Sports",
+       "created": "2026-11-14T02:11:00+00:00"
+      },
+      {
+       "title": "UConn Women's Basketball: Huskies Make Top Five For Top 2027 Recruit",
+       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMzlrU09DOE83Z0UzOTQ0dzhvY2RXM1VneV80WjkyQ3c2WnFiN3U2ZWdtYzI3dWpxR2FnVWt2VlBBRWJlTHIzZGkzZzNOODZJbUF5SzN4TTVJSnYteEVNY05Bd2t6Z3NSeXlKMjRHWUg0UElrdnVFTmZpRnp1aW1MYzA1WXB5YnctLTJwMg?oc=5",
+       "publisher": "Yahoo Sports",
+       "created": "2026-11-13T23:57:20+00:00"
       }
      ]
     }
