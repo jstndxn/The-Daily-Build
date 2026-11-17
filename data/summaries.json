@@ -8,5 +8,10 @@
   "text": "How can researchers study and evaluate the brain’s responses to natural speech over time? MEG-MASC provides raw magnetoencephalography recordings from 27 English speakers who listened to naturalistic stories, random word lists and comprehension questions across two sessions. The dataset includes time-stamped word and phoneme boundaries and is organized in BIDS as a benchmark for large-scale analyses of brain responses to speech.",
   "by": "openai",
   "written": "2026-11-13"
+ },
+ "W7225921097": {
+  "text": "Researchers asked how the context of a mechanism influences people’s ascriptions of joint dispositions. In an experiment within a project on explicit representations of device mechanisms, they investigated that relationship. The abstract does not report the results.",
+  "by": "openai",
+  "written": "2026-11-17"
  }
 }
