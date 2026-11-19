@@ -1,8 +1,8 @@
 {
  "title": "The Daily Build",
  "motto": "Projects, workflows, small computers and the home teams, collected every morning.",
- "date": "2026-11-18",
- "generated_at": "2026-11-18T12:57:21.398061-08:00",
+ "date": "2026-11-19",
+ "generated_at": "2026-11-19T13:04:02.300775-08:00",
  "timezone": "America/Los_Angeles",
  "lead_section": "research-papers",
  "sections": [
@@ -24,7 +24,7 @@
    "id": "raspberry-pi",
    "title": "Raspberry Pi",
    "status": "error",
-   "error": "HTTP Error 404: Not Found",
+   "error": "HTTP Error 429: Too Many Requests",
    "items": []
   },
   {
@@ -85,29 +85,29 @@
      },
      "headlines": [
       {
-       "title": "SF Giants should be dangling Matt Chapman over Casey Schmitt as trade chip in pitching pursuit",
-       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkdnSDdoNzdMQlRvRFhZVkNqT0pzNWI0Q29mWWJNdlV4M0xiQ2dsRjBaS0hSaUdKRWdnWVJjLVJBOE5DZmxYWnFLdHJTc1FqNGxGU0lhaU5uZjdMZkMtLTl0UVhFaERIQlFmMVM3aVNSOGpZb1U1RktWUU9ROHh4UmlXdTFQdXJqRy1nSXVwQm81LXBpMUctMk5ZWm5tVmgyNEloXzBVODBudUxGOXJQMkNTMjh4WXA1eXhrVzFQbHY?oc=5",
+       "title": "Giants Protect Hard-Throwing Prospect From Rule 5 Draft",
+       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU2pIcS1SamRXWEZ6MTZrWkVVZVR5RUk0UHBsa1NBNnVNR3NYN3Bac3BZS0FRSWV2UEVHUnNmZ0NGOWFSdGFhcXFEVTdBOV9MazlQUmdOeHJhcVloOHhwU2tyLU1HWHAzWFJISllfb00xVDhEYnRvQllWZFk5WGQ1SF9mTzVnNm5GbFJwajN4VTk2eUNoRVBER01tT0lWYXRkdVE?oc=5",
+       "publisher": "roundtable.io",
+       "created": "2026-11-19T21:05:31+00:00"
+      },
+      {
+       "title": "Mariners say they're done trading starters, but SF Giants should try to make them change their mind",
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYjhOM1JJaWJYWGVNNFc0dkdVOVBkcHJfNV9IRm5NX3I5Q2hpSHUxQTZiZFJSdVRlekpwUXpsTHRzbVhZQjRpV0pjdmk2QWI5LWVOakc5MlBOU0tCOUs3b1RReU13MTNVTzhFUlowVkV5Q21KZV9pSHRHcWFiRkt5cWdfaVByaGFTUXh6Vk41OFRuNVlVTDBLb3g1VEVHcmJicExMZERuaFdBdjV2WDlwcG5JX3lYZTc1REVCVmpuY0xlc2lfTWc?oc=5",
        "publisher": "Around the Foghorn",
-       "created": "2026-11-18T20:48:50+00:00"
+       "created": "2026-11-19T20:00:01+00:00"
       },
       {
-       "title": "SF Giants reportedly have 'floated' trading Casey Schmitt for pitching",
-       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQajgyTHRkLV8yQU8zTUFaQUFTM1RfNGJCX21WbFRnTFFiY25pU29KakcwZmVQOEJOcVY1aHFPc1BPRUZUWmtFRXNWMjJyMERzWmlicm1oSEZHZXBDcFhrMFFJSlpua3NpSWpPRlo0ek1TQXR3eEltLTIwSkpqUjg0VDRJbWczQ3plcGJmV05n?oc=5",
-       "publisher": "Yahoo Sports",
-       "created": "2026-11-18T20:39:08+00:00"
-      },
-      {
-       "title": "Yankees Urged to Trade for Giants’ 21-HR Infielder After Maikel Garcia Whiff",
-       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVBNMlc5eVBIVFY4czBwSWZlNGw3YXVULXMzWUxObHljWUpqWEhDV29nTFlMSHUzVU8xNEcwOVIzOUFjYU8xNy01azdZNk4yZEhNTFVOTFlGZi00ZlQ4ci0zdFNxQUNDNU9fTjhFVlRwMUFXaU9GUDZZSjNQVGZrSXNwSlVVaGVRMzZQTk16Z1JWa045M3dZTFJQbmRWd1JQb1NULTlfeURzVzJlY251NW5INUI?oc=5",
-       "publisher": "Heavy.com",
-       "created": "2026-11-18T20:09:59+00:00"
+       "title": "What the Maikel Garcia trade can tell us about the Giants and Casey Schmitt - The Athletic",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaUVKSURlNVhCOFRqUnh4N2Z1WHRXUnNxMGlGZW8zODZadmc2X2xxRF90Z2Y1RkNlRnZXcGJKeU03eVdjNVp1bGRsVVFXa3k0QXFuZzBoaDBjd1J2dEtiNjlEeUlLYWZ3TWozQVNjR0xMOVg2VEstcnZsdENPYmp3NEZqQlhqYjg2QlFBSUhPdU1GcmVKcjliQmxBQWw?oc=5",
+       "publisher": "The New York Times",
+       "created": "2026-11-19T19:25:21+00:00"
       }
      ]
     },
     {
      "name": "49ers",
      "errors": [
-      "r/49ers: HTTP Error 429: Too Many Requests"
+      "r/49ers: HTTP Error 404: Not Found"
      ],
      "record": "8-1",
      "standing": "1st in NFC West",
@@ -142,29 +142,29 @@
      },
      "headlines": [
       {
-       "title": "49ers get chilly reception in debut practice at Air Force Academy",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYjBzeXR4Mm14NFZROUFTU2Mwam00TlFEYmRqN1drMmxqVUhEeFRwM3E1R2FNc0tGdl9ZVWZ0RWhXR2ZQZXNxUmdxcGZHNUZJLVRVVUdSZnEyYzQ2MXNpV1VyWExQMGlmQ3Z3ZnNKQWZETk1XVGVuOVNIZDlSUEVDWHJOMWRLMU9CUDFfNFBiOE1QUE80aHM0b284a2xNdzI3MWU0NTFaYzNuYms?oc=5",
-       "publisher": "Daily Democrat",
-       "created": "2026-11-18T20:57:49+00:00"
+       "title": "49ers go to extremes to prepare for historic Mexico City game",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdjdLLUcxZldQUy1DS05HYVBBZjZlQzAyV3FTTVVXWGQ0Y1U3Nko2UjBmTE5HQmhvenNoZUVWcW5rMU9Md3hkOXNydy1EVVJpNUc0c2h5d3ZGLXpxRGlqVlBBX2VMcl9SRGgta2paZWd4Y3JzeHktclExelp2OEVfcFRzX2lpY3FfTnJYd2s5Ni1PdUhiR3M1ekxzTzV5MkFNbzBxRnlUY0VJbzFnNVdB?oc=5",
+       "publisher": "USA Today",
+       "created": "2026-11-19T20:59:00+00:00"
       },
       {
-       "title": "Vikings Reveal Photos of Altitude Chamber Used Ahead of NFL Game in Mexico City vs. 49ers",
-       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWU1cVlaamxhdVBTSjhEa2ZSbF9VOFAxNlR6cDZCVFdZQURhUXNVTGFLQ2ZUazFHNFRYOVd4alZnLWtMLUxtVUYzUWE5WmtTRUI3bkNxM29IRmlKMzZvbTJuNFdhWHNCcTZLT3dIWERqMG5wTHNQQ3pfQkNEeUxOLTZwSTZyXzBWcWxyUXZnU1JIamdiWTZjd2xwVzJjeEVXbEUzaEpkRThwVk1qRFJ6dnNpUmFuNlROODlha2NHbDFfdw?oc=5",
-       "publisher": "Bleacher Report",
-       "created": "2026-11-18T20:52:19+00:00"
+       "title": "Morris, Kubiak Talk Lessons Learned, Preview Vikings Matchup",
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcG83b3BLYk9lYkJyckpFbDFHemthMEk2RTNXV2xnNFI2YUpsT2xLbi12dWlJVko4d0drcVo4VFhXcHROSFN4Rm9sV0ppQ2NZTnNPOU5kQV9ZNVhhT2tERzkxODhYQlZ0cEpFWHZKWmhuOGVTTDhxYklfQk9SZ0ViUjQ1cDRVeEZma2Z3VWNnaw?oc=5",
+       "publisher": "San Francisco 49ers",
+       "created": "2026-11-19T20:56:55+00:00"
       },
       {
-       "title": "Where the 49ers’ biggest defensive concern is heading into the second half",
-       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQME13cl8wSkhQYlhUd2J5Sm1PckhrZ2JJNExBbmxDVFhOYktvd2JLeGpxNlBKVm5GczVJSlFOS0JweWw2Q3V4cVBReHVMLWNYSDRGWXQxUUViRHIwcl9hTmNsMUtaVTJfYkZBOXZGYXBCT3RkT3N0WGg3S0FZci1iWndIeURiWDNDMWFZdUNuYlB3ZlVJa1FZclVBMUxiLVlGRGVVTGVQcjJ4Rk5xaUQ2b21kZUZDZ09iS2lYYjVaazAtYUZ2QTV4YW96QkFiNUdKZG53eQ?oc=5",
-       "publisher": "Niners Nation",
-       "created": "2026-11-18T20:47:14+00:00"
+       "title": "Mike Evans takes step toward potentially suiting up vs. Vikings",
+       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcU5JQ1lINnh0Z0N2ekFETkFMRF90SUNLT2hLQnpQQ2g2UnFJenNIWk0tS0ZlS2ZhUTBTVkZVX3pzbzMyMGM3dW5GMEo5QkJVMTRFc0g1LTE4T3U0SEJ2R0Q0RFU1NThkRXFYa2RZRXptc0xuWnNVVlFvb1A5TE1NN3UtRmlTYWRSc1czSjhZLVlzTGV0WTE5VFpKRG1EM0J2TExnWDRpbmx0RXl4dTFVaHdhUTVYV09DcjFpU19RMHpDX2Q2SGoyd2V0aWJPdw?oc=5",
+       "publisher": "Niners Wire",
+       "created": "2026-11-19T20:40:00+00:00"
       }
      ]
     },
     {
      "name": "Seahawks",
      "errors": [
-      "r/Seahawks: HTTP Error 404: Not Found"
+      "r/Seahawks: HTTP Error 429: Too Many Requests"
      ],
      "record": "6-4",
      "standing": "2nd in NFC West",
@@ -199,22 +199,22 @@
      },
      "headlines": [
       {
-       "title": "Seahawks special teams report: Jason Myers must sharpen up after bye",
-       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdW1vYTd0LVZtRE1NN2tWSE5TLWhtVllFRzRkLWRRZVJrRUY1T3dnRlFLbk4ydVVSSk1IQmxmN1lCMUZicC1YdzdPSlFJU041NVNLaDJZdW5qQlowYlp1eFRFbEtTcHJWd05BMUlOdGdQZzdnSjVZWmkzSnBrM0M1RXVhc2s4Q0RKd3ZEY1lhSUVzTkRfdlEtanJjeVZVZkhYX0JQTkFBcnl3aXZKQjA3QkdaQjNUODhBRHpNelN6ckVkcmxMOEh5a1J5bGJRV09paVFUbDNhUGluay1nZmxIUmpZWlV1dw?oc=5",
-       "publisher": "Seahawks Wire",
-       "created": "2026-11-18T20:46:00+00:00"
+       "title": "Gameday Photos: Week 10 vs. Seahawks",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtX1h2LWJUQ29tUjVkYUY3ZC1ZM0hQWk50dkZmdGg4eTNCZ0Q0WWxNM1NvZllmRnhvX0JWRWFfWDB6QVBaeXNaS0tvZXpPVFhOZS1MRXhpeUJwT0h3NjdEeHVocFk5Zi1KTmxYY09lcXBPZTQ?oc=5",
+       "publisher": "Raiders.com",
+       "created": "2026-11-19T20:55:06+00:00"
       },
       {
-       "title": "Seahawks Mailbag: Sam Darnold’s Return, Devon Witherspoon’s Physicality & More",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSkFMQnNpUGJILUxqQ2hKMXpmSjktZUtfNGk2eFRaRlJoZzlxVF9aZTFUeXFWLUNuemQ3SGsxSU5rT2RUeHpERmk5RnVIRHpBRDM0T2lMT0lkd2QyLTRCcXo1ZFFuQXFxdk5vWXdSU0NHWXF3Rko0MFpSYU5qLVE2aThSNV82Sjkzd3FQbjZlSE9EUEVhS2EtNjdsSldXb3pjZkpkY3lvWQ?oc=5",
-       "publisher": "Seattle Seahawks",
-       "created": "2026-11-18T20:37:45+00:00"
+       "title": "Seahawks' Nick Emmanwori: The NFL’s Most Versatile Defensive Player",
+       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMklOM1ZaY1RmbHI1emktOFJyRUZITVZMRl84M05ZWlMya2pOa0RHMlVTTEZlMWVXRkpRMl9RdnJoRVF3OExkajBaWkdUODI2TEdtREtvbDJMLVdXTGFnUDVER2NnZ2RBMjdyNTFvMXNyeXJCYi1UOWFDREhvRVQ4Y2x1cGpiYkFwTU9IU01YWmM?oc=5",
+       "publisher": "Sports Illustrated",
+       "created": "2026-11-19T20:00:00+00:00"
       },
       {
-       "title": "Upcoming Seahawks opponent pulls DC’s play-calling duties",
-       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWVMbThMZTVRY19LYUd5QmpIUTR5RUNfUUpYSzJYOW1uYUtnSFNCVjdSbmE1NFRwaGMzdGNNajByMWpybi1GdzJRSU5NX19kNm0tTzRXZzl6MVZzVWZXRnZrM3h1d1BtbkRaSDNtZlp2RmgwVXlnV3RpSVkzTDZoUDM4T1RtUzB4RTllSnRJNVlMVUk0eGNZNkc1eFR6dGJJMWxfbjJyamUtb1VRdkJBMFY5VQ?oc=5",
-       "publisher": "Seattle Sports",
-       "created": "2026-11-18T20:23:47+00:00"
+       "title": "Cinema in Silver and Black: Week 10 vs. Seahawks",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdWRMRFJ5bWFnX3VrVlhxUEFrSHlJY2M0eDZEWXA1dG54SWJoZ3MxWmxiTjZpVnNNcnl1a2dNYTZQa3E1dXFBcTVQaGg2WEFHckJTR1ZJVWd1NEp6QUxVNlJrQ0ZVNGpNVEJYYWZveExFNG9iRU5rRmFqYWlDcGZpdExJRQ?oc=5",
+       "publisher": "Raiders.com",
+       "created": "2026-11-19T19:53:48+00:00"
       }
      ]
     },
@@ -243,22 +243,22 @@
      },
      "headlines": [
       {
-       "title": "Mariners Acquire Maikel Garcia from Royals for Bryce Miller",
-       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS0w2UFhyaEtRVy1Wb0ZpR3NIVXVFRHZ1dl92Y2gyOGxocmc4MWRlSll6Q1I5WUFKUktNNDZOcHdSUE5MTXMtaXhubkZyZDAwcy1CVFVCc29mblhpOFRWNU9VVjlZSFo3blNwaEhpMTZmbjNKTUQzREdZWk9QRktaSllham5Kdm9Q?oc=5",
-       "publisher": "Metsmerized",
-       "created": "2026-11-18T20:37:30+00:00"
+       "title": "Seattle Mariners added intriguing pitching prospect in 6-player trade",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZVNqSi1sem03RVpSSGJVbXBGRnhiVlpwaVhocGZUN1puQVA1c3Y5d3BRS21SUjVkT01UOWJ5M0ZjX1hINU9IcEJhQk5RclNXTnNZenI5LUZHVm1pRk9TNW85czhNdVZHNmh4MC1DZnlfdjhXNENxeDEzR1A3UVliZUNMZmNYbWNjVU5XWVJTSzFKZUw2SnJUbGlkZ3ZNRGlGSEJTX053Ny1fZW5CV2hQbTRqb0lIQU1EbkZIQ05TSE1xZw?oc=5",
+       "publisher": "Seattle Sports",
+       "created": "2026-11-19T20:54:09+00:00"
       },
       {
-       "title": "Mariners’ trade for Royals’ Maikel Garcia is risky, but reward could be high | Commentary",
-       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQenlleHIxZk8xVHUzandHRkxkMS0xSlJvTGNIeEhkdUdYQ1hMbnRQTTJQQmNVMnJ5YUc2d2YxVjZTZ0JqMGs1QWJSbWlSVzc0aGV3dHlEYS1ranRIdzZrRDlmbW9QNjhnbDJLRDNhUE5tUm13VnFTSzhtcnRUREJVdjJRaUQySTVvNU9sR2pneFhMRDJKdGxqQXhLZVpuQQ?oc=5",
-       "publisher": "The Spokesman-Review",
-       "created": "2026-11-18T20:30:00+00:00"
+       "title": "Mariners say they're done trading starters, but SF Giants should try to make them change their mind",
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYjhOM1JJaWJYWGVNNFc0dkdVOVBkcHJfNV9IRm5NX3I5Q2hpSHUxQTZiZFJSdVRlekpwUXpsTHRzbVhZQjRpV0pjdmk2QWI5LWVOakc5MlBOU0tCOUs3b1RReU13MTNVTzhFUlowVkV5Q21KZV9pSHRHcWFiRkt5cWdfaVByaGFTUXh6Vk41OFRuNVlVTDBLb3g1VEVHcmJicExMZERuaFdBdjV2WDlwcG5JX3lYZTc1REVCVmpuY0xlc2lfTWc?oc=5",
+       "publisher": "Around the Foghorn",
+       "created": "2026-11-19T20:00:01+00:00"
       },
       {
-       "title": "Mariners and Royals Pull Off HUGE Trade! Maikel Garcia for Bryce Miller",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcVVZTzZmNW05M2lJWmJ4V3hRUF9pWkZQa1JQYWlwbXg0bzlOaVBfMElzTFVGS1h5NmhWaDh6OENOQ2N4NGVuOW5wZmFlNDkyWjBvRHNSY3VKVl9VdkxWejRxWXhKLUdObi1aNHU4aUtfaHdJQUtvTzQ1MGRvdkx1SlhWdWNYWDFaNEVza0xuR1d5cDl3YV9QWUdUUEw5SU1yaWw5eG01dw?oc=5",
-       "publisher": "BVM Sports",
-       "created": "2026-11-18T20:24:15+00:00"
+       "title": "Mariners’ Maikel Garcia trade blockbuster could seal Luke Raley’s non-tender fate",
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLWp3ZlJRWjFuMlY3RG9lbnU1TmJEOEdRRkJmeG1jUUJURklOLTRONnhZRWxfTkZpU0k4bkJRVUQ4cWJwZnBqc2JfbWtqVnc0U09VWWZMQ0hHcHJWUWppckUzVVczTm5NZDBxWXptek0wc3RySjY4Z1dfazI5U3RCN2FZT2g5YjRUX29KR0h3a0doamc?oc=5",
+       "publisher": "Sodo Mojo",
+       "created": "2026-11-19T20:00:01+00:00"
       }
      ]
     }
@@ -276,55 +276,55 @@
     {
      "name": "San José State men",
      "errors": [],
-     "record": "2-2",
+     "record": "3-2",
      "standing": "1st in Mountain West",
      "espn_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/23",
      "last": {
-      "date": "2026-11-16T02:00Z",
+      "date": "2026-11-19T02:00Z",
       "state": "post",
       "completed": true,
       "detail": "Final",
       "home": true,
       "neutral": false,
-      "opponent": "Alabama St",
+      "opponent": "Fresno St",
       "opponent_rank": null,
-      "us": "80",
-      "them": "68",
+      "us": "92",
+      "them": "86",
       "won": true,
       "tv": "MW+"
      },
      "next": {
-      "date": "2026-11-19T02:00Z",
+      "date": "2026-11-23T04:59Z",
       "state": "pre",
       "completed": false,
-      "detail": "11/18 - 9:00 PM EST",
-      "home": true,
-      "neutral": false,
-      "opponent": "Fresno St",
+      "detail": "11/22 - 11:59 PM EST",
+      "home": false,
+      "neutral": true,
+      "opponent": "Loyola Chicago",
       "opponent_rank": null,
       "us": null,
       "them": null,
       "won": null,
-      "tv": "MW+"
+      "tv": "FloSports"
      },
      "headlines": [
       {
-       "title": "This Week in Spartan Athletics November 17-22",
-       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWG13T1lmblhSMEJfeWVaeVpUc0pOdHI0VFFVLTBPWF8yaGRMZWFfQlJZd1pWbkItZlpNdXpCS1ZDdVhCcjFXS1VKbmdUWkpaelItcGRUV0dZNDJzREt6MkdaWC1zZzh4WjAzb1QyVW1iTE4xX1VSVVd2RUVBRXdyOTFUWldaTmExajhYUFh2MA?oc=5",
-       "publisher": "San Jose State Spartans",
-       "created": "2026-11-17T20:40:34+00:00"
+       "title": "Thursday Dots: Receiving Praise",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV2pIOVYtd2prRGdCQXBYVUVBaUFHVjc4SjF3Z01XTjRFZXg4XzdDc00tRTg3TVZUQlVMVHZ6Yk9ZUUJ6Y19qYVA4UnJ4STNLX3JyRThjeG5Ia0FpMlZLSzJ1TElZNU1XaXpxYTV4bnpSSnU3MGk5aS1QdmVPMUdzaHpaMUNYZw?oc=5",
+       "publisher": "Yahoo Sports",
+       "created": "2026-11-19T14:28:00+00:00"
       },
       {
-       "title": "GAME 11: Rebs Off To San Jose State For Road Finale",
-       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNmZBX0FBYTJ1XzZLNVh4YVItdUZsYlZfdkg2ako4RWpWSlV4dGtQTkg1bVN0SFh0WTZxU2wtUVNMa0NYOGJSc2cxMUVnczQ5NFdrVnRYQWEzUXJzZ29YSnBnd2MwbktONmlBckdkcG1mZWEtQUJMblRESzZtOG9ybTRTS3hiMUExY282Y1lFNkcwNEYzdkdMZTRiVnFocTQ?oc=5",
-       "publisher": "University of Nevada Las Vegas Athletics",
-       "created": "2026-11-17T04:38:10+00:00"
+       "title": "Week 12 BNN gambling preview -- best bets for Boise State/San Diego State, Brawl of the Wild, and more",
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLTNPalFaQ2NGOXF2enhKWGVnU0M5SDdqWms1N0VDUXdTeVNZUVlLcXBJU2NPTUIxVXNLV09oUWcxVWVQdDZhaHhtUWRPRFUtYkVza3d5SWpwTHBXVGY5dEthOWlBT0h6cXp2dERFRGIyb2hXdVU0OUtleW96d1BfVFZQcEx3REFQdldrVjRpUQ?oc=5",
+       "publisher": "247Sports",
+       "created": "2026-11-19T07:16:35+00:00"
       },
       {
-       "title": "Big 12's pro ban divides experts over fairness and education for athletes",
-       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56Mk9PT1pGMzVNSGtnd2NYYlB6QWZxLUxaS3o4WExsel9XOGlSd3JHQXFwMmxrMHhCMVhpOTZFclFPRURRcFlHbFpYZXByNWNtMHpNZGJzWE9EUFZUZ2lDSHB5MFpKTlg0WjFBa3NOMVdwUkdTd3lF?oc=5",
-       "publisher": "The State Press",
-       "created": "2026-11-17T01:53:00+00:00"
+       "title": "Doland’s Tim Miles wins 350th basketball game",
+       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVkFuMGhJbWhvbk9FRzZsQWJ5Q1R5aGw1b2VFWnBOdUp4VEZ4UFNoNVE1U01QQkZRYjFpcUVzQ1oxSGJhM0dWdDRSR3hXQlF0Rmw1REk1S3IwRnBWcVdsZDE3emNVNGNqaWIzZ2lINGFkajFOSC1FMGd5d01UUHJINWRB?oc=5",
+       "publisher": "Yahoo Sports",
+       "created": "2026-11-18T04:53:00+00:00"
       }
      ]
     },
@@ -364,22 +364,22 @@
      },
      "headlines": [
       {
-       "title": "UC Irvine Falls to Stanford, 65-61, in Road Opener",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlRGbDRoUzU3bkJ6a1dyMXpIbTVsRzk0RkJmbVpsZUUwRWdldTJzYTlJSFhDQ18xM0U4RDFRaXhJMkZBMVZiMU45OF9QOFA0LUVRTkg1UWRKeHJmdzhYcWFWTGV5OEZkY2ZDMmZodjNGOHk3RG5LTDRZVU85TF9qTjJ3VWtyVjZNdEVRUmV4VTJBWjFZMTU5cWxqeFptSkd1NkdBc29wUjBfMmM?oc=5",
-       "publisher": "UCI Athletics",
-       "created": "2026-11-18T06:26:23+00:00"
+       "title": "Cal Basketball: Bears, Cardinal Announce Montgomery Cup",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XeDQwNU1oRlRPby1OY0hiWXZhOXpFcVJkc2lSdENnOS1Ca3hmX3dBMXVBWk9BVGdSSFB0NUZoUnc2NVJxTVNPSG5adWY3bzJqTXB5X3prX2pwbUFzTVhERTlBT05fV05qMDRuTXNybG5vckNDXy1OSw?oc=5",
+       "publisher": "Bear Insider",
+       "created": "2026-11-19T21:03:55+00:00"
       },
       {
-       "title": "UC Irvine men can’t finish off Stanford in 1st loss of season",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYUxjMDQ2UzFaRTJCejB4MnZRTGNfbU1pUURYQzhWeXNNVDI3TEdTTllYcjBPbDJyWXMyRV8tY0thVHBYaXNPdGh6LS1GTHVpeVk1c19PVV9RZ2JKREFpR3hWcEZ0VWlSaGJTQ3pfbGFDUlhKNGZrWnlzZzhyX0tXdU9DcURTLVYtWEhINTR0bmk2SGdoNWJZRmFCNU13Zlh0?oc=5",
-       "publisher": "Orange County Register",
-       "created": "2026-11-18T06:25:33+00:00"
-      },
-      {
-       "title": "Highlights: Stanford Men’s Basketball vs. UC Irvine (11/17/2026)",
-       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTkVOTm1OcXhlTEJUUjNRLWsxcUJtNURIS1BFaVlBYVlsTzJtOVA5UFRqUnVzQ29iYkNPQ3dVV3NTaDVIOXVVRWJhV3NsVU40djJ4Rng0NktZRDk1b1hMNXJnNGI0VEhZby1vTUpraTVmTFJ0NFZWU1F5VjY5bDFDSjVqcWpqREc1V0otUGtQUDUxV1owdFNFOGZockY?oc=5",
+       "title": "Introducing the Montgomery Cup",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45VVRUNkFzdFY5bU8yNmFYSGg1eHlkWmg2RHYyS2JteXpScW9HMGJ2QmlDdldYdHFuSUFaMlJYdG16cXBCclBORDJ0YWstTXNIbUJqVmNicktZbVhUaGtINHEwOUJDeDJ1bkVvSTJ5WTZRQVdoZGVxMg?oc=5",
        "publisher": "Stanford Cardinal",
-       "created": "2026-11-18T06:16:16+00:00"
+       "created": "2026-11-19T20:18:59+00:00"
+      },
+      {
+       "title": "Stanford and Cal Establish Inaugural Montgomery Cup",
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd05NRGFEWmxwMWM2RnpINWVvZjdBSFQzaEtsWXN4Ym5YVENjQ3g2enl2Smt1Zm5PYnF3N1kxTDlHbERnekg3NC1hRV9FektPVGtYRXRaOXJQcHhDWDgycFZhdmF4MWc1T01nMUgzV2lSTTlxbVZqSEFNU3pMQ0V3aXBGYUF3ZlRnZFFFdlVUWXUxRTZw?oc=5",
+       "publisher": "Stanford Cardinal",
+       "created": "2026-11-19T20:03:59+00:00"
       }
      ]
     },
@@ -419,22 +419,22 @@
      },
      "headlines": [
       {
-       "title": "Highlights: Stanford Men’s Basketball vs. UC Irvine (11/17/2026)",
-       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTkVOTm1OcXhlTEJUUjNRLWsxcUJtNURIS1BFaVlBYVlsTzJtOVA5UFRqUnVzQ29iYkNPQ3dVV3NTaDVIOXVVRWJhV3NsVU40djJ4Rng0NktZRDk1b1hMNXJnNGI0VEhZby1vTUpraTVmTFJ0NFZWU1F5VjY5bDFDSjVqcWpqREc1V0otUGtQUDUxV1owdFNFOGZockY?oc=5",
-       "publisher": "Stanford Cardinal",
-       "created": "2026-11-18T06:16:16+00:00"
+       "title": "Jim Plunkett stays connected to Stanford Cardinal",
+       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZHVrbDZtTDRORFNRcFFmTTdpYlhtdmJ1MGNlQTJZRDJvaVhPRXB5QUUwRTdzWGNQeVFMOGVBeVV0YXRVM0JIclpGQTZISWtSLWdROEF0UlNvc2dBcERlZG1lRHRtbzlwVXYzV2N3RWpTTUFHQl9ZM1FBT0gtUHNDSUhFZE43OXFqS1N6Qng4dGkzSnR4VmQyWU9tSHI3UkdYSW9uN2tZWEYyaW43eFM0RmJNT1VYZmJEZ3FYSVZ5Nng3TE92RjlhYXpkdHhOdFFTZm9mcWlfeHgyZUxtN19yWjJEcw?oc=5",
+       "publisher": "San Francisco Examiner",
+       "created": "2026-11-19T12:00:00+00:00"
       },
       {
-       "title": "UC Irvine Anteaters vs. Stanford Cardinal: Game Highlights",
-       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DaGZzTF9GcXNjTEhWSmNvc2ktMHBtcWFQSk13OVlsSVN2V3lRYmR1LUlBSzRkbTg3TDd1dHR5UURkcHRvWUhmRnFwTk40akxGVGFoSkcxRDRVOTA?oc=5",
-       "publisher": "ESPN",
-       "created": "2026-11-18T06:03:34+00:00"
+       "title": "Leland Stanford Junior University Football 2026: Offensive Preview",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQWJBbmpKRDBpbEVpOXRNWmdJQnY3WUVKNWl0a0pBMVFMajNHSXRwQTRSeGpVNGthb3ZtenY3aWxlemFZYkRqbmRmVUNxelFPYUJSRkxVX1NpZ004WFhRT0JKYzBFRDNmbk9KQXE3QVV5NmxqVTRJdEV5UnN5VDhtZkVrSkhtYlRaUFExMjhJd09HQm1mREV0WnFZaEs?oc=5",
+       "publisher": "Write For California",
+       "created": "2026-11-19T11:02:51+00:00"
       },
       {
-       "title": "Stanford uses late 8-0 run to edge UC Irvine 65-61",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQczNKc2R0NFZ1aHMxMUdrb3dnNjI2SUFESjJFYVFqMjhvYXhUM1FlTlNYQ3dPNDZSTWllOEJadUZIOEFPMDJGUkxDT1pIaUdkeEEyOHh0UE4teEhmSERNMll6a2Z3Y2dLVHRWN21sNVI0UnE1ZjJ0eWd3c3NISWlobzJIbG5YWVNBRDNyeThhQVR2RXJvV3NuRVd1dVpZUUkzSlRn?oc=5",
-       "publisher": "CBS Sports",
-       "created": "2026-11-18T05:48:00+00:00"
+       "title": "What to know about Stanford basketball this season",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS3Zrek9QMTJWVlpEOC1odGdJMmdlZUJkV1RESkFXbHliUFMzSjU2b0ZVT0Y2TVB2M3RHTmtETmwxanJOcHRwT095UDJ0QXFsYjhPeVotN0NUY2lTTlBSbk9xYkpXRGZpZlN4Wng5ZmxkczBfMGd5djhseS1jVnF6aUF1SWI?oc=5",
+       "publisher": "Stanford Report",
+       "created": "2026-11-19T01:28:18+00:00"
       }
      ]
     },
@@ -474,22 +474,22 @@
      },
      "headlines": [
       {
-       "title": "Five Broncos Earn All-WCC Honors",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTFM1VEVaVUJLdHIzdlVhdWVBOVJwb1NwYlFiX0UzSTB2WndTT21ydUo4WVdybjZIVzlkcFpCblpWRDVIRUFzWXVESzViLW9Ta3hXZ2NlckNOOHZ4ZmNCNExOLVRFUklaejZSYTdSeEYtaERESWw4cE03YkdDSTc0aXdvN2pLeUl4TFBqUl8ybHB2RWc5RWJ4WWhfcEltV0tO?oc=5",
+       "title": "Eleven Broncos Earn All-Academic Honorable Mention",
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWUxGTmVLeWZmUEVoWC1XRm4zekZmNWg1ampOSWxfc1RTM2dTMV9OVHJIZGZINHFHX1cwZDVYYzNidzhzcVhVVXllX2NGM21LckhwSlRiVV9ycndGM1YwSENsODlNQk1MVnA0bFh5d2E2ZzJMbDZjUXFIODE2bkpqVjFETVlaRlV5NW13VHNjRTUzaFQtWjRDWFVEYlMzbDhVcmJ6ZkJoZVhOVjlLb1NCd05IaTFVNnBK?oc=5",
        "publisher": "Santa Clara Broncos",
-       "created": "2026-11-18T19:09:52+00:00"
+       "created": "2026-11-19T20:26:18+00:00"
       },
       {
-       "title": "Villanova Transfers: Mixed Results for Former ‘Cats",
-       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWUJDN0NhRjZINVVtUlduX1l5ckhYLVZQeXpzMDRpcl9HcHJ6eWFkZlphNEw4LVNOdjZma3lJZWkxVUtNb1ZsQmdrOEh0eXVVRkEzUG9UNmxQb1FOUEdMdEpkVU55N3ZTN0x1VnBjUVJsRkRkdTR4Y2lvOGtFQ3ZPaQ?oc=5",
-       "publisher": "Philadelphia Sports Now",
-       "created": "2026-11-18T00:26:48+00:00"
+       "title": "Zags Got Takes: Early-season men's college basketball takeaways",
+       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQUF4alZENlhfa2pGYUVvTkJ0YVZlaVBVZXZiTkQyNUVqYk16eVFBdU82RmFabFkyZFF4UElBV3hMWjBPTEdnSlBLaWJ4TUlxbTVzN3g2RTNyZGM4QlhyTjhIZUg5RjZPRnB6Um9fZGhwTDQxQk1SV2JvSi1ZOTFTTnRER01vUXpxRkFYVk0tNThnVlphRVRBa0ZSMGpRWFZWdUU2STZLcUtuRE1FLWdVandfVm5keWUtLTJXelJmVVlITllCYUt6cFk4cFk2UlFXZDh0Uzl1TXpVQWFlQW0zc2FzZk4?oc=5",
+       "publisher": "The Gonzaga Bulletin",
+       "created": "2026-11-19T18:00:00+00:00"
       },
       {
-       "title": "Latest 2027 Men's NCAA Tournament Bracket Projections",
-       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSERmWlotWERLRDE4TWdxTzV4NUpvZW5NZzVaRTFBS3VkR1g0Z1d6NE14UmNKbDBHNkZQT0hLOTNwUjBIWGRHcWZKRlpTRUdETEFmZ3pfajNidHJ3blkxOENLOFY3ZkQ4N3oyV3hfbm01LU1qT2U0X1RlSWh5d0I1ZkFwWElSZGRKdmFkOGVuaFNXRGJOekgyT0RQZ2o1dw?oc=5",
-       "publisher": "Bleacher Report",
-       "created": "2026-11-17T12:04:24+00:00"
+       "title": "Broncos Bury 17 Threes, Hold Off New Mexico in Mid-Major Showdown",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaVJpT2liUEVXMjVwRDhNZFFESWh1MHRLbVItV3pTLUJRQTZQX0J0cEdaUzJ4RThWZ0Q4MTJYaVRRZmpnVmcyYmVOUmpOenByLTVOcGJqdVQ0NGdqNGZ1a013a18xRTl3M3EzVC1zZmxoczhmWHAtVmdRT1hMOGV5N3lHa0RxSFdIcjJSNGxyVXZCdEpKdnc?oc=5",
+       "publisher": "The Santa Clara",
+       "created": "2026-11-18T21:44:05+00:00"
       }
      ]
     },
@@ -529,22 +529,22 @@
      },
      "headlines": [
       {
-       "title": "Washington Huskies Sports News & Analysis",
-       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kRjRtWU9XcDlIYm5BVkdpdVFMSEIyYkFVZERZOVdIaWc1OUI0RVc1S002RGs0OV9oUWJ3MW1nTFBGcWR4a0IzeU4teFhwTW84alNiVUhUakpoLWx1cEhHcmsyRnFqMk42Z3R2NXVkakhsZWc?oc=5",
-       "publisher": "USA Today",
-       "created": "2026-11-18T17:38:05+00:00"
-      },
-      {
-       "title": "Video - Washington Huskies Men's Basketball: Huskies Dominate Simon Fraser Red Leafs",
-       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcUoxclZodnd0WDBVZGMtMFozbElFejRRMm1BcXlQYnNyZ1NOX1F2VV90MFBhVWdkVTNxQnFXMkdudl9kVzYtSWdXeFJEbDR0V2JPT1p1VEp0QkZFbW1PbXVxTkFFNGdod0RUYnhfcUxPVnJISzRxZlY1QlN1Mkh2dDFPcFpLU2hMZ0htU3MyaUo4TjhtdDBIRDh5ZEhaR1M4NjV3UzUwS011OTZGaDQ2YmJCRHpDeVRuM25tX2JRY2hLNDA?oc=5",
-       "publisher": "roundtable.io",
-       "created": "2026-11-18T07:52:31+00:00"
-      },
-      {
-       "title": "Washington Huskies Men's Basketball: Huskies Dominate Simon Fraser Red Leafs",
-       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR0xqTXRMLTU3dXpIb3NKWGxMZTV4STBsb2duaUxHZmhKXzNudUUyZU5DVWdFSFlhVW1yUGFGX3ZEN1I3emdvNFlneHpRVUVsb2szV2J2NVo4OUFyam0tTXlJMmlLZkowa0M5dDl0cVY4RFB1UlJ6MjRPSDRFRGU5UU9BdG0zV21KUUNFNXlmeHUwYVFKOFE?oc=5",
+       "title": "Wini Braga Records First Career Double-Double in 37-Point UW Victory",
+       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcW9Idmx3Z3FEaTNwWl9PY2d3LUJYUUJpcUxLaXR0T0R6QWJGeW00V1M1XzZlYkFqQ2h3bEttejZQM3ctMGJ4SHY2VnJScHozYl8zQTlyMlBQaTh6NnpXZ0Mya0NZS0oxVTRDNWJaQUZmSE9weElHZGVFdThjMFN0VGs5RHBublE?oc=5",
        "publisher": "Yahoo Sports",
-       "created": "2026-11-18T07:52:00+00:00"
+       "created": "2026-11-19T17:01:25+00:00"
+      },
+      {
+       "title": "Nearly 100 years ago, UW men’s basketball faced off against the Nordstrom ‘Shoes’",
+       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDFlVzQxX2Y1V2lUazgwdnQyS1V5LWF0QkViUXdna2FhYUVQRVJEejVOWGNCSEIwVTZ3d2VnbWZ3czByWGR1SnF1cHZwRkRvNmZZX0p4dzZheGRKSVdKdm5CcmRXTEFmLU5UVlJTblNoNTNSVU5QQzd3cWVrdkJyMmxUcTJHMUFFVy1ocXo1LUdyX3RrS25BaFh4UmIxY3ZfSVFVSGxIWWlpVGZkdzNrWTZFaTktOWRCMlNr?oc=5",
+       "publisher": "www.dailyuw.com",
+       "created": "2026-11-19T16:40:46+00:00"
+      },
+      {
+       "title": "Curt Cignetti and Jedd Fisch approached rebuilding jobs differently",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTmZiOTVkZkktcFJWb1Y3Y1dVTDVZbUJLQ2FHTmY4eWU2dW03ZTF1bGx2Z1hUQWZGd1k2NGpJMW4xZnQzSjRNMkVoT0luMThSdWRsdGhMR1NiTkc2Vl9KbVM3empLNkxuNmVJVTV6V1d3aVBaRGI4R211dHh1c3RIYnJqcXhSYnpXa2JaeUxVdS1TRjk2cW4xRTNYeUY?oc=5",
+       "publisher": "SuperWest Sports",
+       "created": "2026-11-19T16:06:39+00:00"
       }
      ]
     },
@@ -584,22 +584,22 @@
      },
      "headlines": [
       {
+       "title": "Wini Braga Records First Career Double-Double in 37-Point UW Victory",
+       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcW9Idmx3Z3FEaTNwWl9PY2d3LUJYUUJpcUxLaXR0T0R6QWJGeW00V1M1XzZlYkFqQ2h3bEttejZQM3ctMGJ4SHY2VnJScHozYl8zQTlyMlBQaTh6NnpXZ0Mya0NZS0oxVTRDNWJaQUZmSE9weElHZGVFdThjMFN0VGs5RHBublE?oc=5",
+       "publisher": "Yahoo Sports",
+       "created": "2026-11-19T17:01:25+00:00"
+      },
+      {
        "title": "Washington Huskies Sports News & Analysis",
        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kRjRtWU9XcDlIYm5BVkdpdVFMSEIyYkFVZERZOVdIaWc1OUI0RVc1S002RGs0OV9oUWJ3MW1nTFBGcWR4a0IzeU4teFhwTW84alNiVUhUakpoLWx1cEhHcmsyRnFqMk42Z3R2NXVkakhsZWc?oc=5",
        "publisher": "USA Today",
-       "created": "2026-11-18T17:38:05+00:00"
+       "created": "2026-11-19T11:31:32+00:00"
       },
       {
-       "title": "Washington WBB rout Washington State 82-54 on the road",
-       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOal9YdnZPRVJseDBWRGFCTzFyWW1jdDJaWnZaWC1abUdEcUxDWFI3LWVMczk3LW94N2NMM1R2ekVrcWJ2Z3kwWmF0eERJY0tQOEtKQVFXMEJrTkEyZGZTbzBCZ2xoUHNpRTNvYjZWeE9BNmpHVTk5ekxKOVBWUUVjTmVIQkNMc1N1elRqYWxQNm9FcmlYM191VFQxYmVPa3lBbW5tRDdKQVA4SDFkS3ZEcW00Zk1TZGhVOXRRVmJ2bjRXN2hDdjI2ZV9aUm5CYVdkU2Q2ZWJXRkJFc0dBQUNqV3Z3bHRKSFBVRUdqTnRjYkFhSEhtMU03MjYwdFVZMDZzYmdfNFZfdF90UXZlUnNsN3pDYU5vby0tdko5TTdsam81dVlYaHpZ?oc=5",
-       "publisher": "Huskies Wire",
-       "created": "2026-11-18T15:01:00+00:00"
-      },
-      {
-       "title": "UW Women's Basketball: Washington Huskies Pull Away in Apple Cup Showdown vs. Washington State Cougars",
-       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUmttTWY4WEU1TnRBUUhqSHM1U0NjcjFNbXp4MHdkMU5OcnVMeUJCWnlUaUZwZVhtV1ZCOHgzeTBUcnV6VmpMSGNNUGpRZzdKQzVrVURhMkxINTY5RGtuNFQzb3pvSjNzcXd3YVExNGZLMlEzc3c5TEZsaldoc3F3LUljbE0wX1BlT3NuRHI5MEh4MXBlME9DbVdmS3czZkFTYVFxSkhpb2ZVdDNab2k1NEtWYWkwR3h5dGRfTGdTSkc5OXFjVVlZNE9EdmN3d2FuUDdyVlY0YUZTSkNZTk5uMzlqNnNscGl6?oc=5",
-       "publisher": "roundtable.io",
-       "created": "2026-11-18T09:45:01+00:00"
+       "title": "Washington Huskies Men's Basketball: Wini Braga Shows Potential in Team's Latest Win",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSWJaaFlINFY5LWNsZHNGRlFwMDBGbEY2QU5oUXUweGNvOW8wLXpJZHBpYTZrVzhWSkRlZ2QycDl4SmhoY2Q5S0JZZXVpSF9zbV9pRXRzdGk2ZGFaSW45WFdCZkx6WkR0RGQ4STlQRGV4ekRRTS1pdUxlbU1sVXVLWjdlWHFRY19wSkJ2NThXVHVmUQ?oc=5",
+       "publisher": "Yahoo Sports",
+       "created": "2026-11-19T10:04:23+00:00"
       }
      ]
     }
