@@ -1,0 +1,271 @@
+{
+ "title": "The Daily Build",
+ "motto": "Projects, workflows, small computers and the home teams, collected every morning.",
+ "date": "2026-11-20",
+ "generated_at": "2026-11-20T12:50:02.139305-08:00",
+ "timezone": "America/Los_Angeles",
+ "lead_section": null,
+ "sections": [
+  {
+   "id": "side-projects",
+   "title": "Side Projects",
+   "status": "error",
+   "error": "HTTP Error 404: Not Found",
+   "items": []
+  },
+  {
+   "id": "claude-workflows",
+   "title": "Claude Workflows",
+   "status": "error",
+   "error": "HTTP Error 404: Not Found",
+   "items": []
+  },
+  {
+   "id": "raspberry-pi",
+   "title": "Raspberry Pi",
+   "status": "error",
+   "error": "HTTP Error 429: Too Many Requests",
+   "items": []
+  },
+  {
+   "id": "pro-sports",
+   "title": "Pro Sports",
+   "status": "error",
+   "error": "no team data could be collected",
+   "items": []
+  },
+  {
+   "id": "college-hoops",
+   "title": "College Basketball",
+   "type": "sports",
+   "teams": [
+    {
+     "name": "San José State men",
+     "errors": [
+      "news: HTTP Error 503: Service Unavailable"
+     ],
+     "record": "3-2",
+     "standing": "1st in Mountain West",
+     "espn_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/23",
+     "last": {
+      "date": "2026-11-19T02:00Z",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "home": true,
+      "neutral": false,
+      "opponent": "Fresno St",
+      "opponent_rank": null,
+      "us": "92",
+      "them": "86",
+      "won": true,
+      "tv": "MW+"
+     },
+     "next": {
+      "date": "2026-11-23T04:59Z",
+      "state": "pre",
+      "completed": false,
+      "detail": "11/22 - 11:59 PM EST",
+      "home": false,
+      "neutral": true,
+      "opponent": "Loyola Chicago",
+      "opponent_rank": null,
+      "us": null,
+      "them": null,
+      "won": null,
+      "tv": "FloSports"
+     }
+    },
+    {
+     "name": "Stanford men",
+     "errors": [
+      "news: HTTP Error 503: Service Unavailable"
+     ],
+     "record": "5-1",
+     "standing": "1st in ACC",
+     "espn_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/24",
+     "last": {
+      "date": "2026-11-20T03:00Z",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "home": true,
+      "neutral": false,
+      "opponent": "Sacramento St",
+      "opponent_rank": null,
+      "us": "78",
+      "them": "65",
+      "won": true,
+      "tv": "ACCNX"
+     },
+     "next": {
+      "date": "2026-11-25T04:59Z",
+      "state": "pre",
+      "completed": false,
+      "detail": "11/24 - 11:59 PM EST",
+      "home": false,
+      "neutral": true,
+      "opponent": "Colorado",
+      "opponent_rank": null,
+      "us": null,
+      "them": null,
+      "won": null,
+      "tv": "CBSSN"
+     }
+    },
+    {
+     "name": "Stanford women",
+     "errors": [
+      "news: HTTP Error 503: Service Unavailable"
+     ],
+     "record": "4-1",
+     "standing": "1st in ACC",
+     "espn_url": "https://www.espn.com/womens-college-basketball/team/schedule/_/id/24",
+     "last": {
+      "date": "2026-11-15T22:00Z",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "home": true,
+      "neutral": false,
+      "opponent": "Gonzaga",
+      "opponent_rank": null,
+      "us": "67",
+      "them": "65",
+      "won": true,
+      "tv": "ACCNX"
+     },
+     "next": {
+      "date": "2026-11-21T03:00Z",
+      "state": "pre",
+      "completed": false,
+      "detail": "11/20 - 10:00 PM EST",
+      "home": false,
+      "neutral": false,
+      "opponent": "Washington",
+      "opponent_rank": 16,
+      "us": null,
+      "them": null,
+      "won": null,
+      "tv": "Peacock"
+     }
+    },
+    {
+     "name": "Santa Clara men",
+     "errors": [
+      "news: HTTP Error 503: Service Unavailable"
+     ],
+     "record": "5-1",
+     "standing": "1st in WCC",
+     "espn_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2541",
+     "last": {
+      "date": "2026-11-20T03:30Z",
+      "state": "post",
+      "completed": true,
+      "detail": "Final/OT",
+      "home": true,
+      "neutral": false,
+      "opponent": "VCU",
+      "opponent_rank": null,
+      "us": "77",
+      "them": "83",
+      "won": false,
+      "tv": "ESPN2"
+     },
+     "next": {
+      "date": "2026-11-24T00:00Z",
+      "state": "pre",
+      "completed": false,
+      "detail": "11/23 - 7:00 PM EST",
+      "home": true,
+      "neutral": true,
+      "opponent": "Illinois St",
+      "opponent_rank": null,
+      "us": null,
+      "them": null,
+      "won": null,
+      "tv": "FloSports"
+     }
+    },
+    {
+     "name": "Washington men",
+     "errors": [
+      "news: HTTP Error 503: Service Unavailable"
+     ],
+     "record": "4-0",
+     "standing": "1st in Big Ten",
+     "espn_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/264",
+     "last": {
+      "date": "2026-11-20T02:00Z",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "home": true,
+      "neutral": false,
+      "opponent": "Utah Tech",
+      "opponent_rank": null,
+      "us": "82",
+      "them": "69",
+      "won": true,
+      "tv": "B1G+"
+     },
+     "next": {
+      "date": "2026-11-23T22:00Z",
+      "state": "pre",
+      "completed": false,
+      "detail": "11/23 - 5:00 PM EST",
+      "home": false,
+      "neutral": true,
+      "opponent": "BYU",
+      "opponent_rank": 21,
+      "us": null,
+      "them": null,
+      "won": null,
+      "tv": "ESPN2"
+     }
+    },
+    {
+     "name": "Washington women",
+     "errors": [
+      "news: HTTP Error 503: Service Unavailable"
+     ],
+     "record": "4-0",
+     "standing": "1st in Big Ten",
+     "espn_url": "https://www.espn.com/womens-college-basketball/team/schedule/_/id/264",
+     "last": {
+      "date": "2026-11-18T03:30Z",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "home": false,
+      "neutral": false,
+      "opponent": "Washington St",
+      "opponent_rank": null,
+      "us": "82",
+      "them": "54",
+      "won": true,
+      "tv": null
+     },
+     "next": {
+      "date": "2026-11-21T03:00Z",
+      "state": "pre",
+      "completed": false,
+      "detail": "11/20 - 10:00 PM EST",
+      "home": true,
+      "neutral": false,
+      "opponent": "Stanford",
+      "opponent_rank": null,
+      "us": null,
+      "them": null,
+      "won": null,
+      "tv": "Peacock"
+     }
+    }
+   ],
+   "method": "espn+news",
+   "source": "Results from ESPN, headlines from Google News",
+   "status": "ok",
+   "items": []
+  }
+ ]
+}

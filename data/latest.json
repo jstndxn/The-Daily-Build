@@ -1,10 +1,10 @@
 {
  "title": "The Daily Build",
  "motto": "Projects, workflows, small computers and the home teams, collected every morning.",
- "date": "2026-11-19",
- "generated_at": "2026-11-19T13:04:02.300775-08:00",
+ "date": "2026-11-20",
+ "generated_at": "2026-11-20T12:50:02.139305-08:00",
  "timezone": "America/Los_Angeles",
- "lead_section": "research-papers",
+ "lead_section": null,
  "sections": [
   {
    "id": "side-projects",
@@ -28,244 +28,10 @@
    "items": []
   },
   {
-   "id": "research-papers",
-   "title": "Research Papers",
-   "type": "papers",
-   "method": "openalex",
-   "tracked": 12,
-   "unmatched": [],
-   "period_days": 7,
-   "source": "New papers from OpenAlex, published in the past 7 days",
-   "status": "ok",
-   "items": [
-    {
-     "work_id": "W7225921097",
-     "title": "Explicit representations of device mechanisms--joint dispositions",
-     "url": "https://doi.org/10.17605/osf.io/576yv",
-     "flair": "Tobias Gerstenberg",
-     "authors": "Tomasz Wysocki, Simon Stephan, Michael R. Waldmann",
-     "publisher": "Open Science Framework",
-     "published": "2026-11-12",
-     "forthcoming": false,
-     "type": "study-registration",
-     "excerpt": "See the description of the project \"Explicit representations of device mechanisms.\" In this particular experiment, we investigate how the context of a mechanism influences the ascriptions of joint dispositions.",
-     "abstract": "See the description of the project \"Explicit representations of device mechanisms.\" In this particular experiment, we investigate how the context of a mechanism influences the ascriptions of joint dispositions.",
-     "score": null,
-     "summary": "Researchers asked how the context of a mechanism influences people’s ascriptions of joint dispositions. In an experiment within a project on explicit representations of device mechanisms, they investigated that relationship. The abstract does not report the results."
-    }
-   ]
-  },
-  {
    "id": "pro-sports",
    "title": "Pro Sports",
-   "type": "sports",
-   "teams": [
-    {
-     "name": "Giants",
-     "errors": [
-      "r/SFGiants: HTTP Error 404: Not Found"
-     ],
-     "record": "65-97",
-     "standing": "4th in NL West",
-     "espn_url": "https://www.espn.com/mlb/team/schedule/_/name/sf",
-     "last": null,
-     "next": {
-      "date": "2027-03-25T04:00Z",
-      "state": "pre",
-      "completed": false,
-      "detail": "TBD",
-      "home": true,
-      "neutral": false,
-      "opponent": "Rockies",
-      "opponent_rank": null,
-      "us": null,
-      "them": null,
-      "won": null,
-      "tv": "MLB.TV"
-     },
-     "headlines": [
-      {
-       "title": "Giants Protect Hard-Throwing Prospect From Rule 5 Draft",
-       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU2pIcS1SamRXWEZ6MTZrWkVVZVR5RUk0UHBsa1NBNnVNR3NYN3Bac3BZS0FRSWV2UEVHUnNmZ0NGOWFSdGFhcXFEVTdBOV9MazlQUmdOeHJhcVloOHhwU2tyLU1HWHAzWFJISllfb00xVDhEYnRvQllWZFk5WGQ1SF9mTzVnNm5GbFJwajN4VTk2eUNoRVBER01tT0lWYXRkdVE?oc=5",
-       "publisher": "roundtable.io",
-       "created": "2026-11-19T21:05:31+00:00"
-      },
-      {
-       "title": "Mariners say they're done trading starters, but SF Giants should try to make them change their mind",
-       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYjhOM1JJaWJYWGVNNFc0dkdVOVBkcHJfNV9IRm5NX3I5Q2hpSHUxQTZiZFJSdVRlekpwUXpsTHRzbVhZQjRpV0pjdmk2QWI5LWVOakc5MlBOU0tCOUs3b1RReU13MTNVTzhFUlowVkV5Q21KZV9pSHRHcWFiRkt5cWdfaVByaGFTUXh6Vk41OFRuNVlVTDBLb3g1VEVHcmJicExMZERuaFdBdjV2WDlwcG5JX3lYZTc1REVCVmpuY0xlc2lfTWc?oc=5",
-       "publisher": "Around the Foghorn",
-       "created": "2026-11-19T20:00:01+00:00"
-      },
-      {
-       "title": "What the Maikel Garcia trade can tell us about the Giants and Casey Schmitt - The Athletic",
-       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaUVKSURlNVhCOFRqUnh4N2Z1WHRXUnNxMGlGZW8zODZadmc2X2xxRF90Z2Y1RkNlRnZXcGJKeU03eVdjNVp1bGRsVVFXa3k0QXFuZzBoaDBjd1J2dEtiNjlEeUlLYWZ3TWozQVNjR0xMOVg2VEstcnZsdENPYmp3NEZqQlhqYjg2QlFBSUhPdU1GcmVKcjliQmxBQWw?oc=5",
-       "publisher": "The New York Times",
-       "created": "2026-11-19T19:25:21+00:00"
-      }
-     ]
-    },
-    {
-     "name": "49ers",
-     "errors": [
-      "r/49ers: HTTP Error 404: Not Found"
-     ],
-     "record": "8-1",
-     "standing": "1st in NFC West",
-     "espn_url": "https://www.espn.com/nfl/team/schedule/_/name/sf",
-     "last": {
-      "date": "2026-11-15T21:25Z",
-      "state": "post",
-      "completed": true,
-      "detail": "Final",
-      "home": false,
-      "neutral": false,
-      "opponent": "Cowboys",
-      "opponent_rank": null,
-      "us": "46",
-      "them": "40",
-      "won": true,
-      "tv": "Fox"
-     },
-     "next": {
-      "date": "2026-11-23T01:20Z",
-      "state": "pre",
-      "completed": false,
-      "detail": "11/22 - 8:20 PM EST",
-      "home": true,
-      "neutral": true,
-      "opponent": "Vikings",
-      "opponent_rank": null,
-      "us": null,
-      "them": null,
-      "won": null,
-      "tv": "NBC"
-     },
-     "headlines": [
-      {
-       "title": "49ers go to extremes to prepare for historic Mexico City game",
-       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdjdLLUcxZldQUy1DS05HYVBBZjZlQzAyV3FTTVVXWGQ0Y1U3Nko2UjBmTE5HQmhvenNoZUVWcW5rMU9Md3hkOXNydy1EVVJpNUc0c2h5d3ZGLXpxRGlqVlBBX2VMcl9SRGgta2paZWd4Y3JzeHktclExelp2OEVfcFRzX2lpY3FfTnJYd2s5Ni1PdUhiR3M1ekxzTzV5MkFNbzBxRnlUY0VJbzFnNVdB?oc=5",
-       "publisher": "USA Today",
-       "created": "2026-11-19T20:59:00+00:00"
-      },
-      {
-       "title": "Morris, Kubiak Talk Lessons Learned, Preview Vikings Matchup",
-       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcG83b3BLYk9lYkJyckpFbDFHemthMEk2RTNXV2xnNFI2YUpsT2xLbi12dWlJVko4d0drcVo4VFhXcHROSFN4Rm9sV0ppQ2NZTnNPOU5kQV9ZNVhhT2tERzkxODhYQlZ0cEpFWHZKWmhuOGVTTDhxYklfQk9SZ0ViUjQ1cDRVeEZma2Z3VWNnaw?oc=5",
-       "publisher": "San Francisco 49ers",
-       "created": "2026-11-19T20:56:55+00:00"
-      },
-      {
-       "title": "Mike Evans takes step toward potentially suiting up vs. Vikings",
-       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcU5JQ1lINnh0Z0N2ekFETkFMRF90SUNLT2hLQnpQQ2g2UnFJenNIWk0tS0ZlS2ZhUTBTVkZVX3pzbzMyMGM3dW5GMEo5QkJVMTRFc0g1LTE4T3U0SEJ2R0Q0RFU1NThkRXFYa2RZRXptc0xuWnNVVlFvb1A5TE1NN3UtRmlTYWRSc1czSjhZLVlzTGV0WTE5VFpKRG1EM0J2TExnWDRpbmx0RXl4dTFVaHdhUTVYV09DcjFpU19RMHpDX2Q2SGoyd2V0aWJPdw?oc=5",
-       "publisher": "Niners Wire",
-       "created": "2026-11-19T20:40:00+00:00"
-      }
-     ]
-    },
-    {
-     "name": "Seahawks",
-     "errors": [
-      "r/Seahawks: HTTP Error 429: Too Many Requests"
-     ],
-     "record": "6-4",
-     "standing": "2nd in NFC West",
-     "espn_url": "https://www.espn.com/nfl/team/schedule/_/name/sea",
-     "last": {
-      "date": "2026-11-15T21:05Z",
-      "state": "post",
-      "completed": true,
-      "detail": "Final",
-      "home": false,
-      "neutral": false,
-      "opponent": "Raiders",
-      "opponent_rank": null,
-      "us": "21",
-      "them": "13",
-      "won": true,
-      "tv": "CBS"
-     },
-     "next": {
-      "date": "2026-11-29T21:25Z",
-      "state": "pre",
-      "completed": false,
-      "detail": "11/29 - 4:25 PM EST",
-      "home": false,
-      "neutral": false,
-      "opponent": "49ers",
-      "opponent_rank": null,
-      "us": null,
-      "them": null,
-      "won": null,
-      "tv": "Fox"
-     },
-     "headlines": [
-      {
-       "title": "Gameday Photos: Week 10 vs. Seahawks",
-       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtX1h2LWJUQ29tUjVkYUY3ZC1ZM0hQWk50dkZmdGg4eTNCZ0Q0WWxNM1NvZllmRnhvX0JWRWFfWDB6QVBaeXNaS0tvZXpPVFhOZS1MRXhpeUJwT0h3NjdEeHVocFk5Zi1KTmxYY09lcXBPZTQ?oc=5",
-       "publisher": "Raiders.com",
-       "created": "2026-11-19T20:55:06+00:00"
-      },
-      {
-       "title": "Seahawks' Nick Emmanwori: The NFL’s Most Versatile Defensive Player",
-       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMklOM1ZaY1RmbHI1emktOFJyRUZITVZMRl84M05ZWlMya2pOa0RHMlVTTEZlMWVXRkpRMl9RdnJoRVF3OExkajBaWkdUODI2TEdtREtvbDJMLVdXTGFnUDVER2NnZ2RBMjdyNTFvMXNyeXJCYi1UOWFDREhvRVQ4Y2x1cGpiYkFwTU9IU01YWmM?oc=5",
-       "publisher": "Sports Illustrated",
-       "created": "2026-11-19T20:00:00+00:00"
-      },
-      {
-       "title": "Cinema in Silver and Black: Week 10 vs. Seahawks",
-       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdWRMRFJ5bWFnX3VrVlhxUEFrSHlJY2M0eDZEWXA1dG54SWJoZ3MxWmxiTjZpVnNNcnl1a2dNYTZQa3E1dXFBcTVQaGg2WEFHckJTR1ZJVWd1NEp6QUxVNlJrQ0ZVNGpNVEJYYWZveExFNG9iRU5rRmFqYWlDcGZpdExJRQ?oc=5",
-       "publisher": "Raiders.com",
-       "created": "2026-11-19T19:53:48+00:00"
-      }
-     ]
-    },
-    {
-     "name": "Mariners",
-     "errors": [
-      "r/Mariners: HTTP Error 404: Not Found"
-     ],
-     "record": "76-86",
-     "standing": "3rd in AL West",
-     "espn_url": "https://www.espn.com/mlb/team/schedule/_/name/sea",
-     "last": null,
-     "next": {
-      "date": "2027-03-25T04:00Z",
-      "state": "pre",
-      "completed": false,
-      "detail": "TBD",
-      "home": true,
-      "neutral": false,
-      "opponent": "Red Sox",
-      "opponent_rank": null,
-      "us": null,
-      "them": null,
-      "won": null,
-      "tv": "MLB.TV"
-     },
-     "headlines": [
-      {
-       "title": "Seattle Mariners added intriguing pitching prospect in 6-player trade",
-       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZVNqSi1sem03RVpSSGJVbXBGRnhiVlpwaVhocGZUN1puQVA1c3Y5d3BRS21SUjVkT01UOWJ5M0ZjX1hINU9IcEJhQk5RclNXTnNZenI5LUZHVm1pRk9TNW85czhNdVZHNmh4MC1DZnlfdjhXNENxeDEzR1A3UVliZUNMZmNYbWNjVU5XWVJTSzFKZUw2SnJUbGlkZ3ZNRGlGSEJTX053Ny1fZW5CV2hQbTRqb0lIQU1EbkZIQ05TSE1xZw?oc=5",
-       "publisher": "Seattle Sports",
-       "created": "2026-11-19T20:54:09+00:00"
-      },
-      {
-       "title": "Mariners say they're done trading starters, but SF Giants should try to make them change their mind",
-       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYjhOM1JJaWJYWGVNNFc0dkdVOVBkcHJfNV9IRm5NX3I5Q2hpSHUxQTZiZFJSdVRlekpwUXpsTHRzbVhZQjRpV0pjdmk2QWI5LWVOakc5MlBOU0tCOUs3b1RReU13MTNVTzhFUlowVkV5Q21KZV9pSHRHcWFiRkt5cWdfaVByaGFTUXh6Vk41OFRuNVlVTDBLb3g1VEVHcmJicExMZERuaFdBdjV2WDlwcG5JX3lYZTc1REVCVmpuY0xlc2lfTWc?oc=5",
-       "publisher": "Around the Foghorn",
-       "created": "2026-11-19T20:00:01+00:00"
-      },
-      {
-       "title": "Mariners’ Maikel Garcia trade blockbuster could seal Luke Raley’s non-tender fate",
-       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLWp3ZlJRWjFuMlY3RG9lbnU1TmJEOEdRRkJmeG1jUUJURklOLTRONnhZRWxfTkZpU0k4bkJRVUQ4cWJwZnBqc2JfbWtqVnc0U09VWWZMQ0hHcHJWUWppckUzVVczTm5NZDBxWXptek0wc3RySjY4Z1dfazI5U3RCN2FZT2g5YjRUX29KR0h3a0doamc?oc=5",
-       "publisher": "Sodo Mojo",
-       "created": "2026-11-19T20:00:01+00:00"
-      }
-     ]
-    }
-   ],
-   "method": "espn+news",
-   "source": "Results from ESPN, headlines from Google News",
-   "status": "ok",
+   "status": "error",
+   "error": "no team data could be collected",
    "items": []
   },
   {
@@ -275,7 +41,9 @@
    "teams": [
     {
      "name": "San José State men",
-     "errors": [],
+     "errors": [
+      "news: HTTP Error 503: Service Unavailable"
+     ],
      "record": "3-2",
      "standing": "1st in Mountain West",
      "espn_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/23",
@@ -306,86 +74,50 @@
       "them": null,
       "won": null,
       "tv": "FloSports"
-     },
-     "headlines": [
-      {
-       "title": "Thursday Dots: Receiving Praise",
-       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV2pIOVYtd2prRGdCQXBYVUVBaUFHVjc4SjF3Z01XTjRFZXg4XzdDc00tRTg3TVZUQlVMVHZ6Yk9ZUUJ6Y19qYVA4UnJ4STNLX3JyRThjeG5Ia0FpMlZLSzJ1TElZNU1XaXpxYTV4bnpSSnU3MGk5aS1QdmVPMUdzaHpaMUNYZw?oc=5",
-       "publisher": "Yahoo Sports",
-       "created": "2026-11-19T14:28:00+00:00"
-      },
-      {
-       "title": "Week 12 BNN gambling preview -- best bets for Boise State/San Diego State, Brawl of the Wild, and more",
-       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLTNPalFaQ2NGOXF2enhKWGVnU0M5SDdqWms1N0VDUXdTeVNZUVlLcXBJU2NPTUIxVXNLV09oUWcxVWVQdDZhaHhtUWRPRFUtYkVza3d5SWpwTHBXVGY5dEthOWlBT0h6cXp2dERFRGIyb2hXdVU0OUtleW96d1BfVFZQcEx3REFQdldrVjRpUQ?oc=5",
-       "publisher": "247Sports",
-       "created": "2026-11-19T07:16:35+00:00"
-      },
-      {
-       "title": "Doland’s Tim Miles wins 350th basketball game",
-       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVkFuMGhJbWhvbk9FRzZsQWJ5Q1R5aGw1b2VFWnBOdUp4VEZ4UFNoNVE1U01QQkZRYjFpcUVzQ1oxSGJhM0dWdDRSR3hXQlF0Rmw1REk1S3IwRnBWcVdsZDE3emNVNGNqaWIzZ2lINGFkajFOSC1FMGd5d01UUHJINWRB?oc=5",
-       "publisher": "Yahoo Sports",
-       "created": "2026-11-18T04:53:00+00:00"
-      }
-     ]
+     }
     },
     {
      "name": "Stanford men",
-     "errors": [],
-     "record": "4-1",
+     "errors": [
+      "news: HTTP Error 503: Service Unavailable"
+     ],
+     "record": "5-1",
      "standing": "1st in ACC",
      "espn_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/24",
      "last": {
-      "date": "2026-11-18T03:00Z",
+      "date": "2026-11-20T03:00Z",
       "state": "post",
       "completed": true,
       "detail": "Final",
       "home": true,
       "neutral": false,
-      "opponent": "UC Irvine",
+      "opponent": "Sacramento St",
       "opponent_rank": null,
-      "us": "65",
-      "them": "61",
+      "us": "78",
+      "them": "65",
       "won": true,
       "tv": "ACCNX"
      },
      "next": {
-      "date": "2026-11-20T03:00Z",
+      "date": "2026-11-25T04:59Z",
       "state": "pre",
       "completed": false,
-      "detail": "11/19 - 10:00 PM EST",
-      "home": true,
-      "neutral": false,
-      "opponent": "Sacramento St",
+      "detail": "11/24 - 11:59 PM EST",
+      "home": false,
+      "neutral": true,
+      "opponent": "Colorado",
       "opponent_rank": null,
       "us": null,
       "them": null,
       "won": null,
-      "tv": "ACCNX"
-     },
-     "headlines": [
-      {
-       "title": "Cal Basketball: Bears, Cardinal Announce Montgomery Cup",
-       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XeDQwNU1oRlRPby1OY0hiWXZhOXpFcVJkc2lSdENnOS1Ca3hmX3dBMXVBWk9BVGdSSFB0NUZoUnc2NVJxTVNPSG5adWY3bzJqTXB5X3prX2pwbUFzTVhERTlBT05fV05qMDRuTXNybG5vckNDXy1OSw?oc=5",
-       "publisher": "Bear Insider",
-       "created": "2026-11-19T21:03:55+00:00"
-      },
-      {
-       "title": "Introducing the Montgomery Cup",
-       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45VVRUNkFzdFY5bU8yNmFYSGg1eHlkWmg2RHYyS2JteXpScW9HMGJ2QmlDdldYdHFuSUFaMlJYdG16cXBCclBORDJ0YWstTXNIbUJqVmNicktZbVhUaGtINHEwOUJDeDJ1bkVvSTJ5WTZRQVdoZGVxMg?oc=5",
-       "publisher": "Stanford Cardinal",
-       "created": "2026-11-19T20:18:59+00:00"
-      },
-      {
-       "title": "Stanford and Cal Establish Inaugural Montgomery Cup",
-       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd05NRGFEWmxwMWM2RnpINWVvZjdBSFQzaEtsWXN4Ym5YVENjQ3g2enl2Smt1Zm5PYnF3N1kxTDlHbERnekg3NC1hRV9FektPVGtYRXRaOXJQcHhDWDgycFZhdmF4MWc1T01nMUgzV2lSTTlxbVZqSEFNU3pMQ0V3aXBGYUF3ZlRnZFFFdlVUWXUxRTZw?oc=5",
-       "publisher": "Stanford Cardinal",
-       "created": "2026-11-19T20:03:59+00:00"
-      }
-     ]
+      "tv": "CBSSN"
+     }
     },
     {
      "name": "Stanford women",
-     "errors": [],
+     "errors": [
+      "news: HTTP Error 503: Service Unavailable"
+     ],
      "record": "4-1",
      "standing": "1st in ACC",
      "espn_url": "https://www.espn.com/womens-college-basketball/team/schedule/_/id/24",
@@ -416,141 +148,87 @@
       "them": null,
       "won": null,
       "tv": "Peacock"
-     },
-     "headlines": [
-      {
-       "title": "Jim Plunkett stays connected to Stanford Cardinal",
-       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZHVrbDZtTDRORFNRcFFmTTdpYlhtdmJ1MGNlQTJZRDJvaVhPRXB5QUUwRTdzWGNQeVFMOGVBeVV0YXRVM0JIclpGQTZISWtSLWdROEF0UlNvc2dBcERlZG1lRHRtbzlwVXYzV2N3RWpTTUFHQl9ZM1FBT0gtUHNDSUhFZE43OXFqS1N6Qng4dGkzSnR4VmQyWU9tSHI3UkdYSW9uN2tZWEYyaW43eFM0RmJNT1VYZmJEZ3FYSVZ5Nng3TE92RjlhYXpkdHhOdFFTZm9mcWlfeHgyZUxtN19yWjJEcw?oc=5",
-       "publisher": "San Francisco Examiner",
-       "created": "2026-11-19T12:00:00+00:00"
-      },
-      {
-       "title": "Leland Stanford Junior University Football 2026: Offensive Preview",
-       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQWJBbmpKRDBpbEVpOXRNWmdJQnY3WUVKNWl0a0pBMVFMajNHSXRwQTRSeGpVNGthb3ZtenY3aWxlemFZYkRqbmRmVUNxelFPYUJSRkxVX1NpZ004WFhRT0JKYzBFRDNmbk9KQXE3QVV5NmxqVTRJdEV5UnN5VDhtZkVrSkhtYlRaUFExMjhJd09HQm1mREV0WnFZaEs?oc=5",
-       "publisher": "Write For California",
-       "created": "2026-11-19T11:02:51+00:00"
-      },
-      {
-       "title": "What to know about Stanford basketball this season",
-       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS3Zrek9QMTJWVlpEOC1odGdJMmdlZUJkV1RESkFXbHliUFMzSjU2b0ZVT0Y2TVB2M3RHTmtETmwxanJOcHRwT095UDJ0QXFsYjhPeVotN0NUY2lTTlBSbk9xYkpXRGZpZlN4Wng5ZmxkczBfMGd5djhseS1jVnF6aUF1SWI?oc=5",
-       "publisher": "Stanford Report",
-       "created": "2026-11-19T01:28:18+00:00"
-      }
-     ]
+     }
     },
     {
      "name": "Santa Clara men",
-     "errors": [],
-     "record": "5-0",
+     "errors": [
+      "news: HTTP Error 503: Service Unavailable"
+     ],
+     "record": "5-1",
      "standing": "1st in WCC",
      "espn_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2541",
      "last": {
-      "date": "2026-11-15T03:00Z",
+      "date": "2026-11-20T03:30Z",
       "state": "post",
       "completed": true,
-      "detail": "Final",
-      "home": true,
-      "neutral": false,
-      "opponent": "New Mexico",
-      "opponent_rank": null,
-      "us": "90",
-      "them": "85",
-      "won": true,
-      "tv": "ESPN+"
-     },
-     "next": {
-      "date": "2026-11-20T03:30Z",
-      "state": "pre",
-      "completed": false,
-      "detail": "11/19 - 10:30 PM EST",
+      "detail": "Final/OT",
       "home": true,
       "neutral": false,
       "opponent": "VCU",
       "opponent_rank": null,
+      "us": "77",
+      "them": "83",
+      "won": false,
+      "tv": "ESPN2"
+     },
+     "next": {
+      "date": "2026-11-24T00:00Z",
+      "state": "pre",
+      "completed": false,
+      "detail": "11/23 - 7:00 PM EST",
+      "home": true,
+      "neutral": true,
+      "opponent": "Illinois St",
+      "opponent_rank": null,
       "us": null,
       "them": null,
       "won": null,
-      "tv": "ESPN2"
-     },
-     "headlines": [
-      {
-       "title": "Eleven Broncos Earn All-Academic Honorable Mention",
-       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWUxGTmVLeWZmUEVoWC1XRm4zekZmNWg1ampOSWxfc1RTM2dTMV9OVHJIZGZINHFHX1cwZDVYYzNidzhzcVhVVXllX2NGM21LckhwSlRiVV9ycndGM1YwSENsODlNQk1MVnA0bFh5d2E2ZzJMbDZjUXFIODE2bkpqVjFETVlaRlV5NW13VHNjRTUzaFQtWjRDWFVEYlMzbDhVcmJ6ZkJoZVhOVjlLb1NCd05IaTFVNnBK?oc=5",
-       "publisher": "Santa Clara Broncos",
-       "created": "2026-11-19T20:26:18+00:00"
-      },
-      {
-       "title": "Zags Got Takes: Early-season men's college basketball takeaways",
-       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQUF4alZENlhfa2pGYUVvTkJ0YVZlaVBVZXZiTkQyNUVqYk16eVFBdU82RmFabFkyZFF4UElBV3hMWjBPTEdnSlBLaWJ4TUlxbTVzN3g2RTNyZGM4QlhyTjhIZUg5RjZPRnB6Um9fZGhwTDQxQk1SV2JvSi1ZOTFTTnRER01vUXpxRkFYVk0tNThnVlphRVRBa0ZSMGpRWFZWdUU2STZLcUtuRE1FLWdVandfVm5keWUtLTJXelJmVVlITllCYUt6cFk4cFk2UlFXZDh0Uzl1TXpVQWFlQW0zc2FzZk4?oc=5",
-       "publisher": "The Gonzaga Bulletin",
-       "created": "2026-11-19T18:00:00+00:00"
-      },
-      {
-       "title": "Broncos Bury 17 Threes, Hold Off New Mexico in Mid-Major Showdown",
-       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaVJpT2liUEVXMjVwRDhNZFFESWh1MHRLbVItV3pTLUJRQTZQX0J0cEdaUzJ4RThWZ0Q4MTJYaVRRZmpnVmcyYmVOUmpOenByLTVOcGJqdVQ0NGdqNGZ1a013a18xRTl3M3EzVC1zZmxoczhmWHAtVmdRT1hMOGV5N3lHa0RxSFdIcjJSNGxyVXZCdEpKdnc?oc=5",
-       "publisher": "The Santa Clara",
-       "created": "2026-11-18T21:44:05+00:00"
-      }
-     ]
+      "tv": "FloSports"
+     }
     },
     {
      "name": "Washington men",
-     "errors": [],
-     "record": "3-0",
+     "errors": [
+      "news: HTTP Error 503: Service Unavailable"
+     ],
+     "record": "4-0",
      "standing": "1st in Big Ten",
      "espn_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/264",
      "last": {
-      "date": "2026-11-18T03:00Z",
+      "date": "2026-11-20T02:00Z",
       "state": "post",
       "completed": true,
       "detail": "Final",
       "home": true,
       "neutral": false,
-      "opponent": "Simon Fraser",
+      "opponent": "Utah Tech",
       "opponent_rank": null,
-      "us": "96",
-      "them": "59",
+      "us": "82",
+      "them": "69",
       "won": true,
       "tv": "B1G+"
      },
      "next": {
-      "date": "2026-11-20T02:00Z",
+      "date": "2026-11-23T22:00Z",
       "state": "pre",
       "completed": false,
-      "detail": "11/19 - 9:00 PM EST",
-      "home": true,
-      "neutral": false,
-      "opponent": "Utah Tech",
-      "opponent_rank": null,
+      "detail": "11/23 - 5:00 PM EST",
+      "home": false,
+      "neutral": true,
+      "opponent": "BYU",
+      "opponent_rank": 21,
       "us": null,
       "them": null,
       "won": null,
-      "tv": "B1G+"
-     },
-     "headlines": [
-      {
-       "title": "Wini Braga Records First Career Double-Double in 37-Point UW Victory",
-       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcW9Idmx3Z3FEaTNwWl9PY2d3LUJYUUJpcUxLaXR0T0R6QWJGeW00V1M1XzZlYkFqQ2h3bEttejZQM3ctMGJ4SHY2VnJScHozYl8zQTlyMlBQaTh6NnpXZ0Mya0NZS0oxVTRDNWJaQUZmSE9weElHZGVFdThjMFN0VGs5RHBublE?oc=5",
-       "publisher": "Yahoo Sports",
-       "created": "2026-11-19T17:01:25+00:00"
-      },
-      {
-       "title": "Nearly 100 years ago, UW men’s basketball faced off against the Nordstrom ‘Shoes’",
-       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDFlVzQxX2Y1V2lUazgwdnQyS1V5LWF0QkViUXdna2FhYUVQRVJEejVOWGNCSEIwVTZ3d2VnbWZ3czByWGR1SnF1cHZwRkRvNmZZX0p4dzZheGRKSVdKdm5CcmRXTEFmLU5UVlJTblNoNTNSVU5QQzd3cWVrdkJyMmxUcTJHMUFFVy1ocXo1LUdyX3RrS25BaFh4UmIxY3ZfSVFVSGxIWWlpVGZkdzNrWTZFaTktOWRCMlNr?oc=5",
-       "publisher": "www.dailyuw.com",
-       "created": "2026-11-19T16:40:46+00:00"
-      },
-      {
-       "title": "Curt Cignetti and Jedd Fisch approached rebuilding jobs differently",
-       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTmZiOTVkZkktcFJWb1Y3Y1dVTDVZbUJLQ2FHTmY4eWU2dW03ZTF1bGx2Z1hUQWZGd1k2NGpJMW4xZnQzSjRNMkVoT0luMThSdWRsdGhMR1NiTkc2Vl9KbVM3empLNkxuNmVJVTV6V1d3aVBaRGI4R211dHh1c3RIYnJqcXhSYnpXa2JaeUxVdS1TRjk2cW4xRTNYeUY?oc=5",
-       "publisher": "SuperWest Sports",
-       "created": "2026-11-19T16:06:39+00:00"
-      }
-     ]
+      "tv": "ESPN2"
+     }
     },
     {
      "name": "Washington women",
-     "errors": [],
+     "errors": [
+      "news: HTTP Error 503: Service Unavailable"
+     ],
      "record": "4-0",
      "standing": "1st in Big Ten",
      "espn_url": "https://www.espn.com/womens-college-basketball/team/schedule/_/id/264",
@@ -581,27 +259,7 @@
       "them": null,
       "won": null,
       "tv": "Peacock"
-     },
-     "headlines": [
-      {
-       "title": "Wini Braga Records First Career Double-Double in 37-Point UW Victory",
-       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcW9Idmx3Z3FEaTNwWl9PY2d3LUJYUUJpcUxLaXR0T0R6QWJGeW00V1M1XzZlYkFqQ2h3bEttejZQM3ctMGJ4SHY2VnJScHozYl8zQTlyMlBQaTh6NnpXZ0Mya0NZS0oxVTRDNWJaQUZmSE9weElHZGVFdThjMFN0VGs5RHBublE?oc=5",
-       "publisher": "Yahoo Sports",
-       "created": "2026-11-19T17:01:25+00:00"
-      },
-      {
-       "title": "Washington Huskies Sports News & Analysis",
-       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kRjRtWU9XcDlIYm5BVkdpdVFMSEIyYkFVZERZOVdIaWc1OUI0RVc1S002RGs0OV9oUWJ3MW1nTFBGcWR4a0IzeU4teFhwTW84alNiVUhUakpoLWx1cEhHcmsyRnFqMk42Z3R2NXVkakhsZWc?oc=5",
-       "publisher": "USA Today",
-       "created": "2026-11-19T11:31:32+00:00"
-      },
-      {
-       "title": "Washington Huskies Men's Basketball: Wini Braga Shows Potential in Team's Latest Win",
-       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSWJaaFlINFY5LWNsZHNGRlFwMDBGbEY2QU5oUXUweGNvOW8wLXpJZHBpYTZrVzhWSkRlZ2QycDl4SmhoY2Q5S0JZZXVpSF9zbV9pRXRzdGk2ZGFaSW45WFdCZkx6WkR0RGQ4STlQRGV4ekRRTS1pdUxlbU1sVXVLWjdlWHFRY19wSkJ2NThXVHVmUQ?oc=5",
-       "publisher": "Yahoo Sports",
-       "created": "2026-11-19T10:04:23+00:00"
-      }
-     ]
+     }
     }
    ],
    "method": "espn+news",
