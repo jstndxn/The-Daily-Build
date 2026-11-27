@@ -1,5 +1,5 @@
 {
- "resolved_at": "2026-11-20T20:51:58.358008+00:00",
+ "resolved_at": "2026-11-27T21:45:23.100103+00:00",
  "fingerprint": "fc36db34887f3ea4cb4aa7eaec2a7853589fd54c",
  "people": [
   {
@@ -32,7 +32,7 @@
     {
      "id": "A5068991077",
      "name": "Cameron Thomas Ellis",
-     "works": 74,
+     "works": 70,
      "fields": [
       "Medicine",
       "Neuroscience",
@@ -46,19 +46,43 @@
   {
    "name": "Judith Fan",
    "ids": [
-    "A5003160263"
+    "A5003160263",
+    "A5136176527",
+    "A5164027474"
    ],
    "profiles": [
     {
      "id": "A5003160263",
      "name": "Judith E. Fan",
-     "works": 194,
+     "works": 189,
      "fields": [
       "Computer Science",
       "Neuroscience",
       "Psychology"
      ],
      "orcid": "https://orcid.org/0000-0002-0097-3254"
+    },
+    {
+     "id": "A5136176527",
+     "name": "Judith E. Fan",
+     "works": 2,
+     "fields": [
+      "Neuroscience",
+      "Psychology"
+     ],
+     "orcid": null
+    },
+    {
+     "id": "A5164027474",
+     "name": "Judith Fan",
+     "works": 6,
+     "fields": [
+      "Arts and Humanities",
+      "Neuroscience",
+      "Psychology",
+      "Social Sciences"
+     ],
+     "orcid": null
     }
    ],
    "rejected": [
@@ -85,7 +109,7 @@
     {
      "id": "A5039540205",
      "name": "Tobias Gerstenberg",
-     "works": 495,
+     "works": 490,
      "fields": [
       "Computer Science",
       "Decision Sciences",
@@ -97,7 +121,7 @@
     {
      "id": "A5039885663",
      "name": "Simon Stephan",
-     "works": 73,
+     "works": 74,
      "fields": [
       "Arts and Humanities",
       "Computer Science",
@@ -118,7 +142,7 @@
     {
      "id": "A5055286510",
      "name": "Ian H. Gotlib",
-     "works": 782,
+     "works": 783,
      "fields": [
       "Medicine",
       "Neuroscience",
@@ -138,7 +162,7 @@
     {
      "id": "A5043402161",
      "name": "Kalanit Grill-Spector",
-     "works": 280,
+     "works": 278,
      "fields": [
       "Computer Science",
       "Medicine",
@@ -158,7 +182,7 @@
     {
      "id": "A5044662209",
      "name": "Laura Gwilliams",
-     "works": 85,
+     "works": 84,
      "fields": [
       "Neuroscience",
       "Psychology"
@@ -177,7 +201,7 @@
     {
      "id": "A5082558628",
      "name": "Jeanne L. Tsai",
-     "works": 178,
+     "works": 179,
      "fields": [
       "Psychology",
       "Social Sciences"
@@ -255,7 +279,7 @@
     {
      "id": "A5136496394",
      "name": "Peter Zhu",
-     "works": 11,
+     "works": 15,
      "fields": [
       "Decision Sciences",
       "Psychology",

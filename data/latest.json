@@ -1,8 +1,8 @@
 {
  "title": "The Daily Build",
  "motto": "Projects, workflows, small computers and the home teams, collected every morning.",
- "date": "2026-11-26",
- "generated_at": "2026-11-26T14:00:21.639276-08:00",
+ "date": "2026-11-27",
+ "generated_at": "2026-11-27T13:43:25.184870-08:00",
  "timezone": "America/Los_Angeles",
  "lead_section": "research-papers",
  "sections": [
@@ -85,29 +85,29 @@
      },
      "headlines": [
       {
-       "title": "Freeland Could Benefit From Change of Scenery With Giants",
-       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQnY4N1gyV2tWOXZJTmpvMHNkcnZPaVZSMmlXU01FY1p3SzJTVnJNTEdnVVVtLUhuMVRSa2dXWUktaFZEVlNUb1pXMnQ0ekY5Z1UzQ2RIVDdydklWQjBoSkpsZDlZUnFEdVZrUy0wLXVEUGREVEZfSHlQZ1NFZ3JFLTF2MVV5UWRPTFJ0blhKeWNjakRranRXQUJTTXNjdjRORU56WmhXRlc0QQ?oc=5",
-       "publisher": "roundtable.io",
-       "created": "2026-11-26T21:32:04+00:00"
-      },
-      {
-       "title": "Giants Re-Sign Victor Bericoto to Minor League Deal",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLUcyckFoWTdSd292SG96SzdzOVJnT1FINmNBaDdtTjNaTU1INVJpZ2pJZEg5YlVYdVRFVDktZW9iYnpVWi1jaEozSzVZM0ZZbzlFLWJGNFR6cWEzd0lnYVphOXA1OTZkV1lMUDUteE9GUXljUVRqTlpLVzMzMkRVSklmSGh1b193YzJxOXo2YVJ4bHRTWGFsMW81ekYwQV9rX3pWTV9RcFhkbnc?oc=5",
-       "publisher": "Wisevoter",
-       "created": "2026-11-26T18:54:20+00:00"
-      },
-      {
-       "title": "3 Reasons Why Logan Webb is a Perfect Fit for Atlanta Braves",
-       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUldrRnVBSXJtQk02ZF8xWUFjX1ZrNkliZTdDY1p3c3RrVXBmNXRuaUhsVkZJM1l1YXRISVBncXFHcGZOZTBSa0tsQkNONDAyVWRUbnp5M1ZVa1ZGb3JYZmhEUm80TEp1Slk2bG5OUGh4ZC1tTHY4eXhWWFJPU01IRzFfcw?oc=5",
+       "title": "Pivetta Makes Sense for Giants as Short-Term Rotation Bet",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOWhZNTkySjZrcU1OSk5sb00tZGtZTUJKSXE4alZRMFZlVnR5N3ZpY2UyOERQSkJ5dklzYUJpQXNTQk5lcVJkQkJ5dWl1aXo2dGU0dVhMWDd1NENrNHpFRFBKQUFPTWRvdnRXRnMzVkJya1hleml2dmFQSVl4VnZsdnpsT3FsbHNkc3F5S2tn?oc=5",
        "publisher": "Yahoo Sports",
-       "created": "2026-11-26T18:47:10+00:00"
+       "created": "2026-11-27T17:59:55+00:00"
+      },
+      {
+       "title": "Giants Should Revisit One Part of Landen Roupp's Pitch Mix",
+       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZjk1UnE4aHh6QTRfbXM4MUI2OWFpeTVJR21hMmZRbGVFV3diMUxfUWR0OHVPOHRvMFNhbng2T3ctcjhuMjNLZ29VQS0wYnRBbTc0UjRCeVdMR1Y2Qm9QaW4tQV9lZFdodXJNLWYwRzB2MVlleVN0b0gtY25fcjliYzZMcnVGUmR2aVRz?oc=5",
+       "publisher": "Yahoo Sports",
+       "created": "2026-11-27T16:00:04+00:00"
+      },
+      {
+       "title": "Jackson Flora Could Force His Way Into Giants' 2027 Pitching Plans",
+       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0FmWlR4THZCdTItRHB6a19OZ3ZPRlhpYmRvMEFNWUVHWDh3Rk1TUVZOZXNUbWZYcDhHYmlsSEVpZEZQRndpUThDTzh4SG9mWnJaNUZFdEc3VGhteDQ5ZENXd2hXTTVUWXlYZGNtRU91eXNIa2VuMV9jc2pEdHhQUG04LWhrc1QweGc?oc=5",
+       "publisher": "Yahoo Sports",
+       "created": "2026-11-27T16:00:02+00:00"
       }
      ]
     },
     {
      "name": "49ers",
      "errors": [
-      "r/49ers: HTTP Error 429: Too Many Requests"
+      "r/49ers: HTTP Error 404: Not Found"
      ],
      "record": "9-1",
      "standing": "1st in NFC West",
@@ -142,29 +142,29 @@
      },
      "headlines": [
       {
-       "title": "49ers vs. Seahawks injury report: Brock Purdy misses second straight practice",
-       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQTZqeXQzemp5ei1wN0lESFRWZ2NGdVRaZHRyajJ6YThiQnBTaEpEaVNBbHBNMVBsd1h4VjF3QjlvYkJRdnE1U0VhQmloTFJYaVZDSm1oYTVKcjU0NWtDbW5VOGxjdlVocm9SNkQ3ZURsQ1gzV29DekxxNW9sWVpSaWNmRzZDRXRMczB3LU9hcw?oc=5",
-       "publisher": "49ers Webzone",
-       "created": "2026-11-26T21:54:08+00:00"
+       "title": "Brock Purdy not practicing on Friday, putting Mac Jones in line to start",
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT2JFQ1lNb1RBdGlyT0tJcW5sdDRsR0RTLXBLLVVFZmhhaFQtc2tvMlUtY3hlMEVtdDVWc0dzU2ZaT1Y2LTlNRUhySm54TXo1eGwyZnMxTlhjeHZEUl9xc3NnTFdZRzRNdm92ZU1OSkZ3WHdEQWlvYlQ0LWNzWkhkX0l5NzgwM0xQSl9oOGduRQ?oc=5",
+       "publisher": "Yahoo Sports",
+       "created": "2026-11-27T21:27:40+00:00"
       },
       {
-       "title": "George Kittle Week 12 Outlook - Seahawks at 49ers",
-       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSGNDQkFOd19zd0pRNk9HZjRKUUhNS1dua3ltWGVqVXlzS0Zwal96U20wX0pOcDdUaXJrLXduOVZORWMtU3VGZmJhdUtiSFJWVUpfXzBVa05naXhPUVp3ZnptYlBLczJ6dTJIQ1g3bUt1c1dvakdzelR1bVM1WnZHMmJVWDdrWkZQejZ30gGQAUFVX3lxTE0wT2N1YUgzQ2pwWktad0FHbkhQZ2pSSklyQXU0RWN2X18xVFZpR3l5dld2Z0o1b1ZHZDRseFVVWEtOVVBkN3lOR1FRRVVkQ05hS3JxNGpMaG5RRGszdGs0UTJSdlY0QWNQR0lQMnNmQ0hRNHFRZ21sLUJqQ3RlZzdxT0ZZWTlqOVJLVEpVWXZjNQ?oc=5",
-       "publisher": "FantasyPros",
-       "created": "2026-11-26T21:49:00+00:00"
+       "title": "What is 49ers’ plan for Purdy against Seattle after ankle injury?",
+       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeVhjRjJCYXp6LVl0MlhnMXFGSFJ3a0hLeWp3OFpFOEpBQVdmeWhWZ0swRW9FZi1aZUxUQ2Uxb05QOTlmNUhEUHZsNXJrY0ZlSE5UX2R4WU9EQ0o3bXcycVRZVldzQmtZdGlUSnFYQTBCaXRsN0lLX3VzT3FGQ3lkTWNfMEtieFJnRzNxTWNPSVNuRWk3eVRwM0p3dW13dThKWG5CcVJR?oc=5",
+       "publisher": "The Mercury News",
+       "created": "2026-11-27T21:27:06+00:00"
       },
       {
-       "title": "49ers HC Kyle Shanahan Gives Simple Response to Brandon Aiyuk's Move to Commanders",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOakk0VnJ0ZTRrR0JtXzJZNXpHMjI2Wmd4YUZIeGU1TUNxTmhCMlpHbkNKeWZjOXhXZzJuM3VSWGI3eEg2RnVvTkgwa25zMkFNdHZTS2diTlpfNzBiN3pOVmZpWHlHMGVNZWFuQk1HckQxYW5yMFV0X2E1VzU4NVRHQTZwNl9DaXV6b1RrOU1ORXdSaGNhdVJjZFV3UzM0Nm02UG5SUm9tcERReXFDOGc?oc=5",
-       "publisher": "Sports Illustrated",
-       "created": "2026-11-26T21:00:00+00:00"
+       "title": "49ers QB Brock Purdy not seen at Friday practice, status vs. Seahawks Sunday in doubt?",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVG1taEl5UzgydkpmZ1VwbHI0QUV2Zi12MTJBME9RUXlZZFcwMTdMLTFqT21xNzRXOFRidVhldHlIWlVKYVZCZWVHQ21SOHNBU1RrTW1US0dnMGJWNi15X0FpTUxrVkE4WUJUZ0JpQzMxcndtM21yMzd3b0xJZEM3ZlpNTFdialhiZUtxYUw1QWN0Q3p6Slh0SGg1d3VWcENOTTQxMTZNUW0?oc=5",
+       "publisher": "San Francisco Chronicle",
+       "created": "2026-11-27T21:22:52+00:00"
       }
      ]
     },
     {
      "name": "Seahawks",
      "errors": [
-      "r/Seahawks: HTTP Error 404: Not Found"
+      "r/Seahawks: HTTP Error 429: Too Many Requests"
      ],
      "record": "6-4",
      "standing": "3rd in NFC West",
@@ -199,29 +199,29 @@
      },
      "headlines": [
       {
-       "title": "Cooper Kupp Praises Sam Darnold Amid Aaron Rodgers Fallout",
-       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpTFR6QjN3dFNjd3hNOUhSaHNnb1JHRWVvaE1OTTRWOFAyZmY5ZHhlMkstUDhWbGpHZ2ZuQjlOZ2VxME9QYU0zTWVMLVdyNUVMQzNOb2szSjhySXYxMUVJWWl3?oc=5",
-       "publisher": "cwibc.co.id",
-       "created": "2026-11-26T21:51:00+00:00"
+       "title": "What is 49ers’ plan for Purdy against Seattle after ankle injury?",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWi1Gai1obGp6dktZUy1HRTZfNnA2VnJfdFJUdndKcXEwSHRxLXhub3l4bmJhQUZrcmM0X1g4MlJYbENCOXFPdTkxZTMzSDBpZXBqY2lfM3pId0RSdEpkNnZ5WTh5LWxUTWxka1lreW55djVNQTdtdHNwSHpCZW5Kb2J2ZWRPOEY1cFFudVlTMTZvT1ZBLWx6d212SUltY2hwUlkwY0pRT3NBQQ?oc=5",
+       "publisher": "Times-Standard",
+       "created": "2026-11-27T21:28:45+00:00"
       },
       {
-       "title": "George Kittle Week 12 Outlook - Seahawks at 49ers",
-       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSGNDQkFOd19zd0pRNk9HZjRKUUhNS1dua3ltWGVqVXlzS0Zwal96U20wX0pOcDdUaXJrLXduOVZORWMtU3VGZmJhdUtiSFJWVUpfXzBVa05naXhPUVp3ZnptYlBLczJ6dTJIQ1g3bUt1c1dvakdzelR1bVM1WnZHMmJVWDdrWkZQejZ30gGQAUFVX3lxTE0wT2N1YUgzQ2pwWktad0FHbkhQZ2pSSklyQXU0RWN2X18xVFZpR3l5dld2Z0o1b1ZHZDRseFVVWEtOVVBkN3lOR1FRRVVkQ05hS3JxNGpMaG5RRGszdGs0UTJSdlY0QWNQR0lQMnNmQ0hRNHFRZ21sLUJqQ3RlZzdxT0ZZWTlqOVJLVEpVWXZjNQ?oc=5",
-       "publisher": "FantasyPros",
-       "created": "2026-11-26T21:49:00+00:00"
+       "title": "Brock Purdy not practicing on Friday, putting Mac Jones in line to start",
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT2JFQ1lNb1RBdGlyT0tJcW5sdDRsR0RTLXBLLVVFZmhhaFQtc2tvMlUtY3hlMEVtdDVWc0dzU2ZaT1Y2LTlNRUhySm54TXo1eGwyZnMxTlhjeHZEUl9xc3NnTFdZRzRNdm92ZU1OSkZ3WHdEQWlvYlQ0LWNzWkhkX0l5NzgwM0xQSl9oOGduRQ?oc=5",
+       "publisher": "Yahoo Sports",
+       "created": "2026-11-27T21:27:40+00:00"
       },
       {
-       "title": "Seahawks can be thankful they let these three players go",
-       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeGNnckYtUHRlejZ4Snh2b0ZLaUVxYzQtSEhPS3lkaGx0Skw1VjFHZU4xN1VZREZDSkR6UGRWTjJGVkhLY2lLOXJtQzg0NXJzMzRCdEFjSEx3TGRaY3ptNFVTM3k4SjE2eGZmVGZxSjZJeGhKQkhFbTk2N3JIempqMmNPQWY3TkZHSlF4WlBqYW5Lbm94?oc=5",
-       "publisher": "12th Man Rising",
-       "created": "2026-11-26T21:00:00+00:00"
+       "title": "49ers QB Brock Purdy not seen at Friday practice, status vs. Seahawks Sunday in doubt?",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVG1taEl5UzgydkpmZ1VwbHI0QUV2Zi12MTJBME9RUXlZZFcwMTdMLTFqT21xNzRXOFRidVhldHlIWlVKYVZCZWVHQ21SOHNBU1RrTW1US0dnMGJWNi15X0FpTUxrVkE4WUJUZ0JpQzMxcndtM21yMzd3b0xJZEM3ZlpNTFdialhiZUtxYUw1QWN0Q3p6Slh0SGg1d3VWcENOTTQxMTZNUW0?oc=5",
+       "publisher": "San Francisco Chronicle",
+       "created": "2026-11-27T21:22:52+00:00"
       }
      ]
     },
     {
      "name": "Mariners",
      "errors": [
-      "r/Mariners: HTTP Error 429: Too Many Requests"
+      "r/Mariners: HTTP Error 404: Not Found"
      ],
      "record": "76-86",
      "standing": "3rd in AL West",
@@ -243,22 +243,22 @@
      },
      "headlines": [
       {
-       "title": "5 things we’re genuinely thankful for coming out of Mariners’ lost 2026 season",
-       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSXJqS1U4cC1nbmozNFBsN2ZVc2JsclcwNFBFVVZsbnhzTFdjN0JYM1hvcklFR3BNYVlnQVVFTnVVbGMxVWdCa2xyTjVHMUdZWTk1cU1YS1gtOWlkOEViTWFURzZ0Yk82NDJCeE5EdktoSXQwb3FQbnpXZUlTVGFzd3lvcUVNZlI5TGx2NUlQdmRFZWdUTTJmYW9KMWVPVkk?oc=5",
-       "publisher": "Sodo Mojo",
-       "created": "2026-11-26T21:39:21+00:00"
+       "title": "The latest on reported Mariners free agent target Seiya Suzuki",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeExzYnFmX0lMWlVuMTFXWFR1MUhJTDYxOHlnX1BTTW1Kc2N3ekdoTldINVJhYmtTR1YtUEFVNmNBSXZ4WXU3RUxSeTdacTYzYmgyOWxMVnNwUDlLaTlwTTRObU1XQTlhUmR1andPa0JnUVd3dEYweGU1MGlESldWTjd6ZmFHTlptbXFHMEN3cmhpWlZLRk00N0hCNHdUbnA5S0xTOTl2TQ?oc=5",
+       "publisher": "Seattle Sports",
+       "created": "2026-11-27T19:03:42+00:00"
       },
       {
-       "title": "MLB: Mariners Going All-In for Elite Relief Trio—An All-Star and Two World Series Champs in the Mix",
-       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcDFFTFNyWXc4bV93cVpySUNpcXl1WXZsNDZHeGRJNXNJUzcxM2hDUm9OMkpLZ2pHVEd5X2NaOG8yb3E3UHVHNWNiV0N2MXAwcXR3NnczQi1kNG93N3Z1aWI4SjI1VU1lRmFCTnhvbnItRWp5SU1sanh4Um9oVGN5VE0zQjMxOWR1V21CMjB6NTdfcnpyZFFRVXF5VHRCMHVBaWVMTG9WSVZWLU52Q01kOGRYT29lRUZrUGtTRmFHT0NTMXJqV3RNazlpbXE0SjFHWEc1LXJ1b2F0TTF3MnfSAeMBQVVfeXFMTURoM3VUNWhVTTNBWkZ4dnB1Q3lVT1VPQlM5TnRyTlhONWZXT3RsWmx5TzFaVFI0TWRzWG5mRFBGYjhnLW5xRHVoY3RuUENwMXBRMG9ST2E3czN5bFBPUnB6WUE3TmZoWmJjcjBHeXJQQ3lxaUJGdU5HN3pTRjFtSC1RVmV6c0dQM1lZdV92OE5LMDVoSkRYNmVZSVFDVnEzaGtvd1pCNDhJM1F4RWM0SFR1OEhYdDM2RnUxNFBVTmNXUVV0TWVUOEh2S3htcnZqRUJCcjFTQ0RvNzJ3NUhvVTIzNGc?oc=5",
-       "publisher": "Al Bat",
-       "created": "2026-11-26T18:00:27+00:00"
+       "title": "Cubs’ Teruaki Sato Deal Raises the Price of the Mariners’ Seiya Suzuki Pursuit",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYmFhcEhaNkVEdjUyckZuYkJlY0lQbDZ6UEVreFphZzAtYkdnZDF6MkdqajRZNDVGOUtibFQyTHNvTXlCR3B5OWhiM1RyUWZoNE13ek1ad2xPcC11b0tRNnVlWWlwUGlwUTNLbTJXU21mRWplYzFUWUZTdEx4cjRkVHcwQVQwcXBqMEdYeFNKVEJadUdWc292RDZSNnhRQng4TG5CR1pPTGI4QVVBWk9rcW41RQ?oc=5",
+       "publisher": "Sports Illustrated",
+       "created": "2026-11-27T18:28:23+00:00"
       },
       {
-       "title": "Will the Mariners Sign Bryan Abreu, Alex Vesia, or Gregory Soto?",
-       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSm8wMG5BYUdDR0Nfc2RGN2tEQVVfa3lMOUlCYWV4Wm94bUptYk9KbkdpV0x3MU1CcTBVY0UwTGtTN0VkZGNjNHRZUElvZ3d4QnhFdG1rWlFETnBOUnd6WEtfNEVXVmFjOUdHUlg3M3ZCdHE0N0pIOGtLWE1yMTRLR28zcTlsWS00d19Mck5vdkVVWTRCd2J2OVJncw?oc=5",
-       "publisher": "BVM Sports",
-       "created": "2026-11-26T17:31:49+00:00"
+       "title": "Mariners sign former top 100 prospect to minors deal",
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXQyTWZXa1hvUkQzMy0zVlVTTWw0SHlzUGVvQXJTM25qRDZUbXhBWUlGMGVGYmRuMHNIRDBFSFNOTTJmQnJMbm55M2owelZQTGZhNGJXb243T2xxd1JrdGRSaGgtVlhJT0FnMnoySkJaVURpYmRXRy1DSHpiYjdtSWJzS3M2RjJiVWJuVXNkWmlJczFvUXNUenRLUDhtbVY5bEkxdG8zb1dadUZJbk1WT0VhZ3J5bUNza1lEREJpUDJiNzBJY2c?oc=5",
+       "publisher": "Seattle Sports",
+       "created": "2026-11-27T16:19:45+00:00"
       }
      ]
     }
@@ -315,16 +315,16 @@
        "created": "2026-11-25T00:44:42+00:00"
       },
       {
-       "title": "Mason’s 31 Points Leads Spartans Past UC San Diego to Close Out Acrisure Series",
-       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORmR1UXIwTGpYS0FzWTE2eGxJYWpZQkp6V1Z3Q3pKd0hWRlo2ZUdmaGJaNVBPejlnTE13VHF3c3NsZDlqYV9faWdoY043dnJGa2VrX0Vaa1g2OEZJUk16WWNpSURQSGRCSHB5Nk9URlhOQjhXUlE4LTB1aVNWbTFKU0lvTjJqYmJ6bzlXTEQ2XzFXUi13c1JfaHo2bElGZVlFZ3VsS2VNaUxNdUdLUVluZWNxczRLTmxjbHZz?oc=5",
-       "publisher": "San Jose State Spartans",
-       "created": "2026-11-24T08:29:33+00:00"
+       "title": "San Jose State vs. UC San Diego Men’s Basketball Highlights (Nov. 23, 2026)",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTlgwVDF6aFg5TkhNREhNSGU0UEtiT3o2aE5taHViYTRHQ3dSTzB5bFIyU2JITkl5RE0yeDlYWldtenBkM1lHbmtxdFNlcWxaNU8zVXd2YS1tcURqRXVIc3J6eGdZdWtjQ3EteFk1dHZWZnNyVFRUNUpvYWh3V3lkd1dwUks1U1hVdVpQcHF6d1c4ZVNsTGR2Q1ZhN04?oc=5",
+       "publisher": "SSBCrack",
+       "created": "2026-11-24T08:43:10+00:00"
       },
       {
-       "title": "San José State 88-79 UC San Diego (Nov 23, 2026) Game Recap",
-       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81OTE3QmNycXdUMHFCTDNCRUxfVXUwbmZCcnFVOUN6Q3RXaTV0RXZRUUNrcVZUNlV0SzRIZW9JVDBvNVVlandXR1psLVFOSkFpdXdaeXhSZzhJS1VtV25adVk1aTBYOTVDdVNaWjhnXzU5dGU0MDdVZw?oc=5",
-       "publisher": "ESPN",
-       "created": "2026-11-24T07:22:24+00:00"
+       "title": "Mekhi Mason scores career-high 31 to lead San Jose State over UC San Diego 88-79",
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR3BxY2pYU2thMkFfdXA2SlRBcTE1X2QyMDhMSlZILVpCTmpXX3l5RVJLVkJxNEpsd0hYVXlQQmUzLUEtM2pEUjd0enB5WDhxMkx1VGI4alhGU1N1SUJuS0g5TGYyVmprWkJaWi1FNGt3dTdONi1teUN6UG5CN1JsdG4xNVFVREsyQWo2bklKWV9YbE3SAZgBQVVfeXFMTkU1MGwyakN4LWlQWGc2cXJjRnVGWHhKa1hPVFQ2QmRfczRoTGtOdFQtRkZBMV9WRFBBMmFZRGZ5THF2Q1U3azFXYmQ5TlRhZ2JUQjZXSWRrdDlYYm50MmlXeVJfenpsV0EwdUxRcUxHTmMtclRSVlFVVWdMWlQtZXJPaThTYzhtV0JKT2tvaEJuTUJKcGM0VmE?oc=5",
+       "publisher": "ABC News - Breaking News, Latest News and Videos",
+       "created": "2026-11-24T07:58:59+00:00"
       }
      ]
     },
@@ -364,22 +364,22 @@
      },
      "headlines": [
       {
-       "title": "Duke beats UConn, Clemson loses at the buzzer in ACC men’s basketball roundup",
-       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rRndLbHRXajFnZFB6cU05ZnpNeFZ4a0dnWFBhMi15Wkpfb3hZbEdZNGo3dldmUnZfTHdwQklOS0lLMllrbnVhS2p4WEdvRlZaY3RqZ1MzSjU4S09zRzJwRDMzeDhpRkhGNjQ1SlY0Yw?oc=5",
-       "publisher": "ACC Sports Journal",
-       "created": "2026-11-26T18:42:50+00:00"
+       "title": "Stanford Basketball Falls to Saint Louis",
+       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY1RjcG5zbl9xT2RUME4yWHJTRDlrMnhKMHI0Z1FZdjE3dTE5RXBPbXdQSU94Q043SlkzU3NSSXdTOFVMZkZtNjcwM0REejdZMkJ2VzBmTWN6LVplNkFoWjUzX1NsMDEzNUlnNUlpY1REdGFoX3E2cHNLbVhKRDFPYXRDRkhxclBYeGhJejM0a3k?oc=5",
+       "publisher": "roundtable.io",
+       "created": "2026-11-27T18:43:04+00:00"
       },
       {
-       "title": "Stanford vs. St. Louis Game Highlights | 2026-27 ACC Men’s Basketball",
-       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSVVDWWU2a1FBc0J1cUxFQjJoRmx3NDRVd25fbXJGS1gyR3k4Umpia2lOZVN0MEJ4U0tjV3IzZ2ZIVVJNSk90TkE2R2tJN3o5NExBZjRueVVkSE9tRE5LdmRoanRlQUFLMnR6OXFZVV93cWZhMHYtYm1TMFlrNndtY1dYUUJ5RnJaWDdERFl4akpYMjRvZFVWVnVteGo2WU0?oc=5",
-       "publisher": "BVM Sports",
-       "created": "2026-11-26T13:09:35+00:00"
+       "title": "Recap: No. 6 Stanford Men’s Soccer falls to No. 3 Kansas City in NCAA Tournament",
+       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNG5GNjRrdXZlZFVhLWFOZXR4U2kzdEFJMVhlZTN6X1JlSzR0UHNXbXJ6SG94M0xtampMRDFfeHM1T0ZoYzAyeUlONFFlNUZQVURHYlZ6QUwtZkgxUEZVSUxUQnZubE9GNk02dGl2Q0w4aDhpd2laeFQ0YlFUOUJzRExFeWZXMlcxZC16anBiTG5iaWE5S3VFT2pOMFN6WG42VVpzREJuNkFRaU1rQTdNUE94bTBUQ0o2VXhsTkRsTWJjc1lJeHo5ZnUxbw?oc=5",
+       "publisher": "On3",
+       "created": "2026-11-27T09:47:19+00:00"
       },
       {
-       "title": "Price Scores 31 But Stanford Falls Late to Saint Louis",
-       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa3VxR3N1SVFTMHJtVGxfZjFTNnFBM3Fzenl2akNfeTAxSFpTY295NXg2dGZZSTA4QS1HNXZNNmJQTmlhc3laelF4S21rdFBDUWNYYzEzUW5QdFRlRUdnSnFPRUN2dVMtakh4OElrX3JKa21WZDQ3VTBOY3JiQk9oSzdlQVR3cEdIdmw4dlpSMHlfV0RzbVV5bA?oc=5",
-       "publisher": "Stanford Cardinal",
-       "created": "2026-11-26T09:36:14+00:00"
+       "title": "Stanford Women’s Basketball has rough trip to Pacific Northwest; Hawaii trip next",
+       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMW9ocHRrQ1ZtRWp3UGRGQ04tcTQycnV3RENwemtHMjJSdnYySEV2Y2dGQ3dURV9vNUhBa3ZaUkFnS1hteW91YTZ6ZWxaSy1ubzdhV3RUb2ZBYWEwMDRmMUlfM19WYVc4Q2YweUdWUjN1SnkxNFh1RUY1LVBmUkRLX0R2UFIwN3EwVS0wUlBPNGVodjc2ODNvWmFMMXRtdk9STExtRlJ4eEhzNlhqU1ZhUlkwakNWNXVpOWYySzliSFphZ09sd3VFMTFXbUtwd2s?oc=5",
+       "publisher": "On3",
+       "created": "2026-11-27T00:54:51+00:00"
       }
      ]
     },
@@ -419,22 +419,22 @@
      },
      "headlines": [
       {
-       "title": "American Writing Awards Announces the 2026 Sports Book of the Year Winners",
-       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWkdscG84aGRuZVFvVy1MNi1DejllRWlEUDBJY1dyanZnb0RvMk04eXFXNjBhb0x4WDdnR2RqajBhajIydzVKamllYWlfYXF5dGc1XzZoOGxZd0doa2hBSGtvcUFSdnIySUJsY21XWXg5dG5tS3JtMDhIeVE5YllOektfblB1djBHbkRIcFlyWVFuSFcwNjdwRUlDa1VlSjNuRk53TDhBcDVOUEtfN29BTENHN3dSc3BCZnRHdHVGNXNvT0NnNUJQMzhB?oc=5",
-       "publisher": "The Detroit News",
-       "created": "2026-11-26T12:07:02+00:00"
+       "title": "Florida State, Stanford, Butler are making their push for 4-star PG Kenyon St. Louis",
+       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSEk1cktWT0J5RDdQLWxyeTgtenk4QnhTMEJyckN0ZEdNamRhOFFpM3hLZzFibEV5NDJhOVhRTDdESmdVOERGMlNxX0tQVldSRThPbTQ3OFdNZ3lKbmk3dTdBTkwzdVFDZUVhNzZ1c2NPU0tTbUlfUDB5V0FZT21Wc3JySGdzWjRQRGVCMUF3U0xuWXNIVHA2RGJRVW1HTDNGYy1wbEFuSHpMNWFzS3pXMWZ1cVZPNDJhY2ZCbVRLNy15SXE0XzRaUUdlendfRWE5X2c?oc=5",
+       "publisher": "On3",
+       "created": "2026-11-27T18:16:00+00:00"
       },
       {
-       "title": "Columbia Women's Basketball Returns to Hawaii After 16 Years",
-       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByX1RMTE1NenR6UjdyVTg1dnRsUU5kd1lOSFgyYWhfMnlGcWxYTFpRM05tVWxTaWJMZ2JyRHZqSnk1ZWxRMjdzTWJJME5WZDlUeW14NTZnMjRtNXlMSmZNNDVXMlczNlU?oc=5",
-       "publisher": "cwibc.co.id",
-       "created": "2026-11-26T06:45:19+00:00"
+       "title": "Women's Basketball Beats Xavier at Paradise Jam",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRTNZQmFHVVNRaUY3bnZyLThDYWVJaTZybEZmdUs2dUZLME43cTdBTXBKMnhyWW1VbURjU21OM2lYWjB2cnFHczlFRXFjUFI4RG83cDA1c3lGZnIyanhFWjVtVzFxMjJLM3l5WkEwd1IyZGdtN3VNY0x6Z2tYMllFeWFETWFEU1NTRXBtVVVYOFRNbmktemQyY2lCdFA4Zw?oc=5",
+       "publisher": "Santa Clara Broncos",
+       "created": "2026-11-27T03:40:07+00:00"
       },
       {
-       "title": "Columbia Women's Basketball Faces Three Opponents in Hawaii",
-       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91c181aUpsY2ZJT01iZTV3b2hVdnJ0MDhIOTBjRUpXRk10dDQ3MkR3LVJNMHFLQWpHTHJkZVNDNXdPb0ZCNmlwWnJjSDlJM3ZXYUtrQXloZkZ6ano3OTdsR2JESW1kT0NnOE00cA?oc=5",
-       "publisher": "SuaraGarut.ID",
-       "created": "2026-11-26T06:09:04+00:00"
+       "title": "ACC Women’s Basketball Roundup, Nov. 26: Notre Dame, Clemson, Syracuse",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFSW5LNjh0ZlpucUxpOWxTVTNfMXlaTWktem5jeGx6LWJHSjNfVHdUdXVtS1NPNW1xUjdRdHBIVTZ4RUg4aWphR3pPN2p4RDVvVHdHUkY4dy1iWVU2LXBZT245UHBvVjJlQmdteWt6aHJiQQ?oc=5",
+       "publisher": "ACC Sports Journal",
+       "created": "2026-11-27T02:07:25+00:00"
       }
      ]
     },
@@ -474,6 +474,12 @@
      },
      "headlines": [
       {
+       "title": "Xavier Musketeers vs. Santa Clara Broncos: Game Highlights",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSNVNwT2hsdWhwWV9hYWxnVnZ2ZnJPcDhFY1dMcy13cnBRcG1kMVp1Mkp4LVBybUtVVkR3TlV2d0lIbHNOLXBHeHYwa0dOSzFxaVV1Y2ZIWDk3dw?oc=5",
+       "publisher": "ESPN",
+       "created": "2026-11-27T03:29:55+00:00"
+      },
+      {
        "title": "Nevada dominates Santa Clara in the Acrisure Series",
        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQckNVYVdpRFBwZGY0blBRR3NxbVA4aEI1UzFSU0hBN2Q5cmpMNkVzZ3J1WEJka01ORXFhX1lIU2F1NksxdzV4Z1d0NC1mVHFWN3M3SmZlaER6ZmRKVVZRSUFGbWUwaVlid1d1NkFxSkhobEFzaHpQeTdad3FRTk52YkxORXhxTk1idDQtdlMwdXRUTGRIclRrSFVkbk1uaEZBdGZBTUNNbnNWQlhVMXZWRFNrU3lQQQ?oc=5",
        "publisher": "University of Nevada Athletics",
@@ -484,12 +490,6 @@
        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcnFGdlFQWlMzTVNzYXV4TmJmM1Z5S1g4WnhwSzl3Z001RDJHaWRlaXFtdjJXWkNlT0xtMVNXTlpCck03WEU4Q0ZtRDBkYTVLNWctWEtGVGs3NlpfMWtTaUh3Tjl3VTdnVjNLbWlMY1MzYm45UXBZNGZTdjVNUFd6OEJFN09WUHhIX0hQRzg2UmU4OUNuM2I2VWREU3hvZHpwblgwQ0JmM1gwXzN4Um5WWDF0V2F2VXBYZFE?oc=5",
        "publisher": "Santa Clara Broncos",
        "created": "2026-11-25T03:29:23+00:00"
-      },
-      {
-       "title": "Hot-shooting Nevada routs Santa Clara, 85-66",
-       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9neVdXUTJjd0hQR3J5RndKczAwMFlzTldFWDlIRW5mU052MUhEYVJaWW41Mk9vbzk0M1pXU1JOZmFGbEFwWGVHY2ZtOExJS1ZuMzhyekU2NTlFS2tzYVlhZlFuU2lZN1N3Znln?oc=5",
-       "publisher": "Tacoma News Tribune",
-       "created": "2026-11-25T02:51:00+00:00"
       }
      ]
     },
@@ -529,77 +529,77 @@
      },
      "headlines": [
       {
-       "title": "Thursday Dots: Eugenetic Experimentation",
-       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmExWGREMVduZGV1UlNNZm8xYVEwRXVMV0xGMktHZDNxV0JNdXBBRUlCaVlSYmVzTzRrUFFKc2VaNjRGMi12YVFqSTVjMHB1b1lRVlIwX25wZGhVYXMxY1VCQ2RsdmZNSE9hQzJ1MUVVaDlnWmppWUxwZXhWTUNHeXB5bXdjQmJ0cTdfTndmSWNEbVRlZ1M0UGVxWmowRXN2ZEpIc1p3?oc=5",
-       "publisher": "Yahoo Sports",
-       "created": "2026-11-26T13:43:00+00:00"
+       "title": "Watch Norfolk State vs Washington Live: Streaming, TV Channel & Start Time (Nov 29, 2026) - CBB",
+       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM1RPX3JiTHBzeVloNFYzLUZDN21IdHVNUDRVXy1YYTh3aUEwcmw4dHhpajRMNndhbVhmOVJBMDVJcFVHdEJBQmplQmdSZXkwOWhHcWZVQVI0Sm9ldmhwOG40Z2UzYVFjdHlQZlY3VUk1YlU2VDZGS2pVTGlaTnd5N3drOFBVLTFTczExb3pUdmxRdGlhbzIxWFNfakVfUnV5X05Nek15eFhKX0UxbmpyRlFwNnN1bVEycUtCYU1yQ1N3bG82Z1VJ?oc=5",
+       "publisher": "FOX One",
+       "created": "2026-11-27T20:23:33+00:00"
       },
       {
-       "title": "Dzepina's 31 Not Enough In 80-78 Loss to VCU",
-       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMXZIUTBkQVUyZEZBNFFJTXZzNUd5THA3dUVURDZfRjNoUERjUFZGWW0tMkVVU0dpVTNfbVNxdzdTZHowTi14T0JNX0k0NmY0S1ZqYkpLakVQYTJHOWhTaldsaUVaM3VFRXl1WkZGMkJHcS1LS1RTcGdqbTRRTnlzODRtcU9xckJXM0djOXpPREFJdGhFUl9DMXFpaEJRSnpGWGEtVw?oc=5",
-       "publisher": "University of Washington Athletics",
-       "created": "2026-11-26T08:24:08+00:00"
+       "title": "Watch Northeastern vs Northwestern Live Today: Streaming, TV Channel & Start Time (Nov 27, 2026) - CBB",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVWNOOWp0anFQNDV3emZSMXo0TXFjT01OOC1pS0hKbzc1alRnZ21RZ2o5NWNvUmlJaWlheTg1WFY1Z3FNcnlnQW9BbnZqMXN0Ykt2akYzQmdYQzd5TXhtY3Jpa0x2cEh6MXk0Zm8ydkRsZzNaSlJrLW02NXpmSFA2c193QnBMdTRHNWRLVE93ckZpZmxCb1lTaGlZQTctYXVmbVllRC1PV1dFd1FGeFpJRDhfSktVNnFnRzh6V3NJelB3QmpyUmhGMg?oc=5",
+       "publisher": "FOX One",
+       "created": "2026-11-27T20:23:33+00:00"
       },
       {
-       "title": "UW MBB: Washington Huskies Split Final Pair of Games in Maui Invitational",
-       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX3IxRVpfeUhHTGREaTZ5SFJQLWZ2U3NRRlp3US1McmY0aGx4Rk0tSW50Sk03VmFLRWNudFM4QkJPNE9naWh3YjZTZ2szS1RLM1dMVTdzNkIxNGpPRnZwNEZBVTRvYkZYV0xpNDBOdVlrS3I2aDhPYjFrUVUxYkZoU2FMV2E0UEdtbV9UVE9lOHo3dFFXbXZ4eEo0VGdWQ2NsVWdQM20yY0ZGXzZmWEp3QmxsOF9yVjBzY285eXh3?oc=5",
-       "publisher": "roundtable.io",
-       "created": "2026-11-26T07:37:39+00:00"
+       "title": "Iowa vs. Nebraska: Hawkeyes' Keys to Victory in a Program-Defining Moment",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOEMwWEplT0R2Y19iQ2pza1FUek1zZXlhNnhnQTR1aTlzRkVzOXNuN3h4UnlJaDAxVUFzZlNWYkR2dzFLV25KWGhFMkktd3lKUU16Z25lSDFOdW1uSzg5WUJRa2xHSWR5M3FwNVRHMEN3amxkcWhPT3J1bGVvY1NJYUQwQXB1Zw?oc=5",
+       "publisher": "Sports Illustrated",
+       "created": "2026-11-27T10:45:00+00:00"
       }
      ]
     },
     {
      "name": "Washington women",
      "errors": [],
-     "record": "6-0",
+     "record": "7-0",
      "standing": "1st in Big Ten",
      "espn_url": "https://www.espn.com/womens-college-basketball/team/schedule/_/id/264",
      "last": {
-      "date": "2026-11-22T22:00Z",
+      "date": "2026-11-27T18:30Z",
       "state": "post",
       "completed": true,
       "detail": "Final",
-      "home": true,
-      "neutral": false,
-      "opponent": "Cal Poly",
-      "opponent_rank": null,
-      "us": "93",
-      "them": "42",
-      "won": true,
-      "tv": "B1G+"
-     },
-     "next": {
-      "date": "2026-11-27T18:30Z",
-      "state": "pre",
-      "completed": false,
-      "detail": "11/27 - 1:30 PM EST",
-      "home": true,
+      "home": false,
       "neutral": true,
       "opponent": "Oklahoma St",
+      "opponent_rank": null,
+      "us": "73",
+      "them": "62",
+      "won": true,
+      "tv": "BDG Sports Live"
+     },
+     "next": {
+      "date": "2026-11-29T18:00Z",
+      "state": "pre",
+      "completed": false,
+      "detail": "11/29 - 1:00 PM EST",
+      "home": true,
+      "neutral": true,
+      "opponent": "UMass",
       "opponent_rank": null,
       "us": null,
       "them": null,
       "won": null,
-      "tv": "BDG Sports Live"
+      "tv": null
      },
      "headlines": [
       {
-       "title": "How UW women's basketball is building a special bond with fans",
-       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTUJkeTB4S3RPaHBVUkdTV1ljcHFfOWY0bXlWX05hbmQ3Q1RnSmxZaG1nQVRVazFQOFhWMmdERzBFdXpqaVdrR0hkS29oeGFaMFB2RG92TkNIZkNKZ0R5QlFIMUFNa19ZZFdpNG8zRGN1S2JMeXRSOFNZRzZEMVZuNGNUaWJkMGZUQjhmZTgwMU1GOG5jQXpzN3FZS0laZ21xSm9PT1VCWkdPeEhXdkQ5TEl4aTNxQTJRemREd2c3U0E1WmxzbVBBUnl3?oc=5",
-       "publisher": "The Seattle Times",
-       "created": "2026-11-26T14:00:00+00:00"
+       "title": "Cowgirls Fall to No. 16 Washington Without Liv McGill",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLWF1TzJiS3ZrS2MySEkzaTQ3QUp6bWRGZGNvYjFLX2pYSFZUTmJNY3lpSUcycDZWOVRpbU1VNlVYdEN1TkNDTVFOZ010M1ZaTkticDNyakdwN3JzeVpvUV9iOERQU3RaajBFTjlOd3haN0w4clZTS3RHRzJxTWV1c1FMWXBLRUVVWUFuTEM1blBOVXJYZlEydEthYWYxNXBMTXROcUlFQ0s?oc=5",
+       "publisher": "roundtable.io",
+       "created": "2026-11-27T21:15:26+00:00"
       },
       {
-       "title": "Iowa women's basketball drops in USA TODAY Sports Coaches Poll",
-       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSGMyQ1pqUTd1Q3pMTFpRaEltY2szN19vR2c5VlJSejEtT05LZDhjc0lpMENYRWUwaTJXOXJQZkx2a2xETkJCTWVwaUk1MDQxamJvdktXUzJWMHU3WEF3UlRWZEdhelhPTEFRdF9ieEFTSUtmckJuQU5jYzVUYmZBRTM0N3lPQXpOajI5N1BuQVh4OUtDLUw1OEpra2J5LVJ0Rm1paWtXNEpGLVhuaGVuaXhHZExTM1hfQkFDRjB1Z1BWLW5oMnRFalp6NXNOcHpwblUzZHhfTjNaeW9HMVNDeDlDUjVEcEREYkxQcUw0Yw?oc=5",
-       "publisher": "Hawkeyes Wire",
-       "created": "2026-11-26T11:45:00+00:00"
+       "title": "No. 16 Huskies women remain unbeaten in 73-62 win vs Oklahoma St.",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdzFWV29DYTdYc3hlRDZlTHRua1VxeVFHbWR0M2gzYmc2VW9BMk9aWlktcEFUbEhrNlRQMkZ3eWhDVmVpc3oxeHE3OURTb016eW8tR1AzaHlxcjBObzFtTnZ4bzRNb2x0eFdGZDNURW8yUmNkS0tsbUNlLWFKeTItbk94R3AySVF2WGxvbGNTeG1iQTFyUU00TUxtNEJSUnl1WWl3bEVmMWo?oc=5",
+       "publisher": "Seattle Sports",
+       "created": "2026-11-27T21:11:49+00:00"
       },
       {
-       "title": "VCU Faces Washington at Lahaina Civic Center",
-       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11M3l5VzBSNE4xVEx5bElDMXNUckhTVHB5bmZ3azF3WkNaRVc2Ylg5RERHdER4Z3dEWDJnZjNJZ0YxdUFzeVlkQUJuX09DMUZkNm5WazMxZzh3SW02OGdqY2MtRXBGWjg?oc=5",
-       "publisher": "Demokratis.co.id",
-       "created": "2026-11-26T04:02:40+00:00"
+       "title": "Cowgirls drop Coconut Hoops opener to No. 16/17 Washington, 73-62",
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTGdNV3VTb2ZERHkzdXNEOGVWaDRwQTBKcV96VVFXWWFrUnNqRlNPUDl5cFBxeUMzbnBXRDYzcXJWcTZSSU55cV91cHEtV0tlQUx3WDRGd3hZTEoxdVZVeVR4MXRWaG9takxMRW80UXViZUZ2S3IyY3I5aEVXVWJBbWxrWC04SFlWdmVnc18yY0IxYmFHRGN2N2FiSllINU5hRy1BOXIzTE85dzFDSGFMTllpZ0l6Uzc5ZXc?oc=5",
+       "publisher": "Oklahoma State University Athletics",
+       "created": "2026-11-27T21:01:36+00:00"
       }
      ]
     }
